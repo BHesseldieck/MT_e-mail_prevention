@@ -1,0 +1,781 @@
+From 1557336321365777406@xxx Mon Jan 23 17:14:11 +0000 2017
+X-GM-THRID: 1557336321365777406
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1290686qge;
+        Mon, 23 Jan 2017 09:14:11 -0800 (PST)
+X-Received: by 10.36.95.134 with SMTP id r128mr15147506itb.15.1485191651602;
+        Mon, 23 Jan 2017 09:14:11 -0800 (PST)
+Return-Path: <bounce-7013942_HTML-785663787-62626976-10729513-138@bounce.e.kraftfoods.com>
+Received: from mta.e.kraftfoods.com (mta.e.kraftfoods.com. [207.250.68.197])
+        by mx.google.com with ESMTP id u66si14305399ioi.236.2017.01.23.09.14.11
+        for <michael.mayer1001@gmail.com>;
+        Mon, 23 Jan 2017 09:14:11 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-7013942_html-785663787-62626976-10729513-138@bounce.e.kraftfoods.com designates 207.250.68.197 as permitted sender) client-ip=207.250.68.197;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@e.kraftfoods.com;
+       spf=pass (google.com: domain of bounce-7013942_html-785663787-62626976-10729513-138@bounce.e.kraftfoods.com designates 207.250.68.197 as permitted sender) smtp.mailfrom=bounce-7013942_HTML-785663787-62626976-10729513-138@bounce.e.kraftfoods.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=e.kraftfoods.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type:Content-Transfer-Encoding; i=kraft.kitchens@e.kraftfoods.com;
+ bh=KbKmBsA0swepGKqDVz42ofVybck=;
+ b=ceE+orvD6rcINwsayfIDYP+BD7JxLPAFFaRSbfuY/ZfYIg09vv5cTIvLvbtPduCj5O8kUbC2Gy2W
+   uIZF/L8jsMuLNnBZfj+DO85+n9k00V/2Psuvi96ukHZFWpqTDD5nuTxF9H6e6M9g5QQysM9XJ1D3
+   4JBJ8ggnM9srrZTgVfs=
+Received: by mta.e.kraftfoods.com id hgosu6163hsk for <michael.mayer1001@gmail.com>; Mon, 23 Jan 2017 11:14:06 -0600 (envelope-from <bounce-7013942_HTML-785663787-62626976-10729513-138@bounce.e.kraftfoods.com>)
+From: "Kraft Recipes | Make Tonight Delicious" <kraft.kitchens@e.kraftfoods.com>
+To: <michael.mayer1001@gmail.com>
+Subject: Easy Italian Baked Pasta
+Date: Mon, 23 Jan 2017 11:14:04 -0600
+List-Unsubscribe: <mailto:leave-fc81137074670d79777b28313958-fe1613787062027e721c77-fe531272736602747212-fe63157072660d787417-ff6315737d@leave.e.kraftfoods.com>
+MIME-Version: 1.0
+Reply-To: "Kraft US" <reply-fe531272736602747212-7013942_HTML-785663787-10729513-138@e.kraftfoods.com>
+List-ID: <10729513_62626976.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 10729513_62626976
+Message-ID: <d33ecf7e-87f4-46c5-be0f-ea3f7fc923f1@xtinmta167.xt.local>
+Feedback-ID: 10729513:62626976:207.250.68.197:sfmktgcld
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Kraft make tonight delicious...</title>
+<style type="text/css">
+/* Forces Hotmail to display emails at full width */
+.ReadMsgBody {
+	width: 100%;
+}
+/*Hotmail table centering fix*/
+.ExternalClass {
+	width: 100%;
+}
+/* Forces Hotmail/Outlook to display normal line spacing*/
+.ExternalClass * {
+	line-height: 100%;
+}
+/*Yahoo paragraph fix*/
+p {
+	margin: 1em 0;
+}
+/*This resolves the Outlook 07, 10, and Gmail td padding issue fix*/
+table td {
+	border-collapse: collapse;
+}
+/*viewport width scaling for all devices*/
+@-ms-viewport {
+width: device-width;
+}
+/*This resolves the issue when iphone puts links on dates, etc.*/
+.appleLinks {
+	color: inherit;
+	text-decoration: none;
+}
+.appleLinks a {
+	color: inherit;
+	text-decoration: none;
+}
+
+/*Mobile - Media Queries Starts - 320X480 Screen*/
+@media screen and (max-width: 480px), screen and (max-device-width: 480px) {
+body {
+	-webkit-text-size-adjust: none;
+}
+/*Do not show in mobiles*/
+*.nomobile {
+	display: none !important;
+}
+/*Shows in mobiles*/
+*.show {
+	display: block !important;
+	margin: 0 !important;
+	overflow: visible !important;
+	width: auto !important;
+	max-height: inherit !important;
+	line-height: inherit !important;
+}
+/*Table,Td resize*/
+table[class=resize_table_to_320], td[class=resize_table_to_320] {
+	width: 320px !important;
+	height: auto !important;
+	margin: 0 auto;
+	border: 0 !important;
+	overflow: hidden !important;
+}
+th[class="mob_dropcol"], table[class="mob_dropcol"] {
+	display: block !important;
+	width: 100% !important;
+	float: left;
+	padding: 0 !important;
+	height: auto;
+}
+th[class="splitcol"] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+}
+th[class="splitcol1"] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+	padding-left: 0px !important;
+	padding-top: 20px !important;
+	padding-right: 0px !important;
+	margin-bottom: 20px;
+}
+td[class="body_pad"] {
+	padding: 18px 0px 0px 0px !important;
+}
+td[class="ad_padding"] {
+	padding: 5px 0px 5px 0px !important;
+}
+th[class="mob_dropcol3"] {
+	padding-left: 0px !important;
+	display: block !important;
+	width: 320px !important;
+	float: left;
+	height: auto;
+}
+td[class="resize_pretxt"] {
+	font-size: 12px !important;
+	padding: 20px 0px 10px 13px !important;
+}
+td[class="resize_pretxt1"] {
+	font-size: 13px !important;
+	padding: 0px 0px 21px 13px !important;
+}
+td[class="kraft_pad"] {
+	padding-left: 16px !important;
+	padding-bottom: 13px;
+}
+img[class="kraftlogo"] {
+	width: 101px !important;
+	height: 39px !important;
+}
+img[class="hero"] {
+	width: 320px !important;
+	height: 213px !important;
+}
+td[class="brandpad"] {
+	padding-top: 30px !important;
+	padding-bottom: 0px !important;
+}
+td[class="img1_pad"] {
+	padding-right: 0px !important;
+	padding-bottom: 20px !important;
+}
+img[class="img1"] {
+	width: 155px !important;
+	height: 103px !important;
+}
+img[class="img2"] {
+	width: 155px !important;
+	height: 103px !important;
+}
+img[class="img3"] {
+	width: 155px !important;
+	height: 103px !important;
+}
+td[class="img7_pad"] {
+	padding-left: 0px !important;
+}
+img[class="img7"] {
+	width: 155px !important;
+	height: 103px !important;
+}
+td[class="bdtxt2"] {
+	background: url(http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_M_bdtxt2.jpg) no-repeat !important;
+	background-size: 320px 95px !important;
+	width: 320px !important;
+	height: 95px !important;
+	display: block !important;
+}
+td[class="bdbtn4_padtop"] {
+	padding-top: 19px;
+}
+td[class="kraft_top"] {
+	padding-top: 19px !important;
+}
+img[class="resize_shadow"] {
+	width: 320px !important;
+	height: 22px !important;
+}
+td[class="img6_padtop"] {
+	padding-top: 24px !important;
+}
+a[class="img6"] {
+	background: url(http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_M_img6.jpg) no-repeat !important;
+	background-size: 320px 486px !important;
+	width: 320px !important;
+	height: 486px !important;
+	display: block !important;
+}
+td[class="sub_mag_padtop"] {
+	padding-top: 24px !important;
+}
+a[class="sub_mag"] {
+	background: url(http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/MTD_treat_a_friend_m.jpg) no-repeat !important;
+	background-size: 320px 486px !important;
+	width: 320px !important;
+	height: 486px !important;
+	display: block !important;
+}
+td[class="img4_pad"] {
+	padding-left: 10px !important;
+	padding-right: 10px !important;
+}
+td[class="foot_pad"] {
+	padding: 29px 10px 5px 10px !important;
+	width: 300px !important;
+}
+td[class="mob_100%"], table[class="mob_100%"] {
+	width: 300px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	height: auto !important;
+}
+td[class="foottxt"] {
+	background: url(http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_M_foottxt.jpg) no-repeat !important;
+	background-size: 300px 40px !important;
+	width: 300px !important;
+	height: 40px !important;
+	display: block !important;
+}
+td[class="mob_padleft"] {
+	padding-left: 0px !important;
+	width: 41px !important;
+}
+img[class="resize_shadow2"] {
+	width: 320px !important;
+	height: 14px !important;
+}
+td[class="pad_btm"] {
+	padding: 17px 0px 30px 10px !important;
+}
+td[class="pad_res"] {
+	padding: 0px 14px 28px 12px !important;
+	width: 294px !important;
+	float: left !important;
+}
+td[class="resize_rgt"] {
+	padding-right: 10px !important;
+	padding-left: 9px !important;
+}
+td[class="resize_hgt"] {
+	height: 29px !important;
+	padding: 20px 0px 0px 100px !important;
+}
+td[class="resize_footpad"] {
+	padding: 10px 20px 19px 19px !important;
+}
+td[class="mob_pad6"] {
+	padding: 20px 11px 5px 7px !important;
+}
+img[class="mob_btn1"] {
+	width: 193px !important;
+	height: 33px !important;
+}
+img[class="mob_btn2"] {
+	width: 109px !important;
+	height: 33px !important;
+}
+/* ==New Social Footer== */
+td[class="brandpadnew"] {
+	padding-top: 18px !important;
+	padding-bottom: 18px !important;
+}
+td[class="socpad"] {
+	padding-top: 30px !important;
+}
+td[class="fthlpad"] {
+	padding: 22px 0px 13px 0px !important;
+}
+table[class="resize_table_to_320"], td[class="resize_table_to_320"] {
+	width: 320px !important;
+	height: auto;
+	margin: 0 auto;
+	overflow: hidden !important;
+}
+table[class="center"], td[class="center"] {
+	height: auto;
+	margin: 0 auto;
+	width: 100% !important;
+}
+table[class=resize_table_to_300], td[class=resize_table_to_300] {
+	width: 300px !important;
+	height: auto;
+	margin: 0 auto;
+}
+td[class="fullwd"], table[class="fullwd"] {
+	width: 100% !important;
+}
+td[class="socio_pad"] {
+	padding: 10px 20px 20px 20px !important;
+}
+td[class="cookimg"] {
+	background: url(http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/1/FF_M_footer_cooking.jpg) no-repeat !important;
+	width: 300px !important;
+	height: 40px !important;
+	background-size: 300px 40px !important;
+	display: block;
+	font-size: 0%;
+}
+td[class="fb"] {
+	padding-left: 33px !important;
+}
+td[class="google"] {
+	padding-left: 34px !important;
+}
+td[class="surp"] {
+	text-align: left !important;
+	width: 100% !important;
+	padding-left: 10px;
+	text-transform: lowercase !important;
+	font-weight: normal !important;
+	font-size: 14px !important;
+}
+td[class="nopad"], table[class="nopad"] {
+	padding: 0 0 !important;
+	width: 100% !important;
+}
+img[class="shadow1"] {
+	width: 320px !important;
+	height: 30px !important;
+}
+img[class="shadow2"] {
+	width: 320px !important;
+	height: 10px !important;
+}
+/* newly added */
+td[class="footerpad"] {
+	padding: 30px 15px 30px 15px !important;
+}
+th[class="splitcol"] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+}
+th[class="splitcol1"] {
+	width: 100% !important;
+	height: auto !important;
+	display: block !important;
+	padding-left: 0px !important;
+	padding-top: 20px !important;
+	padding-right: 0px !important;
+	margin-bottom: 20px;
+}
+td[class="borderbtm"] {
+	border-bottom: 2px dotted #666666 !important;
+}
+td[class="btmpad"] {
+	padding-bottom: 10px !important;
+}
+/* ==New Social Footer== */
+td[class="brandpadnew"] {
+	padding-top: 18px !important;
+	padding-bottom: 18px !important;
+}
+td[class="socpad"] {
+	padding-top: 30px !important;
+}
+td[class="fthlpad"] {
+	padding: 22px 0px 13px 0px !important;
+}
+</style>
+</head>
+<body style="background:#ffffff; margin: 0px; padding:0px; -webkit-text-size-adjust:none; -ms-text-size-adjust: none;" yahoo="fix">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="resize_table_to_320">
+  <tr>
+    <td align="left" valign="top" bgcolor="#ffffff" class="resize_table_to_320"><table class="resize_table_to_320" width="650" border="0" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+        <tr>
+          <td class="resize_table_to_320" width="650" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td class="resize_pretxt" align="left" valign="top" style="font-family:arial,helvetica,sans-serif; font-size:12px; font-weight:normal; line-height:15px; color: #666666; padding:5px 0px 20px 32px; mso-line-height-rule:exactly;"><a id="top" name="top"></a>Your dinner ideas for Monday, Jan 23, 2017.<br />
+                  <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677764bfb1c092380387aba574b39087d62c3dae0912c03cdb4831f794f133b83d18af674cbd816e45c77"  style="color:#666666;">coupons</a> | <a href="http://view.e.kraftfoods.com/?qs=79dca622c552250ffbb42961191d415d835a41a94490498810170da57670108245e55b119cb70dcbcd9e236d20f0d86603d39e92cf033731664095f8cbc4a6d3eb43fd96e7d00aac4cffdcd792527c5a"  style="color:#666666;">view online</a> | <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776bed324c31fa8e7ae7e4a907424513c48fd0d0376e625db29cf7b936759378ddc0c53eedf087be26c"  style="color:#666666;">visit our site</a> | <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776bddb59917ad2fdb7fdde363488eaf7c9d9f0f9ef35499a4e7fd2d214ff34c884ea69705e8565d363"  style="color:#666666;">unsubscribe</a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" class="btmpad"><table width="650" border="0" cellspacing="0" cellpadding="0" class="resize_table_to_320">
+              <tr>
+                <td align="left" valign="top" class="borderbtm"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tr>
+                      <td align="left" valign="top" style="padding-left:36px;" class="kraft_pad"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776eef08fc48168e14569fa26035e61b4e86c513e27689eed111022fafd68beb6737ce925676ef84b60"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ef4e3e;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_kraftlogo.jpg" width="108" height="42" border="0" alt="" title="" class="kraftlogo" ></a></td>
+                      <td width="269" align="left" valign="top" style="padding:0px 23px 13px 214px;" class="nopad"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" class="nomobile"><table border="0" cellpadding="0" cellspacing="0">
+                                <tr>
+                                  <td align="left" valign="top" class=""><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#f4f1ed;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_btn1.jpg" width="172" height="29" border="0" alt="MORE RECIPES"></td>
+                                  <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677763f7b37aa56d17a5d459bfff3ea4d01386278dbc5013a4ee98de1fe2dafed03a174c635029549d30b"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_btn2.jpg" width="97" height="29" border="0" alt="" title=""></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <!--[if !mso]><!-->
+                          <tr style="display:none; overflow:hidden; float:left; mso-hide:all; max-height:0px;" class="show">
+                            <td align="left" valign="top" style="padding-left:20px;"><table width="164" border="0" cellpadding="0" cellspacing="0" >
+                                <tr>
+                                  <td align="left" valign="top" style="font-family:arial,helvetica,sans-serif; font-size:18px; line-height:24px; color:#666666; font-weight:normal; text-align:left; padding-bottom:10px;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677762d2a889effb6ac757bba3ba200407c5fdec045f4230a4f6268980b120913785b2459a97c4227a6be"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ffffff;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/12/2014mtd_c_M_headtxt1.jpg" width="164" height="40" border="0" alt="" title=""></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <!--<![endif]-->
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" class="nomobile"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677762d2a889effb6ac757bba3ba200407c5fdec045f4230a4f6268980b120913785b2459a97c4227a6be"  target="_blank" style="text-decoration:none;" class="headimg"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ffffff;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_headtxt.jpg" width="650" height="68" border="0" alt="" title="" class="nomobile"></a></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" class="nomobile"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr style="font-size:1px; mso-line-height-alt:0; mso-margin-top-alt:1px;">
+                <td align="left" valign="top" bgcolor="#fec75f" style="display:block; font-size:0%;" class="nomobile"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ffffff;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_navshadow.jpg" width="650" height="10" border="0" alt="" title="" class="shadow2"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" bgcolor="#fec75f"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" valign="top"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_nav11.jpg" width="70" height="44" border="0" alt="" title="" class="lftspace"></td>
+                      <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777663ace8323a6ce80b4f3e8832a5cb0adbb97dedf87be59f546443ab49e1713df90a4edbdba6081881"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_nav21.jpg" width="214" height="44" border="0" alt="" title=""></a></td>
+                      <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677765fa480d570ea56aa1172bf286f1f173e3a24a853a3037a5e5dcad7d56130316c32b2e717cbfb3649"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_nav31.jpg" width="170" height="44" border="0" alt="" title=""></a></td>
+                      <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677766f6851db9209a5233e23ef4c4de5f29b2cb4e602ac51ed5dbb30a3c8471d278b41432a7c55db8c59"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_nav41.jpg" width="118" height="44" border="0" alt="" title=""></a></td>
+                      <td align="left" valign="top"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_nav51.jpg" width="78" height="44" border="0" alt="" title="" class="rtspace"></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!--[if !mso]><!-->
+        <tr style="display:none; overflow:hidden; float:left; mso-hide:all; max-height:0px;" class="show">
+          <td align="left" valign="top" bgcolor="#fec75f"><table width="320" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677765fa480d570ea56aa1172bf286f1f173e3a24a853a3037a5e5dcad7d56130316c32b2e717cbfb3649"  target="_blank" style="text-decoration:none;" class="nav3"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/12/mtd_m_nav_01.jpg" width="123" height="48" border="0" alt="" title=""></a></td>
+                <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777663ace8323a6ce80b4f3e8832a5cb0adbb97dedf87be59f546443ab49e1713df90a4edbdba6081881"  target="_blank" style="text-decoration:none;" class="nav2"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/12/mtd_m_nav_02.jpg" width="95" height="48" border="0" alt="" title=""></a></td>
+                <td align="left" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677766f6851db9209a5233e23ef4c4de5f29b2cb4e602ac51ed5dbb30a3c8471d278b41432a7c55db8c59"  target="_blank" style="text-decoration:none;" class="nav4"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec75f;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/12/mtd_m_nav_03.jpg" width="102" height="48" border="0" alt="" title=""></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!--<![endif]-->
+        
+        <tr>
+          <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left:auto; margin-right:auto;">
+              <tr>
+                <td colspan="2"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677764938cd6fe66ae55d07555eb6db109381162693c54249cc5b15e188b009bda477" rel="nofollow" ><img src="http://kraft.kraftrecipes.com/imp?s=119197&layout=marquee&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0" style="display: block; width:100%; height:auto; max-width:650px;" width="650" /></a></td>
+              </tr>
+              <tr style="display:none; height:1px; line-height:1px;">
+                <td><img src="http://kraft.kraftrecipes.com/imp?s=119198&sz=1x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+                <td><img src="http://kraft.kraftrecipes.com/imp?s=119199&sz=1x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+              </tr>
+              <tr style="display:none;">
+                <td align="left"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777693f942a0a06029ba8f626613ea19e9487374e5cd8e8a7f9b13628820416f3d65" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=119200&sz=116x15&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+                <td align="right"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776c281c7936a800362fc4f39c1b032e1fb509d4f1a5e646722213e379b473913fa" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=119201&sz=69x15&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" style="padding:18px 18px 25px 19px;" class="body_pad"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <th valign="top" align="left" class="splitcol" style="padding:0px 0px !important; vertical-align:top;"><table width="299" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" style="padding-right:15px; padding-bottom:14px;" class="img1_pad"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776c9b459f30caa746d37c56038894902f55842765dfa8cb7748579e7233303905624b2c9bd6db461c8"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ba8847;" src="http://assets.kraftfoods.com/recipe_images/opendeploy/57633_640x428.jpg" width="299" height="199" border="0" alt="" title="" class="hero" ></a></td>
+                          </tr>
+                        </table></th>
+                      <th valign="top" style="padding:0px 0px !important; vertical-align:top;" class="splitcol1"><a href="http://click.e.kraftfoods.com/?qs=91d7baee7d85f5d0a506939db3e559bb4b966fb0b96209ee32fc4cfb9fd2ff13acc8d1a1092450f1e34945821413bc9d"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#ca402c;" src="http://assets.kraftfoods.com/recipe_images/opendeploy/Peanut-Butter-Fudge-Bites-39433_640x428.jpg" width="299" height="199" border="0" alt="" title="" class="hero"></a></th>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <th valign="top" align="left" class="splitcol1" style="padding:0px 0px !important; vertical-align:top;"><a href="http://click.e.kraftfoods.com/?qs=91d7baee7d85f5d0aa001e0b5e1fe6a17e0624cd0cfec3f1d8644818383741e49aea9e516a627994d1c83b850ee40a35"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#f2ca8e;" src="http://assets.kraftfoods.com/recipe_images/opendeploy/105225_640x428.jpg" width="299" height="199" border="0" alt="" title="" class="hero"></a></th>
+                      <th valign="top" style="padding:0px 0px !important; vertical-align:top;" class="splitcol1"><table border="0" cellpadding="0" cellspacing="0" width="100%">
+                          <tr>
+                            <td align="left" valign="top" style="padding-left:15px;" class="img7_pad"><a href="http://click.e.kraftfoods.com/?qs=91d7baee7d85f5d0258c009fe8b698e9563325a2291748018ae660f84ecb6b47108c2dfe84cf6b327ca5debdf345b27d"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#3f8583;" src="http://assets.kraftfoods.com/recipe_images/opendeploy/60834_640x428.jpg" width="299" height="199" border="0" alt="" title="" class="hero"></a></td>
+                          </tr>
+                        </table></th>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        
+        <tr>
+          <td align="left" valign="top" class="bdtxt2"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdtxt2.jpg" width="650" height="99" border="0" class="nomobile"></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" bgcolor="#fec75f" style="padding:0px 23px 38px 19px;" class="pad_res"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <th width="294" align="left" valign="top" class="mob_dropcol" style="vertical-align:top; padding:0px 0px !important"><table width="294" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td align="left" valign="top" style="padding-bottom:18px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></td>
+                            <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677761d84403ee57d93e098d0819e323aaa046890da20d19066a25b2709c664ef503c0b79ba0a138e8462" target="_blank"  style="text-decoration:none; color:#030303;">favorite pasta recipes</a></td>
+                            <td align="left" valign="top"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" title=""></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top" style="padding-bottom:19px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                            <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776c908d880647bb99ee17eb1a0f79c52193d0f0ef74c87771c38195520f5388829476c7a98121973dc" target="_blank"  style="text-decoration:none; color:#030303;">"huge" mini ideas</a></td>
+                            <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                            <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776f1f35e0f143a6272ab92885d1d427a0e4471073d70617ea53fc5bf186ead5a01560c905f4ef61df1" target="_blank"  style="text-decoration:none; color:#030303;">chicken bests</a></td>
+                            <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></th>
+                <th width="100%" align="left" valign="top" class="mob_dropcol" style="vertical-align:top; padding:0px 0px !important"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td width="100%" align="left" valign="top" style="padding-left:20px;" class="nopad"><table width="294" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" style="padding-bottom:18px;" class="bdbtn4_padtop"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                  <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677761a7ef59c8544200ec561619ea5f2534eb91a56dee91e55f2a498e6c752d9fbdf39ede4b1f294c8b9" target="_blank"  style="text-decoration:none; color:#030303;">veggie ideas for meat lovers</a></td>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top" style="padding-bottom:18px;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                  <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776756bf609a6f76f7ce54ebbf460429d14899bf37545e01ee14880e8ea8b4899cbe45231d4ada75dd6" target="_blank"  style="text-decoration:none; color:#030303;">easy slow-cooker recipes</a></td>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnlt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                  <td width="234" align="center" valign="middle" bgcolor="#ffffff" style="font-family:Arial, Helvetica, sans-serif; font-size:18px; line-height:19px; font-weight:normal; color:#030303; mso-line-height-rule: exactly;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677769bcb7b7dbf7b06e49d299805d9aee808082a0011cfa095a7846f67adddd203306cbcd6f2d644f610" target="_blank"  style="text-decoration:none; color:#030303;">foil-pack dinners</a></td>
+                                  <td align="left" valign="top"><a href="#" alias="" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_a_bdbtnrt11.png" width="30" height="58" border="0" alt="" title=""></a></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></th>
+              </tr>
+            </table></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" style="padding-top:31px;" class="kraft_top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td align="left" valign="top"><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_shadow.jpg" width="650" height="29" border="0" alt="" title="" class="resize_shadow"></td>
+              </tr>
+              <tr>
+                <td align="left" valign="top" style="padding:0px 15px 0px 15px;" class="nopad"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <th valign="top" class="splitcol" style="padding:0px 0px !important; vertical-align:top;"><table width="300" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="left" valign="top" style=" padding-top:1px;" class="img4_pad"><!--SUB--<a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=KFF&cds_page_id=66063&cds_response_key=I123KFMTD" alias=":PROMO_sub no mag^" target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec454;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/2/ff_pt_mag_subscribe.jpg" width="300" height="300" border="0" alt="" title=""></a>----> 
+                              <!--if NON-SUB--><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776a267f6c2cb388e94f108472680e9bafc85fabde77b5d4dc2a3a8808eebd4377396267d0d339f1bda"  target="_blank" style="text-decoration:none;"><img style="display:block; font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#ffffff; text-decoration:none; background-color:#fec454;" src="http://cit.mxm.com/PromoTiles/ff_pt_dessert_dip.jpg" width="300" height="300" border="0" alt="" title=""></a><!--END NON-SUB--></td>
+                          </tr>
+                        </table></th>
+                      <th align="left" valign="top" style="padding:0px 0px !important; vertical-align:top;" class="splitcol1"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tr>
+                            <td align="right" valign="top" width="300" style="padding-left:20px;" class="nopad"><table width="300" border="0" cellspacing="0" cellpadding="0">
+                                <tr>
+                                  <td align="left" valign="top" height="30" style="font-family:arial,helvetica,sans-serif; font-size:14px; line-height:22px; color:#d1c7bf; font-weight:bold; padding:9px 0px 0px 91px;" class="resize_hgt">ADVERTISEMENT</td>
+                                </tr>
+                                <tr>
+                                  <td align="left" valign="top" class="resize_rgt"><table border="0" cellpadding="0" cellspacing="0">
+                                      <tr>
+                                        <td colspan="2"><a style="display: block; width: 300px; height: 250px;" href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677762a5697c866ae7a9db98f430b93d496f1dad81370aa1414d122ab654799f1aa71" rel="nofollow" ><img src="http://kraft.kraftrecipes.com/imp?s=72023&t=newsletter&sz=300x250&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0" width="300" height="250"/></a></td>
+                                      </tr>
+                                      <tr style="display:block; height:1px; line-height:1px;">
+                                        <td><img src="http://kraft.kraftrecipes.com/imp?s=72024&t=newsletter&sz=1x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+                                        <td><img src="http://kraft.kraftrecipes.com/imp?s=72025&t=newsletter&sz=1x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+                                      </tr>
+                                      <tr>
+                                        <td align="left"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677762e6832d83cd818cb9454d196ce633e6bdc7c025ea11b975bc59c327a0f38e72e" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=55952&t=newsletter&sz=116x15&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+                                        <td align="right"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776cf02b0e62070cc07a3f94ee5c1662dc15f2970c9df5f2c468986a456b2e0ef7c" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=55953&t=newsletter&sz=69x15&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></th>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+        <!---
+--> 
+        
+        <!--[if !mso]><!-->
+        <tr class="show" style="float:left; font-size: 0%; max-height: 0px; overflow: hidden; display: none; mso-hide:all;">
+          <td align="left" valign="top"><a href="#top" target="_self" title="" alias="" style="text-decoration:none;"><img src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_M_backtotop.jpg" width="320" height="48" border="0"/></a></td>
+        </tr>
+        <!--<![endif]-->
+        <tr>
+          <td align="left" valign="top" style="padding-top:20px;"><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/6/2014mtd_c_shadow2.jpg" width="650" height="14" border="0" alt="" title="" class="resize_shadow2"></td>
+        </tr>
+        <tr>
+          <td align="left" valign="top" class="resize_table_to_320"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="resize_table_to_320">
+              <tr>
+                <td bgcolor="#ffffff" valign="top" align="center" class="resize_table_to_320"><table width="650" class="resize_table_to_320" border="0" align="center" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+                    <tr>
+                      <td class="brandpadnew" style="padding-top:12px; padding-bottom:15px;" align="center"><table width="320" border="0" cellspacing="0" cellpadding="0" class="fullwd">
+                          <tr>
+                            <td style="font-family:arial,helvetica,sans-serif; font-size:13px; line-height:normal; color:#666666; font-weight:bold; text-align:center; vertical-align:middle;"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677760d8d66db3733780fd9a24ac747963812e278105d1e6cdc8f2d637e6ab4dad84ab51ce924e085e27a" target="_blank"  style="text-decoration:none; color:#333333"><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_visitourbrands_320px.jpg" width="320" height="24" border="0" alt=""></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                     
+                    <!--Social Footer-->
+                    <tr>
+                      <td valign="top" align="center" bgcolor="#fec75f"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#fec75f">
+                          <tr>
+                            <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="320">
+                                <tr>
+                                  <td align="center" valign="top" style="padding-top:18px; padding-bottom:24px;"><img style="display:block; color:#ffffff; text-decoration:none; text-align:center" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_wearecooking_320px.png" width="320" height="24" border="0" alt="We're cooking where you are:"></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                          <tr>
+                            <td align="center" valign="top" class="resize_table_to_320"><table border="0" cellpadding="0" cellspacing="0" width="450" class="resize_table_to_320">
+                                <tr>
+                                  <td align="center" valign="top" style="padding: 0px 0px 24px 0px" class="socio_pad"><table width="450" border="0" cellspacing="0" cellpadding="0" class="fullwd">
+                                      <tr>
+                                        <th valign="top" align="center" class="splitcol" style="padding:0px 0px !important; vertical-align:top;"><table border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td width="50" valign="top"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677761b97e39946f6634d1af304520ad581eb0599b8d92a5441d7c572e2b3c363864d" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_facebook.png" width="50" height="50" border="0" alt="Facebook"></a></td>
+                                              <td width="50" valign="top" style="padding-left:30px"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776afc437672f0b5563829bc65ffb4f11ca767d0087446e0c76514e7c6452e4582d" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_pinterest.png" width="50" height="50" border="0" alt="Pinterest"></a></td>
+                                              <td width="50" valign="top" style="padding-left:30px"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776286bd706001657e2636609186bdebd161e7b33900e33f1d744103638202dd2b2" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_twitter.png" width="50" height="50" border="0" alt="Twitter"></a></td>
+                                            </tr>
+                                          </table>
+                                        </th>
+                                        <th valign="top" align="center" class="splitcol" style="padding:0px 0px !important; vertical-align:top;"><table border="0" cellspacing="0" cellpadding="0">
+                                            <tr>
+                                              <td align="center" valign="top" class="socpad"><table border="0" cellpadding="0" cellspacing="0">
+                                                  <tr>
+                                                    <td width="50" valign="top" style="padding-left:30px" class="nopad"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677769c07d05aee646625d4bddb9f252be600bbed4f0154df9d1ff37b905a7012f78d" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_gplus.png" width="50" height="50" border="0" alt="g+"></a></td>
+                                                    <td width="50" valign="top" style="padding-left:30px"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777675038384cf02d7e66ced32de9172d38edf70507476c4657cce42a511139177e9" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_instagam.png" width="50" height="50" border="0" alt="Instagram"></a></td>
+                                                    <td width="50" valign="top" style="padding-left:30px"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677768343d1489a783ba8fbc848da34662c2c1dbca1dcd1de8c6c16105b7c6c3b485b" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/10/ff_tumblr.png" width="50" height="50" border="0" alt="Tumblr"></a></td>
+                                                  </tr>
+                                                </table></td>
+                                            </tr>
+                                          </table>
+                                        </th>
+                                      </tr>
+                                    </table></td>
+                                </tr>
+                              </table></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <!--End Social Footer--> 
+                    <!--Healthy Living Key-->
+                    <tr>
+                      <td align="center" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="320">
+                          <tr>
+                            <td valign="top" align="center" style="padding-top:15px; padding-bottom:13px" class="fthlpad"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777655c9078b299409ab23891c758047ea5d6631472c92e9b9201e44ce65ed2a7bfd5e3506e6e68c448e" target="_blank" ><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/9/ff_healthyliving_320px.jpg" width="320" height="24" border="0" alt="what is a Healthy Living recipe? Find out."></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <!--shadow-->
+                    <tr>
+                      <td align="left" valign="top"><img style="display:block;" src="http://image.e.kraftfoods.com/lib/fe63157072660d787417/m/1/FF_RBE_650x25_MasterShadow.jpg" width="650" height="25" border="0" class="shadow1" ></td>
+                    </tr>
+                    <tr>
+                      <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0" align="center" style="margin-left:auto; margin-right:auto;">
+                          <tr>
+                            <td colspan="2"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777671e90e43e4b89e67e4216d41e85a0de990eaa6b4465e1bf53f6b244fa5e4c897" rel="nofollow" ><img src="http://kraft.kraftrecipes.com/imp?s=198157&layout=marquee&li=MTD_botAd&e=michael.mayer1001@gmail.com&p=62626976" border="0" style="display: block; width:100%; height:auto; max-width:650px;" width="650" /></a></td>
+                          </tr>
+                          <tr style="display:none; height:1px; line-height:1px;">
+                            <td><img src="http://kraft.kraftrecipes.com/imp?s=198158&sz=1x1&li=MTD_botAd&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+                            <td><img src="http://kraft.kraftrecipes.com/imp?s=198159&sz=1x1&li=MTD_botAd&e=michael.mayer1001@gmail.com&p=62626976" height="1" width="10" /></td>
+                          </tr>
+                          <tr style="display:none;">
+                            <td align="left"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777658074f23ff5f07b3719d5964d9aeb959dd134beacdf9b2d951ab94732522e661" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=198160&sz=116x15&li=MTD_botAd&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+                            <td align="right"><a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677768209abd0eb38909dc9f8cebc1c5ba8314e3099c7decd0d909454b9b42594021c" rel="nofollow"><img src="http://kraft.kraftrecipes.com/imp?s=198161&sz=69x15&li=MTD_botAd&e=michael.mayer1001@gmail.com&p=62626976" border="0"/></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    
+                    <!--Legal Footer-->
+                    <tr>
+                      <td align="left" class="resize_table_to_320"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" class="resize_table_to_320">
+                          <tr>
+                            <td class="footerpad" align="center" style="font-family:arial,helvetica,sans-serif; font-size:10px; color:#000000; padding:30px 5px 30px 5px">We sent this email to <a class="appleLinks" style="text-decoration:none; color:#000001"><span class="appleLinks" style="text-decoration:none; color:#000001">michael.mayer1001@gmail.com</span></a>.<br>
+                              <br>
+                              <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777692a5fad7222ed2c63b0bf4af26e46fc7770a78c7aa6d7f98744bc4e5bb348bafadfb87b94b3aeb33" >Unsubscribe</a>  | <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c3236777627b78d4268c88be2b09fc394526f69efcd644f680783b63524f6fcb45c9f1cd610945e5516b799cc" >Manage My Preferences</a> |
+                              <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776858aa66f55f1c364002e46e76d58420293aa4e63a48fa357ef7bef9e3c242b5606e2e7e9679df384"  >Privacy Notice</a> | <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c32367776e4e6ff7b26a0311ce2def9eb1cb5fc9d9dac5c757bb7880c0f26adec908c178be2cf79d8dfa861af"  >Contact Us</a> | <a href="http://click.e.kraftfoods.com/?qs=1c9b1b3c323677769d3d7c97cc801e48f6a8540fcc7fd533cd5ea21042af94adf31943bf3b6632dbb55dadca39757eff"  >Frequently Asked Questions</a><br>
+                              <br>
+                              <a class="appleLinks" style="text-decoration:none; color:#000001"><span class="appleLinks" style="text-decoration:none; color:#000001">Kraft Heinz Foods Company, Consumer Relations, 200 East Randolph Street, Suite 7600, Chicago, IL 60601<br />
+                              &copy; 2017 Kraft Foods</span></a></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                  </table></td>
+              </tr>
+            </table></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<table cellpadding="0" cellspacing="0" border="0" width="40" height="6">
+  <tbody>
+    <tr>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72056&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72057&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72058&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72059&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72060&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72061&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72062&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72063&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72064&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72065&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72066&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=72067&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415912&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415913&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415914&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415915&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415916&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415917&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415918&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+      <td><img src="http://kraft.kraftrecipes.com/imp?s=123415919&sz=2x1&li={LIST_ID}&e=michael.mayer1001@gmail.com&p=62626976" width="2" height="6" border="0" /></td>
+    </tr>
+  </tbody>
+</table>
+<noscript>
+<img src="http://ad.doubleclick.net/activity;src=3787405;type=kr_wb986;cat=comid219;ord=1?" width="1" height="1"/>
+</noscript>
+<img border="0" src="https://r.turn.com/r/beacon?b2=Wv1CtQ1XrzAh-rGrNQPoW6BbkXUPFgIkCTRy5AB6niEkkbEVuddC-lEEsg2ERsKLMrPBrBggJGx2s8M_cHalqA&cid="><img src='https://20536087p.rfihub.com/ca.gif?rb=3435&ca=20536087&ra=' height=0 width=0 style='display:none'/> <img src="http://s.thebrighttag.com/px?site=KSNUeWE&referrer=email:open&emailId=6FDC9F2F6C6B77443BA7EABE1E5F4D455BDB81581FE3CF734AC414819E7F7D36"/> 
+
+<!--gmail iOS font fix-->
+<style>
+#gmailfix {
+display: none;
+}
+</style>
+<div id="gmailfix" style="white-space:nowrap;font: 15px courier; color:white;"> - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - </div>
+</body>
+</html>
+<img src="http://click.e.kraftfoods.com/open.aspx?ffcb10-fe531272736602747212-fdd11573766005757413707566-fe63157072660d787417-fe95137074670d7977-fe1613787062027e721c77-ff6315737d" width="1" height="1">
+<img src="http://click.e.kraftfoods.com/open.aspx?ffcb10-fe531272736602747212-fdd11573766005757413707566-fe63157072660d787417-fe95137074670d7977-fe1613787062027e721c77-ff6315737d" width="1" height="1">
+

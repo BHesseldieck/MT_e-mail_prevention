@@ -1,0 +1,723 @@
+From 1556928876458650054@xxx Thu Jan 19 05:18:01 +0000 2017
+X-GM-THRID: 1556928876458650054
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp113312qge;
+        Wed, 18 Jan 2017 21:18:02 -0800 (PST)
+X-Received: by 10.28.189.134 with SMTP id n128mr21802355wmf.77.1484803082264;
+        Wed, 18 Jan 2017 21:18:02 -0800 (PST)
+Return-Path: <info@newsletter.kaufland.de>
+Received: from mta109037.newsletter.kaufland.de (mta109037.newsletter.kaufland.de. [62.144.109.37])
+        by mx.google.com with ESMTPS id 199si22715667wmi.91.2017.01.18.21.18.01
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 18 Jan 2017 21:18:02 -0800 (PST)
+Received-SPF: pass (google.com: domain of info@newsletter.kaufland.de designates 62.144.109.37 as permitted sender) client-ip=62.144.109.37;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@newsletter.kaufland.de;
+       spf=pass (google.com: domain of info@newsletter.kaufland.de designates 62.144.109.37 as permitted sender) smtp.mailfrom=info@newsletter.kaufland.de
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=0; d=newsletter.kaufland.de;
+ h=Message-ID:List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type; i=info@newsletter.kaufland.de;
+ bh=ZZI/dgbsGPmxgerwQo8RK64bM/Q=;
+ b=n6yZ42IhciY3Nzx0xvjOA6LzuEdtnfTSlfxdGqAIsxmHwEEMZzyDpWwG74lItcLe2cUUebN8uBh7
+   g25ijM2aepaeq+6gC+dyYjZKuqA1fqNidaR40Ha+MtklOCPvc8+C9xkfr4FPMYiKjkbyd9gwNCcb
+   ScgmX08VwZLXpswSAyE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=0; d=newsletter.kaufland.de;
+ b=ING44cY3p+jf/f32m+k9hl4u7m9HzDSRE61sxoC7LZvcM0F1hYnguk+iLfqAoqpSCtli5K++dJ8w
+   GWc1aqkeCKxtVDiPKj3vo5EoDoeiGVSkM5y9lkZKPxlxCrOkS4sG1DqmqcKozJeoMrqUFEQ/4ptY
+   lek8R644ITgEGwKtBFo=;
+Received: by mta109037.newsletter.kaufland.de id hg160k1nnc8n for <michael.mayer1001@gmail.com>; Thu, 19 Jan 2017 05:08:47 +0000 (envelope-from <info@newsletter.kaufland.de>)
+X-CSA-Complaints: whitelist-complaints@eco.de
+Errors-to: info@newsletter.kaufland.de
+Return-Path: info@newsletter.kaufland.de
+Message-ID: <100290.58325932.201701190508474303493.0005995543@newsletter.kaufland.de>
+List-Unsubscribe: <mailto:unsubscribe-967d0b57189ac51d141ea0369c302bc8@newsletter.kaufland.de?subject=Unsubscribe>
+X-Mailer: XyzMailer
+X-Xyz-cr: 100290
+X-Xyz-cn: 2326
+X-Xyz-bcn: 2269
+X-Xyz-md: 100
+X-Xyz-mg: 58325932
+X-Xyz-et: 111
+X-Xyz-pk: 23160
+X-Xyz-ct: 17079
+X-Xyz-bct: 16642
+MIME-Version: 1.0
+From: "Kaufland Newsletter" <info@newsletter.kaufland.de>
+To: "michael.mayer1001@gmail.com" <michael.mayer1001@gmail.com>
+Date: 19 Jan 2017 05:08:47 +0000
+Subject: Die neue Sportkollektion von Sophia Thiel
+Content-Type: multipart/alternative;
+ boundary=--boundary_5787183_5740ffeb-ed84-420f-8c0e-148eba6ad6d5
+
+
+----boundary_5787183_5740ffeb-ed84-420f-8c0e-148eba6ad6d5
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Starten Sie sportlich durch - mit der Sport-Kollektion, mitentwic=
+kelt von Fitness-Expertin Sophia Thiel.=0A=0A=0ABrowserversion: h=
+ttp://x.newsletter.kaufland.de/ats/msg.aspx?sg1=3D967d0b57189ac51=
+d141ea0369c302bc8     =0A( http://l.newsletter.kaufland.de/rts/go=
+2.aspx?t=3D19934&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz ) =
+   =0A=0ASehr geehrte Kundin, sehr geehrter Kunde,=0A=0A=0Adamit =
+Sie sportlich voll durchstarten k=C3=B6nnen, bieten wir Ihnen die=
+se Woche die passende Ausr=C3=BCstung. Bei uns bekommen Sie jetzt=
+ die neue Sport-Kollektion von Fitness-Expertin Sophia Thiel. Mit=
+ dieser sind Sie optimal f=C3=BCr Ihr Training ausgestattet =E2=80=
+=93 und das zu g=C3=BCnstigen Preisen. Unsere leckeren Fitmacher-=
+Rezepte versorgen Sie dann noch mit der n=C3=B6tigen Energie f=C3=
+=BCr Ihr t=C3=A4gliches Sportprogramm.=0A=0AViel Spa=C3=9F bei Ih=
+rem Einkauf!=0AIhr Kaufland-Team=0A=0A=0AFit mit Sophia Thiel=0A=0A=
+Auch im Training wohlf=C3=BChlen: Die neue Sport-Kollektion von F=
+itness-Expertin und Internetstar Sophia Thiel sieht nicht nur spo=
+rtlich-chic aus, sondern ist dazu noch super bequem.=0A( http://l=
+.newsletter.kaufland.de/rts/go2.aspx?t=3D19935&tp=3Di-H43-Q5a-bW-=
+3wjEq-1n-61Y-1c-3u6cU-jHDxz )   =0AZu den Angeboten ( http://l.ne=
+wsletter.kaufland.de/rts/go2.aspx?t=3D19935&tp=3Di-H43-Q5a-bW-3wj=
+Eq-1n-61Y-1c-3u6cU-jHDxz )         =0A=0AGr=C3=BCne Smoothies als=
+ Energiekick=0A=0AWer eine gute Leistung beim Sport erbringen m=C3=
+=B6chte braucht viel Energie. G=C3=B6nnen Sie sich daher vor Ihre=
+m Training einen gr=C3=BCnen Smoothie, wie etwa unseren Trauben-S=
+alat-Kresse-Smoothie.=0A( http://l.newsletter.kaufland.de/rts/go2=
+.aspx?t=3D19936&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )  =
+ =0AZu den Rezepten ( http://l.newsletter.kaufland.de/rts/go2.asp=
+x?t=3D19936&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )     =0A=
+=0APfiffige Omelettes=0A=0AAkkus leer? F=C3=BCllen Sie Ihren Ener=
+giebedarf nach dem Sport wieder auf. Probieren Sie zum Beispiel u=
+nser gef=C3=BClltes Lachsomelett oder unser Schnittlauch-Omelett =
+mit Tomaten-Linsen-F=C3=BCllung.=0A=0A( http://l.newsletter.kaufl=
+and.de/rts/go2.aspx?t=3D19937&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3=
+u6cU-jHDxz )   =0AZur Rezeptwelt ( http://l.newsletter.kaufland.d=
+e/rts/go2.aspx?t=3D19937&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-=
+jHDxz )         =0A=0AFitness vor dem Fr=C3=BChst=C3=BCck=0A=0AIs=
+t Sport auf n=C3=BCchternen Magen gut? Wir verraten Ihnen, ob Sie=
+ vor Ihrem morgendlichen Training lieber etwas essen sollten oder=
+ nicht.=0A( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D1993=
+8&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )   =0AArtikel le=
+sen ( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19938&tp=3D=
+i-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )     =0A=0AGenuss ohne =
+Gentechnik=0A=0AUnbeschwert genie=C3=9Fen: Immer mehr Produkte un=
+serer Eigenmarke K-Classic werden ohne Gentechnik hergestellt. Si=
+e erkennen diese am gr=C3=BCnen Siegel.=0A=0A( http://l.newslette=
+r.kaufland.de/rts/go2.aspx?t=3D19939&tp=3Di-H43-Q5a-bW-3wjEq-1n-6=
+1Y-1c-3u6cU-jHDxz )   =0AAngebote entdecken ( http://l.newsletter=
+.kaufland.de/rts/go2.aspx?t=3D19939&tp=3Di-H43-Q5a-bW-3wjEq-1n-61=
+Y-1c-3u6cU-jHDxz )        =0A=0AHandwerken leicht gemacht=0A=0AVo=
+n Sicherheitsschuhen bis Wandfarbe und Werkzeug: In unseren Angeb=
+oten finden Sie alles, was ein guter Handwerker braucht.=0A=0A( h=
+ttp://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19940&tp=3Di-H43-=
+Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )   =0AAngebote ansehen ( http=
+://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19940&tp=3Di-H43-Q5a=
+-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )     =0A=0AHund, Katze & Co.=0A=0A=
+Verw=C3=B6hnen Sie ihren flauschigen Vierbeiner zum Beispiel mit =
+unserem Haustierliegekissen oder Haustier-Wendek=C3=B6rbchen.=0A=0A=
+( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19941&tp=3Di-H=
+43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )   =0AZu den Angeboten ( h=
+ttp://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19941&tp=3Di-H43-=
+Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )        =0A( http://l.newslet=
+ter.kaufland.de/rts/go2.aspx?t=3D19942&tp=3Di-H43-Q5a-bW-3wjEq-1n=
+-61Y-1c-3u6cU-jHDxz )         =0A( http://l.newsletter.kaufland.d=
+e/rts/go2.aspx?t=3D19943&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-=
+jHDxz )     =0A( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D=
+19944&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz )         =0A=
+Reise der Woche=0A=0A=0A=0ABayerischer Wald=0A=0A3 N=C3=A4chte, H=
+otel Karoli ***+, All Inclusive=0A( http://l.newsletter.kaufland.=
+de/rts/go2.aspx?t=3D19945&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU=
+-jHDxz )   =0AJetzt buchen ( http://l.newsletter.kaufland.de/rts/=
+go2.aspx?t=3D19945&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz =
+)          =0A=0A=0AService-Hotline=0A=0A(Mo.-Sa. 08:00 bis 19:00=
+ Uhr, kostenlos)=0A=0A=0A08 00 / 1 52 83 52 ( tel:08001528352 )=0A=
+=0Aservice@kaufland.de=0A=0A=0A=0AImpressum ( http://l.newsletter=
+.kaufland.de/rts/go2.aspx?t=3D19946&tp=3Di-H43-Q5a-bW-3wjEq-1n-61=
+Y-1c-3u6cU-jHDxz ) | =0AFAQ ( http://l.newsletter.kaufland.de/rts=
+/go2.aspx?t=3D19947&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz=
+ ) | =0ADatenschutz ( http://l.newsletter.kaufland.de/rts/go2.asp=
+x?t=3D19948&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz ) =0A=0A=
+=0A=0A( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19949&tp=
+=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz ) =0A( http://l.newsl=
+etter.kaufland.de/rts/go2.aspx?t=3D19950&tp=3Di-H43-Q5a-bW-3wjEq-=
+1n-61Y-1c-3u6cU-jHDxz ) =0A( http://l.newsletter.kaufland.de/rts/=
+go2.aspx?t=3D19951&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz =
+) =0A=0A=0ANewsletterservice:=0A=0A=0AIhre pers=C3=B6nlichen Eins=
+tellungen =C3=A4ndern Sie =0Ahier ( http://l.newsletter.kaufland.=
+de/rts/go2.aspx?t=3D19933&tp=3Di-H55-Q5a-bW-3wjEq-1n-61Y-1c-4RZ-3=
+u6cU-1jgWcL&x=3D520CF884-9768-44E1-8E25-FEC06DB43E1C ).=0AFalls S=
+ie Ihren Newsletter abbestellen m=C3=B6chten, klicken Sie =0Ahier=
+ ( http://l.newsletter.kaufland.de/rts/go2.aspx?t=3D19932&tp=3Di-=
+H55-Q5a-bW-3wjEq-1n-61Y-1c-4Ra-3u6cU-22yTUP&x=3D520CF884-9768-44E=
+1-8E25-FEC06DB43E1C ).=0A=0A=0A=0A=0AKaufland Omnichannel Interna=
+tional GmbH & Co. KG=0AR=C3=B6telstra=C3=9Fe 35=0A74172 Neckarsul=
+m=0A=0AAmtsgericht Stuttgart: HRA 103538=0AUSt-IdNr: DE 166059808=
+=0ASitz: Neckarsulm=0A=0ADie Kaufland Omnichannel International G=
+mbH & Co. KG wird vertreten durch die KL-220-Beteiligungs-GmbH mi=
+t Sitz in Neckarsulm, Amtsgericht Stuttgart: HRB 108015, die ihre=
+rseits durch die Gesch=C3=A4ftsf=C3=BChrer Ralf Hensen, Sven Home=
+s, J=C3=B6rg Ossenberg-Engels, Dr. Marcus Rodermann und Dr. Chris=
+toph Stark vertreten wird.=0A=0A=0A=C2=B9Gegen=C3=BCber dem Regul=
+=C3=A4rpreis bei Buchung bis 30.01.2017.
+----boundary_5787183_5740ffeb-ed84-420f-8c0e-148eba6ad6d5
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>=0A<html xmlns=3D"http://www.w3.org/1999/xhtml">=0A=
+	<head>=0A		<meta http-equiv=3D"Content-Type" content=3D"text/htm=
+l; charset=3Dutf-8">=0A			<title>Kaufland Newsletter</title>=0A  =
+  	    <style type=3D"text/css">=0A    	        a { color: #33333=
+3; cursor: pointer; text-decoration: underline; }=0A				a:hover {=
+ color: #70d159 !important; }=0A=0A				table.metaheader-cnt a:hov=
+er, table.footer a:hover { color: inherit !important; text-decora=
+tion: underline !important; }=0A				.btn a:hover { background: #7=
+0d159 !important; border: 1px solid #70d159 !important; color: #f=
+fffff !important; /*cursor: pointer !important;*/ }=0A				.produc=
+t > a:hover, .banner > a:hover, .teaser > a:hover { color: #33333=
+3 !important; }=0A=0A				a[href^=3D"x-apple-data-detectors:"] { c=
+olor: inherit !important; font-size: inherit !important; pointer-=
+events: none !important; text-decoration: inherit !important; }=0A=
+=0A				@media (max-width: 599px) {=0A					.container > table { wi=
+dth: 100% !important; }=0A=0A					table.headline.date h1,=0A					=
+table.headline.date p { display: block !important; }=0A					table=
+.headline.date p { padding: 0 !important; }=0A=0A					.product im=
+g { width: 100% !important; }=0A=0A					.banner img,=0A					.teas=
+er img { width: 100% !important; }=0A				}=0A    	    </style>=0A=
+    	    <link rel=3D"shortcut icon" type=3D"image/vnd.microsoft.=
+icon" href=3D"http://wpm.ccmp.eu/wpm/100290/generic/favicon_white=
+_2016.ico">=0A            <link rel=3D"icon" href=3D"http://wpm.c=
+cmp.eu/wpm/100290/generic/favicon_white_2016.ico">=0A			<meta nam=
+e=3D"format-detection" content=3D"telephone=3Dno,date=3Dno,addres=
+s=3Dno,email=3Dno">=0A	</head>=0A	<body style=3D"margin: 0;paddin=
+g: 0;-webkit-text-size-adjust: none;font-family: Arial, sans-seri=
+f;font-size: 14px;"><img src=3D"http://l.newsletter.kaufland.de/r=
+ts/open.aspx?tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" heigh=
+t=3D"1" width=3D"1" style=3D"display:none">        <div class=3D"=
+preheader" style=3D"display: none;font-size: 0;line-height: 1;opa=
+city: 0;overflow: hidden;visibility: hidden;">Starten Sie sportli=
+ch durch - mit der Sport-Kollektion, mitentwickelt von Fitness-Ex=
+pertin Sophia Thiel.</div>=0A=0A		<table class=3D"wrapper" style=3D=
+"color: #333333;" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%" bgcolor=3D"#e5e5e5" border=3D"0"><tbody><tr><td class=3D"cont=
+ainer" style=3D"font-family: Arial, sans-serif;font-size: 14px;ve=
+rtical-align: top;" align=3D"center">=0A			<table class=3D"conten=
+t-cnt" style=3D"background: #ffffff;text-align: left;width: 599px=
+;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A				<tbody=
+><tr>=0A					<td style=3D"font-family: Arial, sans-serif;font-siz=
+e: 14px;vertical-align: top;">=0A						<div style=3D"" id=3D"cb-p=
+laceholder" class=3D"cb-placeholder"><table class=3D"metaheader-c=
+nt" style=3D"width: 100%;" cellpadding=3D"0" cellspacing=3D"0" bg=
+color=3D"#e5e5e5" border=3D"0">=0A								<tbody><tr>=0A									=
+<td class=3D"left" style=3D"font-family: Arial, sans-serif;font-s=
+ize: 14px;vertical-align: top;text-align: left;padding: 10px;">=0A=
+										<a href=3D"http://x.newsletter.kaufland.de/ats/msg.aspx=
+?sg1=3D967d0b57189ac51d141ea0369c302bc8" style=3D"color: #333333;=
+cursor: pointer;text-decoration: none !important;text-decoration:=
+ none;">Browserversion</a>=0A									</td>=0A									<td class=3D=
+"right" style=3D"font-family: Arial, sans-serif;font-size: 14px;v=
+ertical-align: top;text-align: right;padding: 10px;">=0A									=
+</td>=0A								</tr>=0A							</tbody></table>=0A=0A							<tabl=
+e class=3D"header-cnt" style=3D"border-bottom: 2px solid #e5e5e5;=
+width: 100%;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A=
+								<tbody><tr>=0A									<td style=3D"text-align: center;ve=
+rtical-align: middle;font-family: Arial, sans-serif;font-size: 14=
+px;">=0A										<a title=3D"Kaufland" class=3D"block" href=3D"h=
+ttp://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19934&tp=3Di-H43-=
+Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"co=
+lor: #333333;cursor: pointer;text-decoration: underline;display: =
+block;">=0A											<img src=3D"http://wpm.ccmp.eu/wpm/100290/g=
+eneric/kaufland-logo.jpg" alt=3D"Kaufland" style=3D"border: none;=
+" width=3D"100">=0A										</a>=0A									</td>=0A								</tr=
+>=0A							</tbody></table>=0A=0A							<table class=3D"text" sty=
+le=3D"width: 100%;" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0">=0A								<tbody><tr>=0A									<td class=3D"spacer-w" styl=
+e=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-alig=
+n: top;width: 15px;">&nbsp;</td>=0A									<td style=3D"font-fam=
+ily: Arial, sans-serif;font-size: 14px;vertical-align: top;">=0A	=
+									<p style=3D"margin-top: 0;margin-bottom: 15px;line-heigh=
+t: 18px;margin: 15px 0 0;">Sehr geehrte Kundin, sehr geehrter Kun=
+de,<br><br>=0A										</p>damit Sie sportlich voll durchstarten=
+ k=C3=B6nnen, bieten wir Ihnen diese Woche die passende Ausr=C3=BC=
+stung. Bei uns bekommen Sie jetzt die neue Sport-Kollektion von F=
+itness-Expertin Sophia Thiel. Mit dieser sind Sie optimal f=C3=BC=
+r Ihr Training ausgestattet =E2=80=93 und das zu g=C3=BCnstigen P=
+reisen. Unsere leckeren Fitmacher-Rezepte versorgen Sie dann noch=
+ mit der n=C3=B6tigen Energie f=C3=BCr Ihr t=C3=A4gliches Sportpr=
+ogramm.<br><br>Viel Spa=C3=9F bei Ihrem Einkauf!<br>Ihr Kaufland-=
+Team<br>=0A									</td>=0A									<td class=3D"spacer-w" style=
+=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-align=
+: top;width: 15px;">&nbsp;</td>=0A								</tr>=0A								<tr>=0A=
+									<td colspan=3D"3" class=3D"spacer-h" style=3D"font-famil=
+y: Arial, sans-serif;font-size: 15px;vertical-align: top;height: =
+15px;line-height: 1;">&nbsp;</td>=0A								</tr>=0A							</tbod=
+y></table>=0A=0A							=0A=0A							=0A=0A							=0A=0A							=0A=
+=0A							=0A=0A							=0A=0A							=0A=0A							=0A=0A							=0A=
+=0A							=0A=0A							=0A=0A							=0A=0A							=0A=0A							=0A=
+    							=0A    							=0A    							=0A    							=0A    					=
+		=0A    							<table style=3D"width: 100%;" cellpadding=3D"0" c=
+ellspacing=3D"0" border=3D"0">=0A								<tbody><tr>=0A									<=
+td class=3D"spacer-w" style=3D"font-family: Arial, sans-serif;fon=
+t-size: 14px;vertical-align: top;width: 15px;">&nbsp;</td>=0A				=
+					<td class=3D"teaser" style=3D"font-family: Arial, sans-serif=
+;font-size: 14px;vertical-align: top;">=0A										<a title=3D"A=
+ngebote: Sportkollektion von Sophia Thiel" href=3D"http://l.newsl=
+etter.kaufland.de/rts/go2.aspx?h=3D19935&tp=3Di-H43-Q5a-bW-3wjEq-=
+1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;=
+cursor: pointer;text-decoration: none !important;text-decoration:=
+ none;display: block;">=0A											<img alt=3D"Angebote: Sportk=
+ollektion von Sophia Thiel" src=3D"http://wpm.ccmp.eu/wpm/100290/=
+ContentUploads/Templates/587ce4805a76b.jpg" style=3D"border: none=
+;display: block;width: 569px;margin: 0;" width=3D"569">=0A							=
+				<h3 style=3D"margin: 0;font-size: 14px;font-weight: bold;marg=
+in-top: 15px;">Fit mit Sophia Thiel</h3>=0A											<p style=3D=
+"margin-top: 15px;margin-bottom: 0;">Auch im Training wohlf=C3=BC=
+hlen: Die neue Sport-Kollektion von Fitness-Expertin und Internet=
+star Sophia Thiel sieht nicht nur sportlich-chic aus, sondern ist=
+ dazu noch super bequem.</p>=0A										</a>=0A										<table =
+style=3D"margin-top: 15px;" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"><tbody><tr><td style=3D"font-family: Arial, sans-seri=
+f;font-size: 14px;vertical-align: top;">=0A											<table cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0">=0A												<tbod=
+y><tr><td class=3D"btn" style=3D"font-family: Arial, sans-serif;f=
+ont-size: 14px;vertical-align: top;background: #424242;">=0A					=
+								<a title=3D"" href=3D"http://l.newsletter.kaufland.de/rts=
+/go2.aspx?h=3D19935&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz=
+" target=3D"_blank" style=3D"color: #ffffff;cursor: pointer;text-=
+decoration: none !important;text-decoration: none;border: 1px sol=
+id #424242;display: inline-block;padding: 12px;">Zu den Angeboten=
+</a>=0A												</td></tr>=0A											</tbody></table>=0A			=
+							</td></tr></tbody></table>=0A									</td>=0A									<td=
+ class=3D"spacer-w" style=3D"font-family: Arial, sans-serif;font-=
+size: 14px;vertical-align: top;width: 15px;">&nbsp;</td>=0A						=
+		</tr>=0A								<tr>=0A									<td colspan=3D"3" class=3D"spac=
+er-h" style=3D"font-family: Arial, sans-serif;font-size: 15px;ver=
+tical-align: top;height: 15px;line-height: 1;">&nbsp;</td>=0A				=
+				</tr>=0A							</tbody></table>=0A    							<table class=3D"=
+col-two" style=3D"table-layout: fixed;width: 100%;" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">=0A								<tbody><tr>=0A					=
+				<td class=3D"spacer-w" style=3D"font-family: Arial, sans-seri=
+f;font-size: 14px;vertical-align: top;width: 15px;">&nbsp;</td>=0A=
+									<td class=3D"teaser" style=3D"font-family: Arial, sans-s=
+erif;font-size: 14px;vertical-align: top;">=0A										<a title=3D=
+"Rezepte: Gr=C3=BCne Smoothies" href=3D"http://l.newsletter.kaufl=
+and.de/rts/go2.aspx?h=3D19936&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3=
+u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: poi=
+nter;text-decoration: none !important;text-decoration: none;displ=
+ay: block;">=0A											<img alt=3D"Rezepte: Gr=C3=BCne Smoothi=
+es" src=3D"http://wpm.ccmp.eu/wpm/100290/ContentUploads/Templates=
+/5878ce66209a4.jpg" style=3D"border: none;display: block;width: 2=
+77px;margin: 0;" width=3D"277">=0A											<h3 style=3D"margin:=
+ 0;font-size: 14px;font-weight: bold;margin-top: 15px;">Gr=C3=BCn=
+e Smoothies als Energiekick</h3>=0A											<p style=3D"margin-=
+top: 15px;margin-bottom: 0;">Wer eine gute Leistung beim Sport er=
+bringen m=C3=B6chte braucht viel Energie. G=C3=B6nnen Sie sich da=
+her vor Ihrem Training einen gr=C3=BCnen Smoothie, wie etwa unser=
+en Trauben-Salat-Kresse-Smoothie.</p>=0A										</a>=0A								=
+		<table style=3D"margin-top: 15px;" cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0"><tbody><tr><td style=3D"font-family: Arial, =
+sans-serif;font-size: 14px;vertical-align: top;">=0A											<t=
+able cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A								=
+				<tbody><tr><td class=3D"btn" style=3D"font-family: Arial, san=
+s-serif;font-size: 14px;vertical-align: top;background: #424242;"=
+>=0A													<a title=3D"" href=3D"http://l.newsletter.kaufla=
+nd.de/rts/go2.aspx?h=3D19936&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u=
+6cU-jHDxz" target=3D"_blank" style=3D"color: #ffffff;cursor: poin=
+ter;text-decoration: none !important;text-decoration: none;border=
+: 1px solid #424242;display: inline-block;padding: 12px;">Zu den =
+Rezepten</a>=0A												</td></tr>=0A											</tbody></tabl=
+e>=0A										</td></tr></tbody></table>=0A									</td>=0A				=
+					<td class=3D"spacer-w" style=3D"font-family: Arial, sans-ser=
+if;font-size: 14px;vertical-align: top;width: 15px;">&nbsp;</td>=0A=
+									<td class=3D"teaser" style=3D"font-family: Arial, sans-s=
+erif;font-size: 14px;vertical-align: top;">=0A										<a title=3D=
+"Rezepte: Pfiffige Omelettes" href=3D"http://l.newsletter.kauflan=
+d.de/rts/go2.aspx?h=3D19937&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6=
+cU-jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: point=
+er;text-decoration: none !important;text-decoration: none;display=
+: block;">=0A											<img alt=3D"Rezepte: Pfiffige Omelettes" =
+src=3D"http://wpm.ccmp.eu/wpm/100290/ContentUploads/Templates/587=
+8ce7081f9d.jpg" style=3D"border: none;display: block;width: 277px=
+;margin: 0;" width=3D"277">=0A											<h3 style=3D"margin: 0;f=
+ont-size: 14px;font-weight: bold;margin-top: 15px;">Pfiffige Omel=
+ettes</h3>=0A											<p style=3D"margin-top: 15px;margin-botto=
+m: 0;">Akkus leer? F=C3=BCllen Sie Ihren Energiebedarf nach dem S=
+port wieder auf. Probieren Sie zum Beispiel unser gef=C3=BClltes =
+Lachsomelett oder unser Schnittlauch-Omelett mit Tomaten-Linsen-F=
+=C3=BCllung.<br></p>=0A										</a>=0A										<table style=3D=
+"margin-top: 15px;" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0"><tbody><tr><td style=3D"font-family: Arial, sans-serif;font-s=
+ize: 14px;vertical-align: top;">=0A											<table cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0">=0A												<tbody><tr><td =
+class=3D"btn" style=3D"font-family: Arial, sans-serif;font-size: =
+14px;vertical-align: top;background: #424242;">=0A													<a=
+ title=3D"" href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?=
+h=3D19937&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D=
+"_blank" style=3D"color: #ffffff;cursor: pointer;text-decoration:=
+ none !important;text-decoration: none;border: 1px solid #424242;=
+display: inline-block;padding: 12px;">Zur Rezeptwelt</a>=0A						=
+						</td></tr>=0A											</tbody></table>=0A										</td><=
+/tr></tbody></table>=0A									</td>=0A									<td class=3D"spa=
+cer-w" style=3D"font-family: Arial, sans-serif;font-size: 14px;ve=
+rtical-align: top;width: 15px;">&nbsp;</td>=0A								</tr>=0A			=
+					<tr>=0A									<td colspan=3D"5" class=3D"spacer-h" style=3D=
+"font-family: Arial, sans-serif;font-size: 15px;vertical-align: t=
+op;height: 15px;line-height: 1;">&nbsp;</td>=0A								</tr>=0A		=
+					</tbody></table><table class=3D"col-two" style=3D"table-layo=
+ut: fixed;width: 100%;" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0">=0A								<tbody><tr>=0A									<td class=3D"spacer-w" =
+style=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-=
+align: top;width: 15px;">&nbsp;</td>=0A									<td class=3D"teas=
+er" style=3D"font-family: Arial, sans-serif;font-size: 14px;verti=
+cal-align: top;">=0A										<a title=3D"Magazin: Fitness vor de=
+m Fr=C3=BChst=C3=BCck" href=3D"http://l.newsletter.kaufland.de/rt=
+s/go2.aspx?h=3D19938&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDx=
+z" target=3D"_blank" style=3D"color: #333333;cursor: pointer;text=
+-decoration: none !important;text-decoration: none;display: block=
+;">=0A											<img alt=3D"Magazin: Fitness vor dem Fr=C3=BChst=
+=C3=BCck" src=3D"http://wpm.ccmp.eu/wpm/100290/ContentUploads/Tem=
+plates/5878ce7b6bb66.jpg" style=3D"border: none;display: block;wi=
+dth: 277px;margin: 0;" width=3D"277">=0A											<h3 style=3D"m=
+argin: 0;font-size: 14px;font-weight: bold;margin-top: 15px;">Fit=
+ness vor dem Fr=C3=BChst=C3=BCck</h3>=0A											<p style=3D"ma=
+rgin-top: 15px;margin-bottom: 0;">Ist Sport auf n=C3=BCchternen M=
+agen gut? Wir verraten Ihnen, ob Sie vor Ihrem morgendlichen Trai=
+ning lieber etwas essen sollten oder nicht.</p>=0A										</a>=0A=
+										<table style=3D"margin-top: 15px;" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"font-family:=
+ Arial, sans-serif;font-size: 14px;vertical-align: top;">=0A					=
+						<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A=
+												<tbody><tr><td class=3D"btn" style=3D"font-family: Ar=
+ial, sans-serif;font-size: 14px;vertical-align: top;background: #=
+424242;">=0A													<a title=3D"" href=3D"http://l.newslette=
+r.kaufland.de/rts/go2.aspx?h=3D19938&tp=3Di-H43-Q5a-bW-3wjEq-1n-6=
+1Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #ffffff;curs=
+or: pointer;text-decoration: none !important;text-decoration: non=
+e;border: 1px solid #424242;display: inline-block;padding: 12px;"=
+>Artikel lesen</a>=0A												</td></tr>=0A											</tbody>=
+</table>=0A										</td></tr></tbody></table>=0A									</td>=0A=
+									<td class=3D"spacer-w" style=3D"font-family: Arial, sans=
+-serif;font-size: 14px;vertical-align: top;width: 15px;">&nbsp;</=
+td>=0A									<td class=3D"teaser" style=3D"font-family: Arial, =
+sans-serif;font-size: 14px;vertical-align: top;">=0A										<a =
+title=3D"Angebote: Gentechnikfrei" href=3D"http://l.newsletter.ka=
+ufland.de/rts/go2.aspx?h=3D19939&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1=
+c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: =
+pointer;text-decoration: none !important;text-decoration: none;di=
+splay: block;">=0A											<img alt=3D"Angebote: Gentechnikfrei=
+" src=3D"http://wpm.ccmp.eu/wpm/100290/ContentUploads/Templates/5=
+878d08747a76.jpg" style=3D"border: none;display: block;width: 277=
+px;margin: 0;" width=3D"277">=0A											<h3 style=3D"margin: 0=
+;font-size: 14px;font-weight: bold;margin-top: 15px;">Genuss ohne=
+ Gentechnik</h3>=0A											<p style=3D"margin-top: 15px;margin=
+-bottom: 0;">Unbeschwert genie=C3=9Fen: Immer mehr Produkte unser=
+er Eigenmarke K-Classic werden ohne Gentechnik hergestellt. Sie e=
+rkennen diese am gr=C3=BCnen Siegel.<br></p>=0A										</a>=0A	=
+									<table style=3D"margin-top: 15px;" cellpadding=3D"0" cel=
+lspacing=3D"0" border=3D"0"><tbody><tr><td style=3D"font-family: =
+Arial, sans-serif;font-size: 14px;vertical-align: top;">=0A						=
+					<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A	=
+											<tbody><tr><td class=3D"btn" style=3D"font-family: Ari=
+al, sans-serif;font-size: 14px;vertical-align: top;background: #4=
+24242;">=0A													<a title=3D"" href=3D"http://l.newsletter=
+.kaufland.de/rts/go2.aspx?h=3D19939&tp=3Di-H43-Q5a-bW-3wjEq-1n-61=
+Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #ffffff;curso=
+r: pointer;text-decoration: none !important;text-decoration: none=
+;border: 1px solid #424242;display: inline-block;padding: 12px;">=
+Angebote entdecken</a>=0A												</td></tr>=0A											</tb=
+ody></table>=0A										</td></tr></tbody></table>=0A									</=
+td>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial=
+, sans-serif;font-size: 14px;vertical-align: top;width: 15px;"></=
+td>=0A								</tr>=0A								<tr>=0A									<td colspan=3D"5" c=
+lass=3D"spacer-h" style=3D"font-family: Arial, sans-serif;font-si=
+ze: 15px;vertical-align: top;height: 15px;line-height: 1;">&nbsp;=
+</td>=0A								</tr>=0A							</tbody></table><table class=3D"co=
+l-two" style=3D"table-layout: fixed;width: 100%;" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">=0A								<tbody><tr>=0A						=
+			<td class=3D"spacer-w" style=3D"font-family: Arial, sans-serif=
+;font-size: 14px;vertical-align: top;width: 15px;">&nbsp;</td>=0A=
+									<td class=3D"teaser" style=3D"font-family: Arial, sans-s=
+erif;font-size: 14px;vertical-align: top;">=0A										<a title=3D=
+"Angebote: Heimwerken" href=3D"http://l.newsletter.kaufland.de/rt=
+s/go2.aspx?h=3D19940&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDx=
+z" target=3D"_blank" style=3D"color: #333333;cursor: pointer;text=
+-decoration: none !important;text-decoration: none;display: block=
+;">=0A											<img alt=3D"Angebote: Heimwerken" src=3D"http://=
+wpm.ccmp.eu/wpm/100290/ContentUploads/Templates/587f6455a394b.jpg=
+" style=3D"border: none;display: block;width: 277px;margin: 0;" w=
+idth=3D"277">=0A											<h3 style=3D"margin: 0;font-size: 14px=
+;font-weight: bold;margin-top: 15px;">Handwerken leicht gemacht</=
+h3>=0A											<p style=3D"margin-top: 15px;margin-bottom: 0;">=
+Von Sicherheitsschuhen bis Wandfarbe und Werkzeug: In unseren Ang=
+eboten finden Sie alles, was ein guter Handwerker braucht.<br></p=
+>=0A										</a>=0A										<table style=3D"margin-top: 15px;"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tbody><tr><td =
+style=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-=
+align: top;">=0A											<table cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0A												<tbody><tr><td class=3D"btn" styl=
+e=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-alig=
+n: top;background: #424242;">=0A													<a title=3D"" href=3D=
+"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19940&tp=3Di-H4=
+3-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"=
+color: #ffffff;cursor: pointer;text-decoration: none !important;t=
+ext-decoration: none;border: 1px solid #424242;display: inline-bl=
+ock;padding: 12px;">Angebote ansehen</a>=0A												</td></tr>=
+=0A											</tbody></table>=0A										</td></tr></tbody></ta=
+ble>=0A									</td>=0A									<td class=3D"spacer-w" style=3D"=
+font-family: Arial, sans-serif;font-size: 14px;vertical-align: to=
+p;width: 15px;">&nbsp;</td>=0A									<td class=3D"teaser" style=
+=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-align=
+: top;">=0A										<a title=3D"Angebote: Pfoten &amp; Co." href=
+=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19941&tp=3Di=
+-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D=
+"color: #333333;cursor: pointer;text-decoration: none !important;=
+text-decoration: none;display: block;">=0A											<img alt=3D"=
+Angebote: Pfoten &amp; Co." src=3D"http://wpm.ccmp.eu/wpm/100290/=
+ContentUploads/Templates/587f64476e171.jpg" style=3D"border: none=
+;display: block;width: 277px;margin: 0;" width=3D"277">=0A							=
+				<h3 style=3D"margin: 0;font-size: 14px;font-weight: bold;marg=
+in-top: 15px;">Hund, Katze &amp; Co.</h3>=0A											<p style=3D=
+"margin-top: 15px;margin-bottom: 0;">Verw=C3=B6hnen Sie ihren fla=
+uschigen Vierbeiner zum Beispiel mit unserem Haustierliegekissen =
+oder Haustier-Wendek=C3=B6rbchen.<br></p>=0A										</a>=0A				=
+						<table style=3D"margin-top: 15px;" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0"><tbody><tr><td style=3D"font-family: Ari=
+al, sans-serif;font-size: 14px;vertical-align: top;">=0A									=
+		<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0">=0A				=
+								<tbody><tr><td class=3D"btn" style=3D"font-family: Arial,=
+ sans-serif;font-size: 14px;vertical-align: top;background: #4242=
+42;">=0A													<a title=3D"" href=3D"http://l.newsletter.ka=
+ufland.de/rts/go2.aspx?h=3D19941&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1=
+c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #ffffff;cursor: =
+pointer;text-decoration: none !important;text-decoration: none;bo=
+rder: 1px solid #424242;display: inline-block;padding: 12px;">Zu =
+den Angeboten</a>=0A												</td></tr>=0A											</tbody><=
+/table>=0A										</td></tr></tbody></table>=0A									</td>=0A=
+									<td class=3D"spacer-w" style=3D"font-family: Arial, sans=
+-serif;font-size: 14px;vertical-align: top;width: 15px;"></td>=0A=
+								</tr>=0A								<tr>=0A									<td colspan=3D"5" class=3D=
+"spacer-h" style=3D"font-family: Arial, sans-serif;font-size: 15p=
+x;vertical-align: top;height: 15px;line-height: 1;">&nbsp;</td>=0A=
+								</tr>=0A							</tbody></table>=0A    							=0A    					=
+		<table style=3D"width: 100%;" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0">=0A								<tbody><tr>=0A									<td class=3D"sp=
+acer-w" style=3D"font-family: Arial, sans-serif;font-size: 14px;v=
+ertical-align: top;width: 15px;">&nbsp;</td>=0A									<td class=
+=3D"banner" style=3D"font-family: Arial, sans-serif;font-size: 14=
+px;vertical-align: top;">=0A										<a title=3D"Donnerschlag ab=
+ Donnerstag!" href=3D"http://l.newsletter.kaufland.de/rts/go2.asp=
+x?h=3D19942&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=
+=3D"_blank" style=3D"color: #333333;cursor: pointer;text-decorati=
+on: none;display: block;">=0A											<img alt=3D"Donnerschlag =
+ab Donnerstag!" src=3D"http://wpm.ccmp.eu/wpm/100290/ContentUploa=
+ds/Templates/5878cead96e27.jpg" style=3D"border: none;display: bl=
+ock;width: 569px;" width=3D"569">=0A										</a>=0A									</t=
+d>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial,=
+ sans-serif;font-size: 14px;vertical-align: top;width: 15px;">&nb=
+sp;</td>=0A								</tr>=0A								<tr>=0A									<td colspan=3D=
+"3" class=3D"spacer-h" style=3D"font-family: Arial, sans-serif;fo=
+nt-size: 15px;vertical-align: top;height: 15px;line-height: 1;">&=
+nbsp;</td>=0A								</tr>=0A							</tbody></table>=0A    						=
+	=0A    							=0A    							=0A    							=0A    							<table c=
+lass=3D"col-two" style=3D"table-layout: fixed;width: 100%;" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">=0A								<tbody><tr=
+>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial, =
+sans-serif;font-size: 14px;vertical-align: top;width: 15px;">&nbs=
+p;</td>=0A									<td class=3D"banner" style=3D"font-family: Ari=
+al, sans-serif;font-size: 14px;vertical-align: top;">=0A									=
+	<a title=3D"Prospekt durchbl=C3=A4ttern" href=3D"http://l.newsle=
+tter.kaufland.de/rts/go2.aspx?h=3D19943&tp=3Di-H43-Q5a-bW-3wjEq-1=
+n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;c=
+ursor: pointer;text-decoration: none;display: block;">=0A								=
+			<img alt=3D"Prospekt durchbl=C3=A4ttern" src=3D"http://wpm.ccm=
+p.eu/wpm/100290/ContentUploads/Templates/586cc4d8ebc68.jpg" style=
+=3D"border: none;display: block;width: 277px;" width=3D"277">=0A	=
+									</a>=0A									</td>=0A									<td class=3D"spacer-w" =
+style=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-=
+align: top;width: 15px;">&nbsp;</td>=0A									<td class=3D"bann=
+er" style=3D"font-family: Arial, sans-serif;font-size: 14px;verti=
+cal-align: top;">=0A										<a title=3D"Aktuelle Angebote" href=
+=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19944&tp=3Di=
+-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D=
+"color: #333333;cursor: pointer;text-decoration: none;display: bl=
+ock;">=0A											<img alt=3D"Aktuelle Angebote" src=3D"http://=
+wpm.ccmp.eu/wpm/100290/ContentUploads/Templates/5878cec315aca.jpg=
+" style=3D"border: none;display: block;width: 277px;" width=3D"27=
+7">=0A										</a>=0A									</td>=0A									<td class=3D"spa=
+cer-w" style=3D"font-family: Arial, sans-serif;font-size: 14px;ve=
+rtical-align: top;width: 15px;">&nbsp;</td>=0A								</tr>=0A			=
+					<tr>=0A									<td colspan=3D"5" class=3D"spacer-h" style=3D=
+"font-family: Arial, sans-serif;font-size: 15px;vertical-align: t=
+op;height: 15px;line-height: 1;">&nbsp;</td>=0A								</tr>=0A		=
+					</tbody></table>=0A    							=0A    							=0A    							=0A=
+    							<table class=3D"headline" style=3D"width: 100%;" cellp=
+adding=3D"0" cellspacing=3D"0" border=3D"0">=0A								<tbody><tr=
+>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial, =
+sans-serif;font-size: 14px;vertical-align: top;width: 15px;">&nbs=
+p;</td>=0A									<td style=3D"font-family: Arial, sans-serif;fo=
+nt-size: 14px;vertical-align: top;">=0A										<h1 style=3D"mar=
+gin: 0;font-size: 25px;font-weight: bold;">Reise der Woche<br></h=
+1>=0A									</td>=0A									<td class=3D"spacer-w" style=3D"fo=
+nt-family: Arial, sans-serif;font-size: 14px;vertical-align: top;=
+width: 15px;">&nbsp;</td>=0A								</tr>=0A								<tr>=0A						=
+			<td colspan=3D"3" class=3D"spacer-h" style=3D"font-family: Ari=
+al, sans-serif;font-size: 15px;vertical-align: top;height: 15px;l=
+ine-height: 1;">&nbsp;</td>=0A								</tr>=0A							</tbody></ta=
+ble><table style=3D"width: 100%;" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0">=0A								<tbody><tr>=0A									<td class=3D"s=
+pacer-w" style=3D"font-family: Arial, sans-serif;font-size: 14px;=
+vertical-align: top;width: 15px;">&nbsp;</td>=0A									<td clas=
+s=3D"teaser" style=3D"font-family: Arial, sans-serif;font-size: 1=
+4px;vertical-align: top;">=0A										<a title=3D"Reise der Woch=
+e" href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19952=
+&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank"=
+ style=3D"color: #333333;cursor: pointer;text-decoration: none !i=
+mportant;text-decoration: none;display: block;">=0A											<im=
+g alt=3D"Reise der Woche" src=3D"http://wpm.ccmp.eu/wpm/100290/Co=
+ntentUploads/Templates/5878d030e47f4.jpg" style=3D"border: none;d=
+isplay: block;width: 569px;margin: 0;" width=3D"569">=0A									=
+		<h3 style=3D"margin: 0;font-size: 14px;font-weight: bold;margin=
+-top: 15px;">Bayerischer Wald</h3>=0A											<p style=3D"margi=
+n-top: 15px;margin-bottom: 0;">3 N=C3=A4chte, Hotel Karoli ***+, =
+All Inclusive</p>=0A										</a>=0A										<table style=3D"ma=
+rgin-top: 15px;" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"=
+><tbody><tr><td style=3D"font-family: Arial, sans-serif;font-size=
+: 14px;vertical-align: top;">=0A											<table cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0">=0A												<tbody><tr><td c=
+lass=3D"btn" style=3D"font-family: Arial, sans-serif;font-size: 1=
+4px;vertical-align: top;background: #424242;">=0A													<a =
+title=3D"" href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=
+=3D19952&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D=
+"_blank" style=3D"color: #ffffff;cursor: pointer;text-decoration:=
+ none !important;text-decoration: none;border: 1px solid #424242;=
+display: inline-block;padding: 12px;"> Jetzt buchen</a>=0A							=
+					</td></tr>=0A											</tbody></table>=0A										</td></=
+tr></tbody></table>=0A									</td>=0A									<td class=3D"spac=
+er-w" style=3D"font-family: Arial, sans-serif;font-size: 14px;ver=
+tical-align: top;width: 15px;">&nbsp;</td>=0A								</tr>=0A				=
+				<tr>=0A									<td colspan=3D"3" class=3D"spacer-h" style=3D=
+"font-family: Arial, sans-serif;font-size: 15px;vertical-align: t=
+op;height: 15px;line-height: 1;">&nbsp;</td>=0A								</tr>=0A		=
+					</tbody></table><table class=3D"footer" style=3D"width: 100%=
+;" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#d3d3d3" border=
+=3D"0">=0A								<tbody><tr>=0A									<td class=3D"spacer-w" s=
+tyle=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-a=
+lign: top;width: 15px;">&nbsp;</td>=0A									<td class=3D"paddi=
+ng-topbottom" style=3D"font-family: Arial, sans-serif;font-size: =
+14px;vertical-align: top;padding: 15px 0;">=0A										<table cl=
+ass=3D"center" style=3D"text-align: center;width: 100%;" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0">=0A											<tbody><tr=
+>=0A												<td style=3D"font-family: Arial, sans-serif;font-=
+size: 14px;vertical-align: top;">=0A													=0A												<=
+br></td>=0A											</tr>=0A											<tr>=0A												<td s=
+tyle=3D"font-family: Arial, sans-serif;font-size: 14px;vertical-a=
+lign: top;">=0A													<h2 style=3D"margin: 0;font-size: 25p=
+x;font-weight: bold;">Service-Hotline</h2>=0A													<p styl=
+e=3D"margin-top: 0;margin-bottom: 15px;">(Mo.-Sa. 08:00 bis 19:00=
+ Uhr, kostenlos)</p>=0A													<p class=3D"hotline" style=3D=
+"margin-top: 0;margin-bottom: 15px;font-size: 25px;font-weight: b=
+old;"><a target=3D"_blank" title=3D"" href=3D"tel:08001528352" st=
+yle=3D"color: #333333;cursor: pointer;text-decoration: none !impo=
+rtant;text-decoration: none;">08 00 / 1 52 83 52</a></p>=0A						=
+							<p class=3D"email" style=3D"margin-top: 0;margin-bottom: 1=
+5px;font-size: 19px;font-weight: bold;"><a target=3D"_blank" href=
+=3D"mailto:service@kaufland.de" style=3D"color: #333333;cursor: p=
+ointer;text-decoration: none !important;text-decoration: none;">s=
+ervice@kaufland.de</a></p>=0A												</td>=0A											</tr>=
+=0A											<tr>=0A												<td style=3D"font-family: Arial,=
+ sans-serif;font-size: 14px;vertical-align: top;">=0A												=
+	<p style=3D"margin-top: 0;margin-bottom: 15px;">=0A													=
+	<a title=3D"" href=3D"http://l.newsletter.kaufland.de/rts/go2.as=
+px?h=3D19946&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" targe=
+t=3D"_blank" style=3D"color: #333333;cursor: pointer;text-decorat=
+ion: none !important;text-decoration: none;">Impressum</a> | =0A	=
+													<a title=3D"" href=3D"http://l.newsletter.kaufland.d=
+e/rts/go2.aspx?h=3D19947&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-=
+jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: pointer;=
+text-decoration: none !important;text-decoration: none;">FAQ</a> =
+| =0A														<a title=3D"" href=3D"http://l.newsletter.kauf=
+land.de/rts/go2.aspx?h=3D19948&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-=
+3u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: po=
+inter;text-decoration: none !important;text-decoration: none;">Da=
+tenschutz</a>=0A													</p>=0A												</td>=0A									=
+		</tr>=0A											<tr>=0A												<td style=3D"font-family:=
+ Arial, sans-serif;font-size: 14px;vertical-align: top;">=0A					=
+								<p style=3D"margin-top: 0;margin-bottom: 15px;">=0A						=
+								<a href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=
+=3D19949&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D=
+"_blank" style=3D"color: #333333;cursor: pointer;text-decoration:=
+ none;"><img src=3D"http://wpm.ccmp.eu/wpm/100290/generic/social-=
+media-icon-facebook.jpg" alt=3D"Kaufland bei Facebook" style=3D"b=
+order: none;" height=3D"50"></a>&nbsp;=0A														<a href=3D=
+"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19950&tp=3Di-H4=
+3-Q5a-bW-3wjEq-1n-61Y-1c-3u6cU-jHDxz" target=3D"_blank" style=3D"=
+color: #333333;cursor: pointer;text-decoration: none;"><img src=3D=
+"http://wpm.ccmp.eu/wpm/100290/generic/social-media-icon-twitter.=
+jpg" alt=3D"Kaufland bei Twitter" style=3D"border: none;" height=3D=
+"50"></a>&nbsp;=0A														<a href=3D"http://l.newsletter.ka=
+ufland.de/rts/go2.aspx?h=3D19951&tp=3Di-H43-Q5a-bW-3wjEq-1n-61Y-1=
+c-3u6cU-jHDxz" target=3D"_blank" style=3D"color: #333333;cursor: =
+pointer;text-decoration: none;"><img src=3D"http://wpm.ccmp.eu/wp=
+m/100290/generic/social-media-icon-youtube.jpg" alt=3D"Kaufland b=
+ei YouTube" style=3D"border: none;" height=3D"50"></a>=0A								=
+					</p>=0A												</td>=0A											</tr>=0A											<tr=
+>=0A												<td class=3D"subscription-conf" style=3D"font-fam=
+ily: Arial, sans-serif;font-size: 14px;vertical-align: top;">=0A	=
+												<p style=3D"margin-top: 0;margin-bottom: 15px;">Newsl=
+etterservice:</p>=0A													<p style=3D"margin-top: 0;margin=
+-bottom: 15px;"></p>=0A													<div class=3D"edit">Ihre pers=
+=C3=B6nlichen Einstellungen =C3=A4ndern Sie <a title=3D"" target=3D=
+"_blank" href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D=
+19933&tp=3Di-H55-Q5a-bW-3wjEq-1n-61Y-1c-4RZ-3u6cU-1jgWcL&x=3D520C=
+F884-9768-44E1-8E25-FEC06DB43E1C">hier</a>.<br>Falls Sie Ihren Ne=
+wsletter abbestellen m=C3=B6chten, klicken Sie <a target=3D"_blan=
+k" href=3D"http://l.newsletter.kaufland.de/rts/go2.aspx?h=3D19932=
+&tp=3Di-H55-Q5a-bW-3wjEq-1n-61Y-1c-4Ra-3u6cU-22yTUP&x=3D520CF884-=
+9768-44E1-8E25-FEC06DB43E1C">hier</a>.</div><p></p>=0A											=
+	</td>=0A											</tr>=0A										</tbody></table>=0A								=
+	</td>=0A									<td class=3D"spacer-w" style=3D"font-family: Ar=
+ial, sans-serif;font-size: 14px;vertical-align: top;width: 15px;"=
+>&nbsp;</td>=0A								</tr>=0A							</tbody>=0A						</table>=0A=
+=0A<table class=3D"metafooter-cnt" style=3D"background: #e5e5e5;w=
+idth: 100%;" cellpadding=3D"0" cellspacing=3D"0" bgcolor=3D"#e5e5=
+e5" border=3D"0">=0A								<tbody><tr>=0A									<td class=3D"s=
+pacer-w" style=3D"font-family: Arial, sans-serif;font-size: 10px;=
+vertical-align: top;width: 15px;color: #8e8e8e;">&nbsp;</td>=0A		=
+							<td style=3D"text-align: center;padding: 15px 0;font-famil=
+y: Arial, sans-serif;font-size: 10px;vertical-align: top;color: #=
+8e8e8e;">=0A										<p style=3D"margin-top: 0;margin-bottom: 15=
+px;">Kaufland Omnichannel International GmbH &amp; Co. KG<br>=0A	=
+									R=C3=B6telstra=C3=9Fe 35<br>=0A										74172 Neckarsul=
+m</p>=0A										<p style=3D"margin-top: 0;margin-bottom: 15px;"=
+>Amtsgericht Stuttgart: HRA 103538<br>=0A										USt-IdNr: DE 1=
+66059808<br>=0A										Sitz: Neckarsulm</p>=0A										<p styl=
+e=3D"margin-top: 0;margin-bottom: 15px;">Die Kaufland Omnichannel=
+ International GmbH &amp; Co. KG wird vertreten durch die KL-220-=
+Beteiligungs-GmbH mit Sitz in Neckarsulm, Amtsgericht Stuttgart: =
+HRB 108015, die ihrerseits durch die Gesch=C3=A4ftsf=C3=BChrer Ra=
+lf Hensen, Sven Homes, J=C3=B6rg Ossenberg-Engels, Dr. Marcus Rod=
+ermann und Dr. Christoph Stark vertreten wird.</p>=0A									</t=
+d>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial,=
+ sans-serif;font-size: 10px;vertical-align: top;width: 15px;color=
+: #8e8e8e;">&nbsp;</td>=0A								</tr>=0A								<tr>=0A								=
+	<td colspan=3D"3" class=3D"spacer-h" style=3D"font-family: Arial=
+, sans-serif;font-size: 10px;vertical-align: top;height: 15px;lin=
+e-height: 1;color: #8e8e8e;">&nbsp;</td>=0A								</tr>=0A						=
+	</tbody></table>=0A    							<table class=3D"metafooter-cnt" st=
+yle=3D"background: #e5e5e5;width: 100%;" cellpadding=3D"0" cellsp=
+acing=3D"0" bgcolor=3D"#e5e5e5" border=3D"0">=0A								<tbody><t=
+r>=0A									<td class=3D"spacer-w" style=3D"font-family: Arial,=
+ sans-serif;font-size: 10px;vertical-align: top;width: 15px;color=
+: #8e8e8e;">&nbsp;</td>=0A									<td style=3D"font-family: Aria=
+l, sans-serif;font-size: 10px;vertical-align: top;color: #8e8e8e;=
+">=0A										<p style=3D"margin-top: 0px; margin-bottom: 15px; =
+text-align: center;">=C2=B9Gegen=C3=BCber dem Regul=C3=A4rpreis b=
+ei Buchung bis 30.01.2017.<br></p></td>=0A									<td class=3D"s=
+pacer-w" style=3D"font-family: Arial, sans-serif;font-size: 10px;=
+vertical-align: top;width: 15px;color: #8e8e8e;">&nbsp;</td>=0A		=
+						</tr>=0A								<tr>=0A									<td colspan=3D"3" class=3D"=
+spacer-h" style=3D"font-family: Arial, sans-serif;font-size: 10px=
+;vertical-align: top;height: 15px;line-height: 1;color: #8e8e8e;"=
+>&nbsp;</td>=0A								</tr>=0A							</tbody></table></div>=0A		=
+			</td>=0A				</tr>=0A			</tbody></table>=0A		</td></tr></tbody>=
+</table></body></html>
+----boundary_5787183_5740ffeb-ed84-420f-8c0e-148eba6ad6d5--
+
+
+

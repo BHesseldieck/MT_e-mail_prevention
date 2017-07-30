@@ -1,0 +1,518 @@
+From 1558065340292594579@xxx Tue Jan 31 18:21:38 +0000 2017
+X-GM-THRID: 1558065340292594579
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1994793qge;
+        Tue, 31 Jan 2017 10:21:38 -0800 (PST)
+X-Received: by 10.200.53.150 with SMTP id k22mr28228404qtb.19.1485886898670;
+        Tue, 31 Jan 2017 10:21:38 -0800 (PST)
+Return-Path: <bounce-212301336f-1221424@in00.m1e.net>
+Received: from out01-8.m1e.net (out01-8.m1e.net. [199.83.97.8])
+        by mx.google.com with ESMTP id m1si4716115qkf.90.2017.01.31.10.21.38
+        for <michael.mayer1001@gmail.com>;
+        Tue, 31 Jan 2017 10:21:38 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-212301336f-1221424@in00.m1e.net designates 199.83.97.8 as permitted sender) client-ip=199.83.97.8;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@in00.m1e.net;
+       spf=pass (google.com: domain of bounce-212301336f-1221424@in00.m1e.net designates 199.83.97.8 as permitted sender) smtp.mailfrom=bounce-212301336f-1221424@in00.m1e.net;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=pgecurrents.com
+Return-Path: <bounce-212301336f-1221424@in00.m1e.net>
+Received: from [192.168.96.28] ([192.168.96.28:20161] helo=localhost.localdomain)
+	by mommta2 (envelope-from <bounce-212301336f-1221424@in00.m1e.net>)
+	(ecelerity 3.6.18.52357 r(Core:3.6.18.0)) with ESMTP
+	id 64/65-01926-2B5D0985; Tue, 31 Jan 2017 13:21:38 -0500
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/simple; d=in00.m1e.net; h=
+	from:subject:to:date:list-help:list-unsubscribe:list-owner
+	:list-id:list-post:message-id:feedback-id:mime-version
+	:content-type; s=in00; bh=P56I6qHSJ3lMWYSUOVmqnbHs/Oo=; b=iTqb4r
+	lwoo09FuYBYh5HfrhJLJmY6UNgY3Ng+dP4j5RIG80e8Rc1Ui4g9T0zPEeFe42uVM
+	54lgwvGqTelCVg0mzJbwhiGrG86dPzwZM06BVq7zJseRKgpXrQ6aZ93DMqcR/sZg
+	FBGFe3zPCw+zd0PGpBY10Nh4vefbKI7iyyU2o=
+From: "Currents" <currents@pgecurrents.com>
+Subject: Currents Month in Review: PG&E, Mutual Aid Respond to Strong Winter
+ Storms
+To: michael.mayer1001@gmail.com
+Date: Tue, 31 Jan 2017 13:20:54 -0500
+List-Help: <mailto:currents@pgecurrents.com>
+List-Unsubscribe: <http://www.mailermailer.com/u/update/212301336f-d4fec368>
+List-Owner: <mailto:currents@pgecurrents.com>
+List-Id: <1028131z-66a3fdf8.m1e.net>
+List-Post: NO
+X-List-Owner-Address: 77 Beale Street | San Francisco, California 94105
+Message-ID: <212301336f.1221424.currents@pgecurrents.com>
+Feedback-ID: 49181544k:C1221424:campaign:mailermailer
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="---=MailerMailer-Boundary-aopncocd"; charset="utf-8"
+
+This is a multi-part message in MIME format.
+
+This message is available for you to view online. Click
+the link below or copy and paste it into your web browser:
+http://archive.mailermailer.com/view/212301336f-d4fec368%2a1221424f-d1d8d926
+
+-----=MailerMailer-Boundary-aopncocd
+Content-Type: text/plain; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Our current newsletter is available for you to view online. Click the
+link below or copy and paste it into your web browser:
+http://archive.mailermailer.com/view/212301336f-d4fec368%2a1221424f-d1d8d926
+
+--
+To unsubscribe/change profile:
+http://www.mailermailer.com/u/update/212301336f-d4fec368
+
+To subscribe:
+http://www.mailermailer.com/u/signup/1028131z
+
+Our address:
+77 Beale Street | San Francisco, California 94105
+
+
+Email Marketing by MailerMailer
+
+-----=MailerMailer-Boundary-aopncocd
+Content-Type: text/html; charset="utf-8"
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type" =
+/>
+  <title>FROM HANGING LIGHTS TO HELPING FAMILIES IN NEED, PG&E GIVES BACK D=
+URING HOLIDAYS</title>
+ </head>
+ <body bgcolor=3D"#d3e3ec">
+  <table align=3D"center" border=3D"0" cellpadding=3D"10" cellspacing=3D"0"=
+ width=3D"655">
+   <tr>
+    <td align=3D"center">
+     <div style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 10=
+px; color: #959595;">Having trouble reading this email? <a href=3D"http://m=
+1e.net/c?212301336-hlbGlMfyZeo2w%40389029933-JmwCzCs0KXQtM" style=3D"color:=
+ #0c87cb;">Click here to view a web version</a>. Not subscribed? <a href=3D=
+"http://m1e.net/c?212301336-by6aY2c3KrEcc%40389029934-vEEarXXxOXZ2%2e" styl=
+e=3D"color: #0c87cb;">Join here</a>.</div>
+    </td>
+   </tr>
+  </table>
+  <table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"655">
+   <tr>
+    <td>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td height=3D"112"><img alt=3D"" border=3D"0" height=3D"112" src=3D"=
+http://www.pgecurrents.com/wp-content/uploads/2016/01/brief_header.jpg" use=
+map=3D"#header" width=3D"655" /></td>
+      </tr>
+      <tr>
+       <td><img alt=3D"FROM HANGING LIGHTS TO HELPING FAMILIES IN NEED, PG&=
+E GIVES BACK DURING HOLIDAYS" border=3D"0" height=3D"242" src=3D"http://www=
+.pgecurrents.com/wp-content/uploads/2017/01/655x242_storm_response_2017.jpg=
+" style=3D"padding-bottom:0; margin-bottom:0;" width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td><img alt=3D"" height=3D"1" src=3D"http://www.pgecurrents.com/wp-=
+content/themes/PGE/images/email/brief-11102011/spacer.gif" width=3D"25" /><=
+/td>
+       <td width=3D"605">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 20px 0 =
+0 0;">CURRENTS MONTH IN REVIEW: January 2017</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 2=
+2px; text-transform: uppercase; padding: 0; margin: 15px 0;color: #0c87cb;"=
+><a href=3D"http://m1e.net/c?212301336-ziNH5jNI7OC1M%40389029935-b1G7OrvSXe=
+LiM" style=3D"color:#0c87cb;">PG&E RESPONDS TO SERIES OF STRONG WINTER STOR=
+MS WITH HELP FROM MUTUAL AID</a></h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">The=
+ new year was ushered in with a series of severe storms across PG&E=E2=80=
+=99s service area. An atmospheric river =E2=80=94 a flow of tropical moistu=
+re high in the air =E2=80=94 resulted in some of the most extreme weather i=
+n years. But PG&E was ready. More than 5,000 people were dedicated to the r=
+esponse effort, including dozens of mutual-aid crews from as far away as th=
+e state of Washington. Ninety-five percent of customers affected by power o=
+utages were restored within hours and many employees went above and beyond =
+the call of duty to help. </p>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size:12p=
+x; color: #4c4c4c; padding: 0 margin: 0 0 15px 0; line-height:18px;"><a hre=
+f=3D"http://m1e.net/c?212301336-1Y3D8NXzMnd5Q%40389029936-Srlk.w/fHqIxE" st=
+yle=3D"color: #0c87cb;">Currents</a> covered this story and more this month=
+. </p>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">&md=
+ash;<em>Tracy Correa Lopez, Writer</em></p>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 14=
+px; line-height: 18px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0;">
+        </p>
+       </td>
+       <td><img alt=3D"" height=3D"1" src=3D"http://www.pgecurrents.com/wp-=
+content/themes/PGE/images/email/brief-11102011/spacer.gif" width=3D"25" /><=
+/td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td valign=3D"top" width=3D"235"><a href=3D"http://m1e.net/c?2123013=
+36-.ne54br53Tcsk%40389029937-6Vms8ci2G33XY"><img alt=3D"PG&E=E2=80=99s Geis=
+ha Williams, Incoming CEO, Stresses Company=E2=80=99s Commitment to Clean E=
+nergy" border=3D"0" height=3D"129" src=3D"http://www.pgecurrents.com/wp-con=
+tent/uploads/2017/01/215x129_PEV_charging.jpg" width=3D"215" /></a></td>
+       <td valign=3D"top" width=3D"370">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 0;">NEW=
+S</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; padding: 0; margin: 12px 0 2px 0;"><a href=3D"http://m1e.net/c?2123013=
+36-.AfFMoTsP.Rss%40389029938-FEV9pWqCGSeWQ" style=3D"color: #0c87cb;">Propo=
+sal by PG&E Aimed at Expanding Support for Electric Vehicles in California<=
+/a></h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">PG&=
+E submitted a $250 million proposal to the California Public Utilities Comm=
+ission for projects aimed at accelerating widespread electric vehicle adopt=
+ion and combatting climate change. The seven proposed projects will help ex=
+pand the state=E2=80=99s EV infrastructure and help California meet its cli=
+mate goals.</p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td valign=3D"top" width=3D"235"><a href=3D"http://m1e.net/c?2123013=
+36-VYdA8w8f5BORo%40389029940-LohurmEUHkbVk"><img alt=3D"Nonprofit That Help=
+s Down Syndrome Families Wins PG&E-Sponsored Contest" border=3D"0" height=
+=3D"129" src=3D"http://www.pgecurrents.com/wp-content/uploads/2017/01/215x2=
+19_7x7_contest_check.jpg" width=3D"215" /></a></td>
+       <td valign=3D"top" width=3D"370">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 0;">LOC=
+AL</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; padding: 0; margin: 12px 0 2px 0;"><a href=3D"http://m1e.net/c?2123013=
+36-B3eWGzP/Sy8pI%40389029941-Bew727S/1iXDU" style=3D"color: #0c87cb;">Nonpr=
+ofit That Helps Down Syndrome Families Wins PG&E-Sponsored Contest</a></h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">Dow=
+n Syndrome Connection of the Bay Area, an organization that works to encour=
+age the unlimited potential in children and adults with Down syndrome, was =
+the winner of 7x7=E2=80=99s annual =E2=80=9CBay Area=E2=80=99s Favorite Cha=
+rities Contest.=E2=80=9D PG&E sponsored the contest awarding $10,000 to the=
+ winner and $2,000 to six finalists. </p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td valign=3D"top" width=3D"235"><a href=3D"http://m1e.net/c?2123013=
+36-ID1GVWzajE1WE%40389029942-pNG1R9qEcD.I%2e"><img alt=3D"PG&E=E2=80=99s Ge=
+isha Williams, Incoming CEO, Stresses Commitment to Renewable Future" borde=
+r=3D"0" height=3D"129" src=3D"http://www.pgecurrents.com/wp-content/uploads=
+/2017/01/215x129_SolarVolunteer.jpg" width=3D"215" /></a></td>
+       <td valign=3D"top" width=3D"370">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 0;">PER=
+SPECTIVES</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; padding: 0; margin: 12px 0 2px 0;"><a href=3D"http://m1e.net/c?2123013=
+36-XoE3lqcIGC/qo%40389029944-eJAfe9t9q7sIc" style=3D"color: #0c87cb;">PG&E=
+=E2=80=99s Geisha Williams Stresses Commitment to Renewable Future</a></h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">In =
+this seventh in a series of opinion columns on California=E2=80=99s clean e=
+nergy future, Geisha Williams, president of PG&E, Electric, explains how re=
+newable energy is now a way of life here and that PG&E is committed to ensu=
+ring that all customers have access to its benefits. Williams takes over as=
+ PG&E=E2=80=99s CEO in March. </p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td valign=3D"top" width=3D"235"><a href=3D"http://m1e.net/c?2123013=
+36-WXjL94z/ZUV56%40389029946-xm8zQ9I3.DTtQ"><img alt=3D"Air Inspections Hel=
+p PG&E Check for Trees Near Power Lines, Drought Damage" border=3D"0" heigh=
+t=3D"129" src=3D"http://www.pgecurrents.com/wp-content/uploads/2017/01/215x=
+129_helicopter_inspection.jpg" width=3D"215" /></a></td>
+       <td valign=3D"top" width=3D"370">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 0;">LOC=
+AL</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; padding: 0; margin: 12px 0 2px 0;"><a href=3D"http://m1e.net/c?2123013=
+36-yzv84joDXxJLQ%40389029947-HoCreeOcAGzdU" style=3D"color: #0c87cb;">Air I=
+nspections Help PG&E Check for Trees Near Power Lines, Drought Damage</a></=
+h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">PG&=
+E recently used helicopters in Sonoma and Mendocino counties to check for t=
+rees near power lines that may have been weakened by the past five years of=
+ drought. Although the state has had recent rain, years of drought has weak=
+ened trees and branches that can fall into power lines causing outages and =
+fires. </p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td valign=3D"top" width=3D"235"><a href=3D"http://m1e.net/c?2123013=
+36-RXZwQrEiNI8MY%40389029948-oQTYW72wCTluk"><img alt=3D"PG&E, Staples Work =
+Together to Bring Energy Efficiency Success to Stores" border=3D"0" height=
+=3D"129" src=3D"http://www.pgecurrents.com/wp-content/uploads/2017/01/215x1=
+29_staples.jpg" width=3D"215" /></a></td>
+       <td valign=3D"top" width=3D"370">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+3px; color: #ffa816; text-transform: uppercase; padding: 0; margin: 0;">NEW=
+S</h3>
+        <h2 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; padding: 0; margin: 12px 0 2px 0;"><a href=3D"http://m1e.net/c?2123013=
+36-BhXQrUKv840qE%40389029950-4bbemG8j8h1ek" style=3D"color: #0c87cb;">PG&E,=
+ Staples Work Together to Bring Energy Efficiency Success to Stores</a></h2>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #4c4c4c; padding: 0; margin: 0 0 15px 0; line-height: 18px;">Whe=
+n the Alliance to Save Energy honored business solutions provider Staples f=
+or being an industry leader in energy efficiency, the retailer thanked PG&E=
+ for its partnership and working with its 46 Northern and Central Californi=
+a stores. It=E2=80=99s just another example of PG&E providing customers wit=
+h a personal touch.</p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"38" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/divider.gif" =
+width=3D"655" /></td>
+      </tr>
+     </table>
+     <table bgcolor=3D"#fda529" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-top:2px solid #cadde8;" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td width=3D"505">
+        <h3 style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 1=
+8px; color:#ffffff; padding:15px 0 0; margin:0;">Tell Us What You Think</h3>
+        <p style=3D"font-family:Arial, Helvetica, sans-serif; font-size: 12=
+px; color: #000000; font-style:italic; padding: 0; margin: 0 0 15px 0; line=
+-height: 14px;">To send us your thoughts on Currents or your ideas for stor=
+ies that you'd like to see us cover, please <a href=3D"http://m1e.net/c?212=
+301336-SqpU/9Zh1YX.c%40389029951-AhwV4NFPOHRGg" style=3D"color: #FFFFFF;">v=
+isit our website</a>.</p>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+      </tr>
+     </table>
+     <table bgcolor=3D"#0089c4" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"655">
+      <td width=3D"655"><img alt=3D"" height=3D"7" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+     </table>
+    </td>
+   </tr>
+  </table>
+  <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"655">
+   <tr>
+    <td>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"12" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" w=
+idth=3D"1" /></td>
+      </tr>
+     </table>
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr valign=3D"top">
+       <td width=3D"430">
+        <div style=3D"font-family:Arial, Helvetica, sans-serif; font-size: =
+10px; color: #959595;">
+         <br />&quot;PG&amp;E&quot; refers to Pacific Gas and Electric Comp=
+any, a subsidiary of PG&amp;E Corporation.<br />=C2=A9 2017 Pacific Gas and=
+ Electric Company. All rights reserved. </div>
+       </td>
+       <td width=3D"25"><img alt=3D"" height=3D"1" src=3D"http://www.pgecur=
+rents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wid=
+th=3D"25" /></td>
+       <td width=3D"200">
+        <ul style=3D"list-style-type: none; font-family:Arial, Helvetica, s=
+ans-serif; font-size: 10px; color: #0c87cb; font-weight: bold; margin: 0; p=
+adding: 0;">
+         <li style=3D"float: left; padding: 0 5px 0 0;"><a href=3D"http://m=
+1e.net/c?212301336-nHmGTg16ZReiI%40389029953-dtcRnMCZQoJak" style=3D"color:=
+ #0c87cb;">PG&amp;E Home</a></li>
+         <li style=3D"float: left; padding: 0 5px;"> | <a href=3D"http://m1=
+e.net/c?212301336-DaDpqYg2FMX/2%40389029951-3E6QcUYqUs5nY" style=3D"color: =
+#0c87cb; padding: 0 5px;">Contact Us</a> | </li>
+         <li style=3D"float: left; padding: 0 0 0 5px;"><a href=3D"http://m=
+1e.net/c?212301336-7neE4XbvV6M9Q%40389029955-RlLPOx8Mbx9/Y" style=3D"color:=
+ #0c87cb;">About</a></li>
+        </ul>
+       </td>
+      </tr>
+     </table>
+     <!--
+	    <table width=3D"655" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+		<tr>
+		    <td width=3D"216"><img
+src=3D"http://www.pgecurrents.com/wp-content/themes/PGE/images/email/brief-=
+11102011/spacer.gif" width=3D"1" height=3D"1"
+alt=3D"" /></td>
+		    <td width=3D"97"><a href=3D""><img
+src=3D"http://www.pgecurrents.com/wp-content/themes/PGE/images/email/brief-=
+11102011/twitter.gif" width=3D"97" height=3D"41"
+border=3D"0" alt=3D"Follow us on Twitter" /></a></td>
+		    <td width=3D"25"><img
+src=3D"http://www.pgecurrents.com/wp-content/themes/PGE/images/email/brief-=
+11102011/spacer.gif" width=3D"1" height=3D"1"
+alt=3D"" /></td>
+		    <td width=3D"101"><a href=3D""><img
+src=3D"http://www.pgecurrents.com/wp-content/themes/PGE/images/email/brief-=
+11102011/facebook.gif" width=3D"101" height=3D"41"
+border=3D"0" alt=3D"Like us on Facebook" /></a></td>
+		    <td width=3D"216"><img
+src=3D"http://www.pgecurrents.com/wp-content/themes/PGE/images/email/brief-=
+11102011/spacer.gif" width=3D"1" height=3D"1"
+alt=3D"" /></td>=20=20
+		</tr>
+	    </table>
+	    -->
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+      <tr>
+       <td width=3D"655"><img alt=3D"" height=3D"12" src=3D"http://www.pgec=
+urrents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" w=
+idth=3D"1" /></td>
+      </tr>
+      <tr>
+       <td align=3D"center" width=3D"655">
+        <div style=3D"font-family:Arial, Helvetica, sans-serif; font-size: =
+10px; color: #959595;">PG&amp;E Currents Brief &#8226; 77 Beale St. &#8226;=
+ San Francisco, CA 94105</div>
+       </td>
+      </tr>
+      <td width=3D"655"><img alt=3D"" height=3D"12" src=3D"http://www.pgecu=
+rrents.com/wp-content/themes/PGE/images/email/brief-11102011/spacer.gif" wi=
+dth=3D"1" /></td>
+      <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"655">
+       <tr>
+        <td align=3D"center" width=3D"655">
+         <div style=3D"list-style-type: none; font-family:Arial, Helvetica,=
+ sans-serif; font-size: 10px; color: #959595; font-weight: bold; margin: 0;=
+ padding: 0;"><a href=3D"http://www.mailermailer.com/u/update/212301336f-d4=
+fec368" style=3D"color: #959595;">Unsubscribe</a></div>
+        </td>
+       </tr>
+      </table>
+     </table>
+     <map id=3D"header" name=3D"header">
+      <area alt=3D"PG&E" coords=3D"577,25,637,93" href=3D"http://m1e.net/c?=
+212301336-Ziizy5XgMVlNw%40389029953-i8Ni9shi9M11o" shape=3D"rect" />
+      <area alt=3D"PGECurrents.com" coords=3D"379,52,485,64" href=3D"http:/=
+/m1e.net/c?212301336-Gq39gSZxCrqe6%40389029936-qe6zF0kDx5882" shape=3D"rect=
+" />
+      <area alt=3D"Currents Brief" coords=3D"13,18,344,84" href=3D"http://m=
+1e.net/c?212301336-VGDJYdqPqJLPk%40389029936-Pepn.IVlvcSFw" shape=3D"rect" =
+/>
+     </map>
+    </td>
+   </tr>
+  </table> <img src=3D'http://m1e.net/c?212301336-ZxmBnNxWysR0Q%40389029957=
+-Iz1670bS5fOmc' alt=3D'' /> <!-- PB -->
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" style=3D"backgrou=
+nd-color: transparent;">
+ <tr>
+   <td style=3D"padding:10px; color:#4C4C4C; font-family: Tahoma; text-alig=
+n:center;">
+     <div align=3D"center">
+         <a href=3D"http://www.mailermailer.com/">
+           <img style=3D"border:0; max-width: 97px" width=3D"97" src=3D"htt=
+p://images.mailermailer.com/images/taglines/mailermailer-tagline.png" alt=
+=3D"Email Marketing by MailerMailer" />
+         </a>
+     </div>
+   </td>
+ </tr>
+</table>
+
+
+ </body>
+</html>=
+
+-----=MailerMailer-Boundary-aopncocd--
+

@@ -1,0 +1,68 @@
+From 1558294623917912538@xxx Fri Feb 03 07:06:00 +0000 2017
+X-GM-THRID: 1558294623917912538
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp446513qge;
+        Thu, 2 Feb 2017 23:06:00 -0800 (PST)
+X-Received: by 10.99.107.130 with SMTP id g124mr15879640pgc.108.1486105560462;
+        Thu, 02 Feb 2017 23:06:00 -0800 (PST)
+Return-Path: <bounces+17088-1b73-michael.mayer1001=gmail.com@email.investis.com>
+Received: from o1.default.investis.com (o1.default.investis.com. [198.21.0.172])
+        by mx.google.com with ESMTPS id k30si19946588pgn.247.2017.02.02.23.06.00
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 02 Feb 2017 23:06:00 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+17088-1b73-michael.mayer1001=gmail.com@email.investis.com designates 198.21.0.172 as permitted sender) client-ip=198.21.0.172;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@email.investis.com;
+       dkim=pass header.i=@sendgrid.info;
+       spf=pass (google.com: domain of bounces+17088-1b73-michael.mayer1001=gmail.com@email.investis.com designates 198.21.0.172 as permitted sender) smtp.mailfrom=bounces+17088-1b73-michael.mayer1001=gmail.com@email.investis.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=email.investis.com; 
+	h=mime-version:from:to:subject:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=/mJ+vXPOnX/q3f8Te6I2j6hd9Eo=; b=nYR8H6lPVxb5EYk0kI
+	wMfYdSZ2AuP1YvhJl8txAtP2IQr/+5VRuALNAsARMCxiQ7biV5zMr1304T98LuSz
+	QQScFmA0xEm9h6R3fT2oSlyD1AzATY5+Rjf6Q+byz4SWwt2RqfwEtCmJFw9BvxqV
+	U8AhnV8Kj5T6Wcf2ulcQJCtZg=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; d=sendgrid.info; 
+	h=mime-version:from:to:subject:content-type:content-transfer-encoding:x-feedback-id; 
+	s=smtpapi; bh=/mJ+vXPOnX/q3f8Te6I2j6hd9Eo=; b=Sj7RMQ1TPOsLO+VRnL
+	eB6rD8p0hz4PMcoApGYhbar1obpSuvYJdoxHHHoTok/TQF47Gn2MHrudwhNtZ2Yp
+	ebvJ2sRfO2+VM/0JTX0OF/fizKP0tn0TsWWoW+JeYXthhw4M4vgKllwdmr+yV7Cn
+	w0JmpZNT4qkNpTMFX0K8EmUv4=
+Received: by filter0872p1mdw1.sendgrid.net with SMTP id filter0872p1mdw1-12427-58942BD5-1
+        2017-02-03 07:05:57.226001319 +0000 UTC
+Received: from potpeuw1svc01 (ec2-52-19-148-223.eu-west-1.compute.amazonaws.com [52.19.148.223])
+	by ismtpd0002p1lon1.sendgrid.net (SG) with ESMTP id 2Dx4KmEzTFeRSG6t_a6xtg
+	for <hemant.shah@investis.com>; Fri, 03 Feb 2017 07:05:57.051 +0000 (UTC)
+MIME-Version: 1.0
+From: "Schroders Alerting Service" <alerting.service@investis.com>
+To: michael.mayer1001@gmail.com
+Date: 3 Feb 2017 08:06:17 +0100
+Subject: Schroders alert service
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <2Dx4KmEzTFeRSG6t_a6xtg@ismtpd0002p1lon1.sendgrid.net>
+X-SG-EID: ru1gZ9nEGoktx9UhlPNlMpGVJxSyJEhb3skj/wdhCP6PLy0DZ5j+zDHK0X2Jtjr71yZkpdNjb7gd50
+ /iNXH7cmXbPuhEj3ECBjTeoDhFYl/+WnyY4jS4GynigAjMki0PZEvxz3LNcHgzVdX9H7AlzX/M6N4Q
+ upvmC/OajfAT3y6UhcrJKoFV786Ak5dcl/UgN3Q2Pzi3+mcb++f1LM1m1Wxve3d1+lG8PA/VLg6YC7
+ iLLVqfR+ZcamuXSNejaVStbpAnVE7AjATpZTgVVOZgVg==
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7CmmFInL/VuRCI3fxXy1ASCMURizZooiGc4sFFTItP3m
+X-Feedback-ID: 17088:KX49e5WECSNn9q1COFexT56oq/JurhhtWLQIQscdOss=:KX49e5WECSNn9q1COFexT56oq/JurhhtWLQIQscdOss=:SG
+
+Schroders has published the following regulatory news announcement:
+
+03/02/2017
+Transaction in Own Shares
+
+To read the announcement, go to:=20
+http://www.schroders.com/en/investor-relations/regulatory-news/newsfeed/
+
+To unsubscribe or to change your subscriber options, go to:=20
+http://www.schroders.com/en/investor-relations/regulatory-news/email-alerts/
+
+
+This service is brought to you by http://www.investis.com/.
+
+
+

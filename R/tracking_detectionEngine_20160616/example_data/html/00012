@@ -1,0 +1,529 @@
+From 1558143353602315658@xxx Wed Feb 01 15:01:37 +0000 2017
+X-GM-THRID: 1558143353602315658
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp2376298qge;
+        Wed, 1 Feb 2017 07:01:37 -0800 (PST)
+X-Received: by 10.37.101.215 with SMTP id z206mr2130599ybb.5.1485961297654;
+        Wed, 01 Feb 2017 07:01:37 -0800 (PST)
+Return-Path: <bounce-mc.us3_24484991.477909-michael.mayer1001=gmail.com@mail118.atl161.mcsv.net>
+Received: from mail118.atl161.mcsv.net (mail118.atl161.mcsv.net. [198.2.138.118])
+        by mx.google.com with ESMTPS id s1si5428582ywe.460.2017.02.01.07.01.37
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 01 Feb 2017 07:01:37 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-mc.us3_24484991.477909-michael.mayer1001=gmail.com@mail118.atl161.mcsv.net designates 198.2.138.118 as permitted sender) client-ip=198.2.138.118;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@healthnewsforme.com;
+       dkim=pass header.i=@gmail.mcsv.net;
+       spf=pass (google.com: domain of bounce-mc.us3_24484991.477909-michael.mayer1001=gmail.com@mail118.atl161.mcsv.net designates 198.2.138.118 as permitted sender) smtp.mailfrom=bounce-mc.us3_24484991.477909-michael.mayer1001=gmail.com@mail118.atl161.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=healthnewsforme.com;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version; i=smhfranklin@healthnewsforme.com;
+ bh=0xG45RaGi9kLBMf4fP/5qDWjOiw=;
+ b=tFK08RTz0WOwwWXG22ZRM0knetuXGZSl4O9fVPIUpNlHfB150qHIR9Q3dxqwjdW3ur9V3vPad7+3
+   g2mw2pWuACafqiB88QhoHW4dFM1YgMgIxfXJIP9FPdwkyKylNlLVrFhhK7w/amQFDWcwX24mpSnE
+   C2VXOaZFgEzu1nRrVBI=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version;
+ bh=0xG45RaGi9kLBMf4fP/5qDWjOiw=;
+ b=b9JmEhbZcmcCQAqZjMoVJWlB6//I1KFSSbavXyEHwXXEonftbheRWUMb4RqE6Suqt35DuOo+gWST
+   O/rvBul/+CsSWhZ/yUh67a1wG3tSyXZUjB7jDO1AOBmpslBkKRy7L9H+Oq2l6CKR12um6Il7p2UT
+   OMixd5APxHBwOV9utAc=
+Received: from (127.0.0.1) by mail118.atl161.mcsv.net id hi7s521sb4gt for <michael.mayer1001@gmail.com>; Wed, 1 Feb 2017 15:01:31 +0000 (envelope-from <bounce-mc.us3_24484991.477909-michael.mayer1001=gmail.com@mail118.atl161.mcsv.net>)
+Subject: =?utf-8?Q?Ladies=2C=20Get=20Heart=20Smart?=
+From: =?utf-8?Q?Southampton=20Memorial=20Hospital?= <smhfranklin@healthnewsforme.com>
+Reply-To: =?utf-8?Q?Southampton=20Memorial=20Hospital?= <smhfranklin@healthnewsforme.com>
+To: <michael.mayer1001@gmail.com>
+Date: Wed, 1 Feb 2017 15:01:31 +0000
+Message-ID: <a64f752be4848551880e657e0.4452871d80.20170201150113.c73a4e5c32.feb3fe0e@mail118.atl161.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDc73a4e5c324452871d80**
+X-Campaign: mailchimpa64f752be4848551880e657e0.c73a4e5c32
+X-campaignid: mailchimpa64f752be4848551880e657e0.c73a4e5c32
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=a64f752be4848551880e657e0&id=c73a4e5c32&e=4452871d80
+X-MC-User: a64f752be4848551880e657e0
+X-Feedback-ID: 24484991:24484991.477909:us3:mc
+List-ID: a64f752be4848551880e657e0mc list <a64f752be4848551880e657e0.276029.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us3_a64f752be4848551880e657e0.c73a4e5c32-4452871d80@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://smhfranklin.us3.list-manage2.com/unsubscribe?u=a64f752be4848551880e657e0&id=fbee3316bb&e=4452871d80&c=c73a4e5c32>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_60864600"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_60864600
+Content-Type: text/plain; charset="us-ascii"
+
+==============================================
+
+Unsubscribe michael.mayer1001@gmail.com from this list:
+http://smhfranklin.us3.list-manage2.com/unsubscribe?u=a64f752be4848551880e657e0&id=fbee3316bb&e=4452871d80&c=c73a4e5c32
+--_----------=_MCPart_60864600
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<title>Southampton Memorial Hospital Newsletter - February 2017</title>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+<style type=3D"text/css">
+
+=2Elogo{
+  display: none;
+}
+a:hover {
+  text-decoration: none;
+}
+#disclaimer p{
+  font-size: 9px !important;
+  line-height: 12px !important;
+}
+td.responsive p a {
+=09color: white;
+=09text-decoration: underline;
+}
+
+@media only screen and (max-width: 599px) {
+body[yahoo] table.responsive {
+=09width: 100% !important;
+=09height: auto !important;
+=09margin: 0 !important;
+}
+body[yahoo] table.responsive td.responsive {
+=09display: block !important;
+=09width: 100% !important;
+}
+body[yahoo] table.responsive td img {
+=09max-width: 100% !important;
+=09height: auto !important;
+}
+body[yahoo] img.responsive {
+=09max-width: 100% !important;
+=09height: auto !important;
+}
+body[yahoo] table.btn {
+=09display: block !important;
+=09width: 100% !important;
+}
+body[yahoo] .hide {
+=09display: none !important;
+}
+*/ body[yahoo] a[href^=3Dtel] {
+ color: inherit !important;
+}
+}
+
+
+</style>
+
+
+
+  </head>
+  <body style=3D"padding: 0; margin: 0;" yahoo=3D"fix">
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+    <tr valign=3D"top">
+      <td align=3D"center" style=3D"background-color: #ffffff;">
+        <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" style=3D"background-color: #ffffff;" class=3D"responsive">
+
+
+    <tr valign=3D"middle">
+      <td align=3D"center" style=3D"padding: 20px;" class=3D"responsive hd=
+r"><a href=3D"http://smhfranklin.us3.list-manage.com/track/click?u=3Da64f7=
+52be4848551880e657e0&id=3D256dc674c3&e=3D4452871d80" target=3D"_blank"><i=
+mg src=3D"http://smhfranklin.healthnewsforme.com/sites/default/files/chs-s=
+outhamptonmemorial-header.gif" alt=3D"Southampton Memorial Hospital Logo"=
+ border=3D"0"></a></td>
+    </tr>
+
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr valign=3D"top">
+    <td align=3D"center" style=3D"background-color: #e5e5e5;"><table width=
+=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"backgro=
+und-color: #ffffff;" class=3D"responsive">
+        <tr>
+          <td valign=3D"top" style=3D"background-color: #e5e5e5;">
+          <!-- Featured article section -->
+
+              <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpad=
+ding=3D"0" class=3D"responsive">
+
+
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"background-co=
+lor: #ffffff;"><a href=3D"http://smhfranklin.us3.list-manage.com/track/cli=
+ck?u=3Da64f752be4848551880e657e0&id=3Db797399c75&e=3D4452871d80"><img src=
+=3D"http://smhfranklin.healthnewsforme.com/sites/default/files/styles/emai=
+l_featured_article/public/images/feb_heart_11-18.jpg" alt=3D"" border=3D"0=
+" /></a></td>
+              </tr>
+
+
+
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"background-co=
+lor: #ffffff; padding: 20px 50px; font-size: 32px; font-family: Georgia=2C=
+ Times=2C serif;"><a href=3D"http://smhfranklin.us3.list-manage.com/track/=
+click?u=3Da64f752be4848551880e657e0&id=3Dd3c18070e1&e=3D4452871d80" style=
+=3D"color: #375d88; text-decoration: underline;">Ladies=2C Get Heart Smart=
+</a></td>
+              </tr>
+
+
+
+    <!-- START BUTTON -->
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff;" class=3D"responsive">
+                <a href=3D"http://smhfranklin.us3.list-manage1.com/track/c=
+lick?u=3Da64f752be4848551880e657e0&id=3D7a0a864e31&e=3D4452871d80" style=
+=3D"text-decoration: none;">
+                  <table width=3D"50%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"background-color:#375d88; padding: 0; border-collap=
+se:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" align=3D"center"=
+ class=3D"responsive">
+                    <tr>
+                      <td align=3D"center" style=3D"background-color: #375=
+d88; padding: 20px;"><span style=3D"color: #ffffff; padding: 10px; text-de=
+coration: none; font-family: Helvetica=2C Arial=2C sans-serif; font-size:=
+ 14px;">CONTINUE READING&nbsp;&rarr;</span></td>
+                    </tr>
+                  </table>
+                </a>
+              </td>
+            </tr>
+    <!-- END BUTTON -->
+
+
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"background-co=
+lor: #ffffff; padding: 20px 50px;"><table border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+                    <tr>
+                      <td style=3D"padding: 0 10px;"><a href=3D"http://smh=
+franklin.us3.list-manage2.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3D449fae89de&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/72e9de2c-edd2-44d8-9941-=
+cea5bdc9c732.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                      <td style=3D"padding: 0 10px;"><a href=3D"http://smh=
+franklin.us3.list-manage1.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3Dc6adcd13c9&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/9bb9ab87-65f4-4e9e-8f4b-=
+244ee7bfdbdf.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                      <td style=3D"padding: 0 10px;"><a href=3D"http://smh=
+franklin.us3.list-manage1.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3D58eca3807e&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/81e44a8f-6fc0-4ec9-a4aa-=
+e06c4ed65b1d.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                    </tr>
+                  </table>
+                </td>
+              </tr>
+            </table>
+
+
+          </td>
+        </tr>
+      </table>
+      <br />
+
+      <!-- Bottom 2 Library / Company news articles -->
+
+          <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" class=3D"responsive">
+            <tr>
+              <td style=3D"background-color: #ffffff; padding: 30px 20px;"=
+>
+
+                        =09=09
+          <table width=3D"275" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt;" class=3D"responsive" align=3D"left">
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff;"><a href=3D"http://smhfranklin.us3.list-manage.com/track/click=
+?u=3Da64f752be4848551880e657e0&id=3Dce9d8fc453&e=3D4452871d80"><img src=
+=3D"http://smhfranklin.healthnewsforme.com/sites/default/files/styles/emai=
+l_teaser/public/images/infographic_february17_header.jpg" alt=3D"" border=
+=3D"0" /></a></td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 20px 25px; font-size: 24px; font-family: Georgia=2C T=
+imes=2C serif;"><a href=3D"http://smhfranklin.us3.list-manage2.com/track/c=
+lick?u=3Da64f752be4848551880e657e0&id=3D0393762b62&e=3D4452871d80" style=
+=3D"color:#375d88; text-decoration: underline;">How Common is Heart Diseas=
+e?</a></td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 5px 25px;">
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">
+                  <tr>
+                    <td align=3D"center" style=3D"background-color: #375d8=
+8; padding: 10px;"><a href=3D"http://smhfranklin.us3.list-manage.com/track=
+/click?u=3Da64f752be4848551880e657e0&id=3Dee315d70c0&e=3D4452871d80" styl=
+e=3D"color: #ffffff; padding: 10px; display: block; text-decoration: none;=
+ font-family: Helvetica=2C Arial=2C sans-serif; font-size: 14px;"><span st=
+yle=3D"color: #ffffff;">CONTINUE READING&nbsp;&rarr;</span></a></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 20px 50px;">
+                <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage1.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3D47657b0d32&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/72e9de2c-edd2-44d8-9941-=
+cea5bdc9c732.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage.com/track/click?u=3Da64f752be4848551880e657e0&id=3D=
+d9089fc316&e=3D4452871d80" target=3D"_blank"><img src=3D"https://gallery.=
+mailchimp.com/847cf288faed8eef2e88e35ad/images/9bb9ab87-65f4-4e9e-8f4b-244=
+ee7bfdbdf.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a></td=
+>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage2.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3Dc15aaac404&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/81e44a8f-6fc0-4ec9-a4aa-=
+e06c4ed65b1d.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+                <table width=3D"10" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-ta=
+ble-rspace:0pt;" class=3D"responsive" align=3D"left">
+                  <tr>
+                    <td>&nbsp;</td>
+                  </tr>
+                </table>
+
+                        =09=09
+          <table width=3D"275" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt;" class=3D"responsive" align=3D"left">
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff;"><a href=3D"http://smhfranklin.us3.list-manage.com/track/click=
+?u=3Da64f752be4848551880e657e0&id=3Dd4749f106c&e=3D4452871d80"><img src=
+=3D"http://smhfranklin.healthnewsforme.com/sites/default/files/styles/emai=
+l_teaser/public/images/health-quiz-hero.jpg" alt=3D"" border=3D"0" /></a><=
+/td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 20px 25px; font-size: 24px; font-family: Georgia=2C T=
+imes=2C serif;"><a href=3D"http://smhfranklin.us3.list-manage1.com/track/c=
+lick?u=3Da64f752be4848551880e657e0&id=3D2595c34e85&e=3D4452871d80" style=
+=3D"color:#375d88; text-decoration: underline;">Test Your Heart Attack IQ<=
+/a></td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 5px 25px;">
+                <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" align=3D"center">
+                  <tr>
+                    <td align=3D"center" style=3D"background-color: #375d8=
+8; padding: 10px;"><a href=3D"http://smhfranklin.us3.list-manage.com/track=
+/click?u=3Da64f752be4848551880e657e0&id=3Dfe824fb206&e=3D4452871d80" styl=
+e=3D"color: #ffffff; padding: 10px; display: block; text-decoration: none;=
+ font-family: Helvetica=2C Arial=2C sans-serif; font-size: 14px;"><span st=
+yle=3D"color: #ffffff;">CONTINUE READING&nbsp;&rarr;</span></a></td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+            <tr>
+              <td align=3D"center" valign=3D"top" style=3D"background-colo=
+r: #ffffff; padding: 20px 50px;">
+                <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+                  <tr>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage.com/track/click?u=3Da64f752be4848551880e657e0&id=3D=
+7dcc920417&e=3D4452871d80" target=3D"_blank"><img src=3D"https://gallery.=
+mailchimp.com/847cf288faed8eef2e88e35ad/images/72e9de2c-edd2-44d8-9941-cea=
+5bdc9c732.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a></td=
+>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage.com/track/click?u=3Da64f752be4848551880e657e0&id=3D=
+79215df52d&e=3D4452871d80" target=3D"_blank"><img src=3D"https://gallery.=
+mailchimp.com/847cf288faed8eef2e88e35ad/images/9bb9ab87-65f4-4e9e-8f4b-244=
+ee7bfdbdf.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a></td=
+>
+                    <td style=3D"padding: 0 10px;"><a href=3D"http://smhfr=
+anklin.us3.list-manage1.com/track/click?u=3Da64f752be4848551880e657e0&id=
+=3D7c91852b4a&e=3D4452871d80" target=3D"_blank"><img src=3D"https://galle=
+ry.mailchimp.com/847cf288faed8eef2e88e35ad/images/81e44a8f-6fc0-4ec9-a4aa-=
+e06c4ed65b1d.png" width=3D"25" height=3D"25" alt=3D"" border=3D"0" /></a><=
+/td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+          </table>
+              </td>
+            </tr>
+          </table>
+
+
+     <br />
+  <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" st=
+yle=3D"background-color: #375d88;" class=3D"responsive">
+      <tr>
+        <td valign=3D"top" style=3D"padding: 30px;"><table width=3D"300" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-collapse:c=
+ollapse; mso-table-lspace:0pt; mso-table-rspace:0pt;" class=3D"responsive"=
+ align=3D"left">
+            <tr>
+              <td class=3D"responsive"><a href=3D"http://smhfranklin.us3.l=
+ist-manage1.com/track/click?u=3Da64f752be4848551880e657e0&id=3De47a9a809e&=
+e=3D4452871d80"><img src=3D"http://smhfranklin.healthnewsforme.com/sites/=
+default/files/find-a-doctor_6.jpeg " width=3D"300" height=3D"250" alt=3D""=
+ title=3D"" border=3D"0" /></a></td>
+            </tr>
+          </table>
+          <table width=3D"235" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt;" class=3D"responsive" align=3D"left">
+            <tr>
+              <td align=3D"left" class=3D"responsive" style=3D"color: #fff=
+fff; padding-left: 20px; font-family: Helvetica=2C Arial=2C sans-serif; fo=
+nt-size: 16px; line-height: 20px;"><strong></strong>
+                  <p>In need of a primary care physician or a specialist?=
+ With over 100 physicians on our medical staff=2C we can&nbsp;help.</p>
+
+      <br />
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" align=3D"center" class=3D"btn">
+        <tr>
+          <td align=3D"center" style=3D"background-color: #ffffff; padding=
+: 10px;"><a href=3D"http://smhfranklin.us3.list-manage.com/track/click?u=
+=3Da64f752be4848551880e657e0&id=3D34bfac3282&e=3D4452871d80" style=3D"col=
+or: #375d88; padding: 10px; display: block; text-decoration: none; font-fa=
+mily: Helvetica=2C Arial=2C sans-serif; font-size: 14px;"><span style=3D"c=
+olor: #375d88">Find a doctor&nbsp;&rarr;</span></a></td>
+        </tr>
+      </table>
+              </td>
+            </tr>
+          </table></td>
+      </tr>
+    </table>
+
+
+
+      <!-- Secondary ad space -->
+
+
+      <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+" style=3D"background-color: #ffffff;" class=3D"responsive">
+        <tr>
+          <td align=3D"center" valign=3D"top" style=3D"font-family: Helvet=
+ica=2C Arial=2C sans-serif; font-size: 18px; line-height: 28px;" class=3D"=
+responsive">
+            <br />
+            <a href=3D"http://smhfranklin.us3.list-manage2.com/track/click=
+?u=3Da64f752be4848551880e657e0&id=3D20e47f9416&e=3D4452871d80" style=3D"t=
+ext-decoration:underline; font-size: 18px; line-height: 28px; color: #375d=
+88;" target=3D"_blank">Find a Doctor</a><br /><a href=3D"http://smhfrankli=
+n.us3.list-manage.com/track/click?u=3Da64f752be4848551880e657e0&id=3Ddd679=
+3705c&e=3D4452871d80" style=3D"text-decoration:underline; font-size: 18px=
+; line-height: 28px; color: #375d88;" target=3D"_blank">About Us</a><br />=
+<a href=3D"http://smhfranklin.us3.list-manage.com/track/click?u=3Da64f752b=
+e4848551880e657e0&id=3Da0082b389c&e=3D4452871d80" style=3D"text-decoratio=
+n:underline; font-size: 18px; line-height: 28px; color: #375d88;" target=
+=3D"_blank">Hospital Services</a><br /><a href=3D"http://smhfranklin.us3.l=
+ist-manage.com/track/click?u=3Da64f752be4848551880e657e0&id=3D2cb1093a02&e=
+=3D4452871d80" style=3D"text-decoration:underline; font-size: 18px; line-=
+height: 28px; color: #375d88;" target=3D"_blank">Long Term Care/Skilled Ca=
+re</a><br />
+            <br />
+          </td>
+        </tr>
+        <br />
+
+        <tr>
+          <td valign=3D"top" style=3D"padding: 30px; border-top: solid 1px=
+ #e5e5e5;">
+           <table width=3D"70%" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" style=3D"border-collapse:collapse; mso-table-lspace:0pt; mso-table-=
+rspace:0pt;" class=3D"responsive" align=3D"center">
+              <tr>
+                <td align=3D"center" valign=3D"top" style=3D"font-family:=
+ Helvetica=2C Arial=2C sans-serif; font-size: 12px; line-height: 18px;" cl=
+ass=3D"responsive"><a href=3D"http://smhfranklin.us3.list-manage2.com/trac=
+k/click?u=3Da64f752be4848551880e657e0&id=3D555979c8a4&e=3D4452871d80" tar=
+get=3D"_blank"><img src=3D"http://smhfranklin.healthnewsforme.com/sites/de=
+fault/files/portal_dev/southampton_memorial_hospital/logos/southampton-mem=
+orial-hospital.jpg" alt=3D"southampton_memorial_hospital logo" title=3D"so=
+uthampton_memorial_hospital logo" border=3D"0"></a>
+                <br />
+                <br />
+                  100 Fairview Drive<br />Franklin=2C VA 23851<br />
+
+                <br />
+                  <a href=3D"http://smhfranklin.us3.list-manage.com/track/=
+click?u=3Da64f752be4848551880e657e0&id=3Dcd18854689&e=3D4452871d80" targe=
+t=3D"_blank" style=3D"color: #375d88; text-decoration: underline; ">Get di=
+rections to here</a>
+                <br />
+                </td>
+              </tr>
+           </table>
+        <tr>
+             <td align=3D"center" style=3D"font-size: 12px; padding: 30px;=
+ font-family: Helvetica=2C Arial=2C sans-serif; line-height: 18px;border-t=
+op: solid 1px #e5e5e5;">
+               <a href=3D"http://smhfranklin.us3.list-manage2.com/unsubscr=
+ibe?u=3Da64f752be4848551880e657e0&id=3Dfbee3316bb&e=3D4452871d80&c=3Dc73a4e5=
+c32" target=3D"_blank" style=3D"text-decoration: underline; color: #375d88=
+;">Unsubscribe from further emails</a>
+               <br />
+               <br />
+
+    <div id=3D"disclaimer">
+        <p>This publication in no way seeks to diagnose or treat illness o=
+r to serve as a substitute for professional medical care.</p>
+<p>Southampton Memorial Hospital complies with applicable Federal civil ri=
+ghts laws and does not discriminate on the basis of race=2C color=2C natio=
+nal origin=2C age=2C disability=2C or sex. For more information=2C see lin=
+k on our home page at <a href=3D"http://smhfranklin.us3.list-manage1.com/t=
+rack/click?u=3Da64f752be4848551880e657e0&id=3D22f444edf4&e=3D4452871d80"=
+ style=3D"color: #375d88; text-decoration: underline;" target=3D"_blank">w=
+ww.smhfranklin.com</a>.</p>
+    </div>
+
+             </td>
+           </tr>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table><img src=3D"http://smhfranklin.us3.list-manage.com/track/open.php?=
+u=3Da64f752be4848551880e657e0&id=3Dc73a4e5c32&e=3D4452871d80" height=3D"1=
+" width=3D"1">
+--_----------=_MCPart_60864600--
+

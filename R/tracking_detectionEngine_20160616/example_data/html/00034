@@ -1,0 +1,463 @@
+From 1557967568565071171@xxx Mon Jan 30 16:27:35 +0000 2017
+X-GM-THRID: 1557967568565071171
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1480481qge;
+        Mon, 30 Jan 2017 08:27:36 -0800 (PST)
+X-Received: by 10.37.170.242 with SMTP id t105mr12403028ybi.72.1485793656236;
+        Mon, 30 Jan 2017 08:27:36 -0800 (PST)
+Return-Path: <bounce-127_HTML-33975-17927-7230679-0@bounce.mail1.wellsfargo.com>
+Received: from mta.mail1.wf.com (mta.mail1.wf.com. [136.147.185.171])
+        by mx.google.com with ESMTP id f4si3739839ywd.321.2017.01.30.08.27.36
+        for <michael.mayer1001@gmail.com>;
+        Mon, 30 Jan 2017 08:27:36 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-127_html-33975-17927-7230679-0@bounce.mail1.wellsfargo.com designates 136.147.185.171 as permitted sender) client-ip=136.147.185.171;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mail1.wellsfargo.com;
+       spf=pass (google.com: domain of bounce-127_html-33975-17927-7230679-0@bounce.mail1.wellsfargo.com designates 136.147.185.171 as permitted sender) smtp.mailfrom=bounce-127_HTML-33975-17927-7230679-0@bounce.mail1.wellsfargo.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=mail1.wellsfargo.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=mail1.wellsfargo.com;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:Message-ID:Content-Type; i=wfeconomics@mail1.wellsfargo.com;
+ bh=bOH62dwBEm6Rg8qDS9k0N9TZAYU=;
+ b=rZhnrpzEfgTzzSMDep5z0IMQibbt2JiLK5XvPGwT3PhODUGO90b00HbKa4ddKCKK8PtzfVfIMFTc
+   53sFJEaw2/TKnIhzCddFeJDWBssT9riITiZChLchjtuIap0C0dADOi6IDU9U3uYbB6EYPbSetNUn
+   ONpF0M+5skQhgTIRsdo=
+Received: by mta.mail1.wf.com id hhtkng163hs7 for <michael.mayer1001@gmail.com>; Mon, 30 Jan 2017 16:27:36 +0000 (envelope-from <bounce-127_HTML-33975-17927-7230679-0@bounce.mail1.wellsfargo.com>)
+From: "Wells Fargo Economics" <wfeconomics@mail1.wellsfargo.com>
+To: <michael.mayer1001@gmail.com>
+Subject: Pending Home Sales Rise Modestly to End 2016
+Date: Mon, 30 Jan 2017 10:27:33 -0600
+List-Unsubscribe: <mailto:leave-fd511572720b5c392848-fef417737c6301-fef515777c6603-fe8d13727664027a7c-ffcf14@leave.mail1.wf.com>
+MIME-Version: 1.0
+Reply-To: "Wells Fargo Economics" <economics@wellsfargo.com>
+List-ID: <7230679_17927.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7230679_17927
+Message-ID: <a5661e8f-3e95-4fc9-914a-0148ea1af526@atl1s07mta637.xt.local>
+Feedback-ID: 7230679:17927:136.147.185.171:sfmktgcld
+Content-Type: multipart/alternative;
+	boundary="ifoQDs6JwgVr=_?:"
+
+This is a multi-part message in MIME format.
+
+--ifoQDs6JwgVr=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Web Version:  http://view.mail1.wf.com/?qs=38f2ea85469b68d51b1e294cdb3078b6b29bd8aae53d1fcba21f6f238e7dd0006b268811dda8b79612f4070208f52846242051e3f80a2e69
+----------------------------------------
+
+
+Wells Fargo Securities
+http://view.mail1.wf.com/?qs=38f2ea85469b68d51b1e294cdb3078b6b29bd8aae53d1fcba21f6f238e7dd0006b268811dda8b79612f4070208f52846242051e3f80a2e69 
+Web Version  
+
+January 30, 2017
+
+Pending Home Sales Rise Modestly to End 2016
+
+Pending home sales rebounded 1.6 percent in December, following a 2.5 percent drop in November. Sales have been buffeted by swings in mortgage rates following the election and are up only modestly year over year.
+
+http://click.mail1.wf.com/?qs=b6485424294104eccc344f50ddd960d277dca3cb49a91f0aeeeb23b17ac5db193bb92c87e6320dd160221a6b4533b1b8 
+View Commentary 
+
+Additional commentary
+
+http://click.mail1.wf.com/?qs=b6485424294104ec8cad905aceffe75c21c04e7b014af793c2a1b7dc9095a3dc1ed5513b026cc5033024fd2d5aa8c39c 
+Monthly Economic Outlook 
+
+http://click.mail1.wf.com/?qs=b6485424294104ec17b8c740b55ea5d3c91f8e92cd6577033612e2574361613b5ce4f4294a416f3c975496c458f3343c 
+Weekly Economic Commentary 
+
+http://click.mail1.wf.com/?qs=b6485424294104ec4917d0e14fcd1829c1a23ed9072e2267235037d0d3ce015813f81b9877e70170bbc3323d9cc97a79 
+Special Reports 
+
+http://click.mail1.wf.com/?qs=b6485424294104ec8e342cabb9faa435ce901e5fceaea9dc310cc5eb943491c98dbd163624eefc3ac73830cc4ab3137c 
+About Economics 
+
+Economic reports from the Wells Fargo Economics Group provide domestic and international economic commentary to help you manage risk and capture business opportunities. Read from our selection of regularly updated 
+http://click.mail1.wf.com/?qs=b6485424294104ececb4fcc518b764c511fc4e030e320f7333e034d520fa89475dd9f49074fe0d4c35a12969cdae5a36 
+economic reports  from GDP growth and interest rate forecasts to U.S. and international economic analysis.
+
+ 
+
+Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo & Company and its subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Bank, N.A. and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+
+This email was sent by Wells Fargo Securities 550 S. Tryon Street, Charlotte, NC 28202.Wells Fargo 301 S. College Street, 16th Floor Charlotte, NC, 28282, US
+
+http://click.mail1.wf.com/?qs=b6485424294104ec9e344832573f6780893deb8fbc0000a51c456a1563b827bbab9505fa392b5c4a919db2bd519cce06 
+Privacy, Cookies, Security & Legal | 
+http://pages.mail1.wf.com/page.aspx?qs=5c591a8916642e7364740238839005a087fc4b1d18e966fa7d5865ebb7073cd96859a5296a7f548da95bfd1681b933aa87a107d4a9eec9c8 
+Manage Subscriptions | 
+http://pages.mail1.wf.com/page.aspx?qs=773ed3059447707d9f018934a461862784868000ba56cdadbaa79572632d63aa32d5a8cc4d69c27fcd57eb240f600b1c86bfdc0750daf95f 
+Unsubscribe
+
+(c) 2017 Wells Fargo Securities, LLC. All rights reserved.
+
+
+
+
+
+
+
+--ifoQDs6JwgVr=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+ <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US">
+<head>
+<title>Wells Fargo Securities</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=.5, maximum-scale=2.0, user-scalable=yes" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="robots" content="noindex" />
+<style type="text/css">
+@media only screen and (max-device-width: 480px) {
+ [href^="tel"], a[href^="sms"] {
+ text-decoration: none;
+ color: black;
+ pointer-events: none;
+ cursor: default;
+}
+
+.mobile_link a[href^="tel"],
+.mobile_link a[href^="sms"] {
+	text-decoration: default;
+	color: blue!important;
+	pointer-events: auto;
+	cursor: default;
+}
+
+table[class=shell] {
+	width: 100%!important;
+}
+
+td[class=flex] {
+	width: auto!important;
+}
+
+table[class=flex] {
+	width: auto!important;
+}
+
+img[class=flex] {
+	width: 100%!important;
+	height: auto!important;
+}
+
+img[class=stagecoach] {
+	width: 150px!important;
+	height: auto!important;
+}
+
+table[class=sidebar] {
+	clear: both!important;
+	float: none!important;
+	width: 100%!important;
+	margin: 0!important;
+	padding: 0;
+	margin-bottom: 10px!important;
+}
+
+table[class=main] {
+	width: auto!important;
+	margin: 0;
+	padding: 0;
+}
+
+table[class=primary] {
+	width: 100%!important;
+	clear: both;
+	float: none;
+	margin: 0;
+	padding: 0;
+}
+a:hover, a:active, a:focus {
+    outline:2px solid #b0e0e6;
+}
+}
+
+p {
+	width: 100%;
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+p[class=footer] {
+	font-family: Verdana, sans-serif;
+	font-size: 8pt;
+	color: #444444;
+}
+
+img[class=stagecoach] {
+	display: inline-block;
+	vertical-align: baseline;
+}
+
+img {
+	display: block;
+}
+
+h1 {
+	font-family: Georgia, serif;
+	font-size: 20pt;
+	font-weight: normal;
+	color: #BB0826;
+	margin-top: 5px;
+	margin-bottom: 0;
+	padding: 0;
+}
+
+h2 {
+	font-family: Georgia, serif;
+	font-size: 16pt;
+	color: #285C4D;
+	font-weight: normal;
+	padding: 0;
+	margin-top: 0;
+	margin: 0!important;
+}
+
+h3 {
+	font-family: Verdana, sans-serif;
+	font-size: 10pt;
+	color: #44464A;
+	font-weight: bold;
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 5px;
+}
+
+h3[class=style2] {
+	font-family: Georgia, serif;
+	font-size: 14pt;
+	color: #000000;
+	font-weight: normal;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+table {
+	border-collapse: collapse;
+}
+a:hover, a:active, a:focus {
+    outline:2px solid #b0e0e6;
+}
+
+.button_link a {color:#ffffff;font-weight:bold; text-decoration:none;}
+ @media only screen and (max-device-width: 568px) {
+
+table[class=main] {
+	width: 100%!important;
+}
+
+td[class=flex] {
+	width: auto!important;
+}
+
+img[class=flex] {
+	width: 100%!important;
+	height: auto!important;
+	margin: 0;
+	padding: 0;
+}
+
+table[class=sidebar] {
+	clear: both;
+	float: none;
+	width: 100%!important;
+	margin: 0;
+	padding: 0;
+}
+
+table[class=imgtbl] {
+	clear: both;
+	float: none;
+	width: 100%!important;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+table[class=main] {
+	width: auto!important;
+	margin: 0;
+	padding: 0;
+}
+
+table[class=primary] {
+	width: 100%!important;
+	clear: both;
+	float: none;
+	margin: 0;
+	padding: 0;
+}
+a:hover, a:active, a:focus {
+    outline:2px solid #b0e0e6;
+}
+}
+</style>
+</head><body bgcolor="#E1E1DE" alink="#002cda" link="#3366CC" vlink="#3366CC" style="margin-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px;" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#E1E1DE" role="presentation">
+<tr>
+<td align="center" bgcolor="#E1E1DE"><img src="http://click.mail1.wf.com/open.aspx?ffcb10-fef515777c6603-fed015707065067b-fe8d13727664027a7c-ff65157272-fef417737c6301-ffcf14" width="1" height="1">
+<table class="main" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" style="border: none; width: 570px; border-collapse: separate;">
+	<!-- HEADER -->
+<tr>
+	<td height="20" colspan="3" align="right" style="font-family:Verdana, sans-serif; font-size:7pt; color:#444444;padding-right:10px;">
+		<a href="http://view.mail1.wf.com/?qs=38f2ea85469b68d51b1e294cdb3078b6b29bd8aae53d1fcba21f6f238e7dd0006b268811dda8b79612f4070208f528460a827630e08d7d04" style="color:#444444">Web Version</a> 
+		<!--| <a href="http://view.mail1.wf.com/ftaf.aspx?qs=38f2ea85469b68d51b1e294cdb3078b6b29bd8aae53d1fcb165e4ee33016532e" style="color:#444444">Forward to a colleague</a>-->
+	</td>
+</tr>
+	<tr>
+		<td width="20"><img src="http://images.email.wellsfargosecurities.com/EloquaImages/clients/WellsFargoSecurities/{aa3d609b-170e-4d8c-bc5b-2c64a834107b}_spacer.jpg" alt="" /></td>
+		<td class="row"><img class="logo" src="http://images.email.wellsfargosecurities.com/Web/WellsFargoSecurities/%7Be3aadcc2-c3c9-49d6-8b85-87e4ca28edd5%7D_WFS_logo_20_gradient.jpg" width="142" height="54" alt="Wells Fargo Securities" style="display:block;" align="left" /></td>
+		<td width="20"><img src="http://images.email.wellsfargosecurities.com/EloquaImages/clients/WellsFargoSecurities/{aa3d609b-170e-4d8c-bc5b-2c64a834107b}_spacer.jpg" alt=""/></td>
+	</tr>
+	<!-- TITLE BANNER -->
+	<tr>
+		<td height="20" colspan="3"></td>
+	</tr>
+	<tr>
+		<td colspan="3"><img src="http://image.mail1.wf.com/lib/fe8d13727664027a7c/m/1/banner-indicators.jpg" width="570" height="110" class="flex" alt="Economic Indicators" /></td>
+	</tr>
+	<!-- BODY -->
+	<tr bgcolor="#D1CDC9">
+		<td width="20"></td>
+		<td>
+			<p style="font-weight:bold;">January 30, 2017</p>
+		</td>
+		<td width="20"></td>
+	</tr>
+	<tr>
+		<td height="20" colspan="3"></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td class="flex" width="530"> 
+			
+			<!-- Articles -->
+			<table width="330" border="0" class="primary" cellpadding="0" cellspacing="0" align="left" style="border:none; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse;">
+        <tr>
+          <td><table cellpadding="0" cellspacing="0" border="0" bordercolor="" width="100%" bgcolor=""><tr><td><table  width="100%" bgcolor="#ffffff" border="0" bordercolor="" cellpadding="5" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"><table width="330" align="left" class="primary" style="border: currentColor; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+	<tbody>
+		<tr>
+			<td align="left">
+			<h2 style="color: #285c4d; padding-top: 0px; font-family: Georgia, serif; font-size: 16pt; font-weight: normal; margin-top: 0px;">Pending Home Sales Rise Modestly to End 2016</h2>
+			<p style="color: #444444; line-height: 12pt; font-family: Verdana, sans-serif; font-size: 9pt;">
+Pending home sales rebounded 1.6 percent in December, following a 2.5 percent drop in November. Sales have been buffeted by swings in mortgage rates following the election and are up only modestly year over year.</p>
+			<table role="presentation" style="width: auto; border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+				<tbody>
+					<tr>
+						<td style="margin: 0px; width: 100%; text-align: center; color: #ffffff; font-family: Verdana, serif; font-size: 10pt; font-weight: bold; display: block;">
+                        <table align="center" class="button_link" style="margin-right: auto; margin-left: auto;" bgcolor="#af4201" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+              <td align="center" valign="middle" style="padding: 7px 15px; color: #ffffff; line-height: 10pt; font-family: Verdana, serif; font-size: 10pt;"><strong><a title="View Commentary" href="http://click.mail1.wf.com/?qs=b6485424294104eccd11ac0d8de3f8a202585364ea8a8475f046460c99073779d1540c5adc6387ab7dc8171cd2d27556"  >View Commentary</a></strong></td>
+             </tr>
+             </tbody></table>
+                        
+                        </td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table></td></tr></table></td></tr></table></td>
+        </tr>
+      </table>
+			<!-- End of Articles --> 
+			
+			<!-- Items on right -->
+			<table width="178" border="0" class="sidebar" cellpadding="0" cellspacing="0" align="right" style="border:none; mso-table-lspace:0pt; mso-table-rspace:0pt; border-collapse:collapse;">
+				<tr>
+				  <th width="100%" align="left" valign="middle" bgcolor="#285C4D" style="padding: 8px;">
+						<h2 style="font-family:Georgia, serif; font-size:12px; padding:0; margin:0; color:#ffffff;">Additional commentary</h2>
+					</th>
+				</tr>
+				<tr>
+					<td align="left" valign="top" bgcolor="#e8ebe7" style="line-height:105%; padding: 8px;">
+<a href="http://click.mail1.wf.com/?qs=b6485424294104ec826e15b6d2cce36fdc65122f9acee452d69340456770dba1a17ad4f6b66f875798a121c12d773c25" style="font-family: Verdana, sans-serif; font-size: 13px;color:#3366CC;line-height:105%;">Monthly Economic Outlook</a></td></tr>
+<tr><td align="left" valign="top" bgcolor="#e8ebe7" style="line-height:105%; padding: 8px;"><a href="http://click.mail1.wf.com/?qs=b6485424294104ecd4da7cb6ffd3efbefdfe0871683b4c653636a12c0cf1a5aac6c571bdd7aff16fabaa23685fd16abb" style="font-family: Verdana, sans-serif; font-size: 13px;color:#3366CC;line-height:105%;">Weekly Economic Commentary</a></td></tr><tr><td align="left" valign="top" bgcolor="#e8ebe7" style="line-height:105%; padding: 8px;">
+							<a href="http://click.mail1.wf.com/?qs=b6485424294104eca579ecaf1d4b233530bf6921a5d2e623480264909a0a438fd997ea50a0df6518f6057786f5d2a424" style="font-family: Verdana, sans-serif; font-size: 13px;color:#3366CC;line-height:105%;">Special Reports</a></td></tr><tr><td align="left" valign="top" bgcolor="#e8ebe7" style="line-height:105%; padding: 8px;">
+							<a href="http://click.mail1.wf.com/?qs=b6485424294104ec0008b5fbc95ae66501766302e1e65a6befe0183331464485e7a57621244aacc59c0d7301c413e2a2" style="font-family: Verdana, sans-serif; font-size: 13px;color:#3366CC;line-height:105%;">About Economics</a>
+						
+					</td>
+				</tr>
+                <tr><td valign="top" align="left" width="100%" height="10" style="font-size: 0px; line-height: 0px; border-collapse: collapse;" bgcolor="#e8ebe7"></td>
+				</tr>
+			</table>
+		</td>
+		<td width="20"></td>
+	</tr>	
+	<tr>
+		<td height="20" colspan="3"></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td align="left">
+			<p><em>Economic reports from the Wells Fargo Economics Group provide domestic and international economic commentary to help you manage risk and capture business opportunities. Read from our selection of regularly updated <a href="http://click.mail1.wf.com/?qs=b6485424294104ecb46177d6dd07cbbd1fc28f199b703429355cab42004d438da4552242e0e17bab12cc1bda8586ee8e">economic reports</a> from GDP growth and interest rate forecasts to U.S. and international economic analysis.</em></p>
+		</td>
+		<td width="20"></td>
+	</tr>
+	<tr>
+		<td height="20" colspan="3"><br />
+			<img src="http://images.email.wellsfargosecurities.com/EloquaImages/clients/WellsFargoSecurities/{875ad3b2-6cc4-4bb1-91d9-68a5fafcbf04}_footer-em-div2.gif" width="570" height="20" border="0" alt="Divider" class="flex" /></td>
+	</tr>
+	
+	<!-- FOOTER -->
+	<tr>
+		<td height="10" colspan="3"></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+<td class="row" align="left">
+	<p style="font-family:Verdana, sans-serif; font-size:8pt; color:#444444;">&nbsp;</p>
+	<p style="font-family:Verdana, sans-serif; font-size:8pt; color:#444444;">
+		Wells Fargo Securities is the trade name for the capital markets and investment banking services of Wells Fargo &amp; Company and its subsidiaries, including but not limited to Wells Fargo Securities, LLC, a U.S. broker dealer registered with the U.S. Securities and Exchange Commission and a member of NYSE, FINRA, NFA and SIPC, Wells Fargo Prime Services, LLC, a member of FINRA, NFA and SIPC, Wells Fargo Bank, N.A. and Wells Fargo Securities International Limited, authorized and regulated by the Financial Conduct Authority.
+	</p>
+	<p style="font-family:Verdana, sans-serif; font-size:8pt; color:#444444;">
+		This email was sent by Wells Fargo Securities 550 S. Tryon Street, Charlotte, NC 28202.<span style="font-size:1pt;color:#FFFFFF;">Wells Fargo 301 S. College Street, 16th Floor Charlotte, NC, 28282, US</span>
+	</p>
+	<p style="font-family:Verdana, sans-serif; font-size:8pt; color:#444444;">
+		<a href="http://click.mail1.wf.com/?qs=b6485424294104ec37e672a19532223620cc5103968bb6d2569ccf4d8400b0b98b22796f27f6bda548865da378a7e841" target="_blank" style="color: #444444"><span style="text-decoration:underline;color:#444444;">Privacy, Cookies, Security &amp; Legal</span></a> | <a href="http://pages.mail1.wf.com/page.aspx?qs=5c591a8916642e7364740238839005a087fc4b1d18e966fa7d5865ebb7073cd96859a5296a7f548da95bfd1681b933aa87a107d4a9eec9c8"   style="color: #444444"><span style="text-decoration:underline;color:#444444;">Manage Subscriptions</span></a> | <a href="http://pages.mail1.wf.com/page.aspx?qs=773ed3059447707d9f018934a461862784868000ba56cdadbaa79572632d63aa32d5a8cc4d69c27fcd57eb240f600b1c86bfdc0750daf95f"  style="color: #444444"><span style="text-decoration:underline;color:#444444;">Unsubscribe</span></a>
+	</p>
+	<p style="font-family:Verdana, sans-serif; font-size:8pt; color:#444444;">
+		&copy; 2017 Wells Fargo Securities, LLC. All rights reserved.
+	</p>
+</td>
+		<td width="20"></td>
+	</tr>
+	<tr>
+		<td height="10" colspan="3"></td>
+	</tr>
+	<tr>
+		<td width="20"></td>
+		<td class="row" valign="bottom">
+			<table align="right" style="width: 100%;">
+				<tr>
+					<td valign="bottom"></td>
+					<td align="right"><img src="http://images.email.wellsfargosecurities.com/EloquaImages/clients/WellsFargoSecurities/{061d6c2d-3cc4-4823-bc4f-3ce4c51afedf}_stage542.gif " width="203" height="54" border="0" alt="Together we'll go far" class="stagecoach" /> </td>
+				</tr>
+			</table>
+		</td>
+		<td width="20"></td>
+	</tr>
+
+</table>
+</td></tr></table>
+
+</body><table  width="100%" bgcolor="" border="0" bordercolor="" cellpadding="0" cellspacing="0"><tr><td style="font-family:Arial; font-size:13px"></td></tr></table></html>
+
+--ifoQDs6JwgVr=_?:--
+
+

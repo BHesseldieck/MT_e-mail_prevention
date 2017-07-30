@@ -1,0 +1,802 @@
+From 1557060058993446848@xxx Fri Jan 20 16:03:07 +0000 2017
+X-GM-THRID: 1557060058993446848
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp84146qge;
+        Fri, 20 Jan 2017 08:03:06 -0800 (PST)
+X-Received: by 10.37.248.13 with SMTP id u13mr11787726ybd.98.1484928186936;
+        Fri, 20 Jan 2017 08:03:06 -0800 (PST)
+Return-Path: <bounce-mc.us3_23128803.309273-michael.mayer1001=gmail.com@mail107.suw15.mcsv.net>
+Received: from mail107.suw15.mcsv.net (mail107.suw15.mcsv.net. [198.2.182.107])
+        by mx.google.com with ESMTPS id k12si2111259ywa.486.2017.01.20.08.03.06
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 20 Jan 2017 08:03:06 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounce-mc.us3_23128803.309273-michael.mayer1001=gmail.com@mail107.suw15.mcsv.net designates 198.2.182.107 as permitted sender) client-ip=198.2.182.107;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mynewmarkets.com;
+       dkim=pass header.i=@gmail.mcsv.net;
+       spf=pass (google.com: domain of bounce-mc.us3_23128803.309273-michael.mayer1001=gmail.com@mail107.suw15.mcsv.net designates 198.2.182.107 as permitted sender) smtp.mailfrom=bounce-mc.us3_23128803.309273-michael.mayer1001=gmail.com@mail107.suw15.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mynewmarkets.com;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version; i=daily@mynewmarkets.com;
+ bh=k6FOpppIYB5mLKhIpM9iUARLh30=;
+ b=qxJiTu4QP2lv1q/pbkPAoywSSsVfAK6CpN3oPbjBZUvyjSEb9k9GhEtfwI9sMCC0KXZlA6JOfAOI
+   3HUwDs6so1a2jphsrSllxwMkKva7dQSQ0V+gHSKdtscmxgA2XpUwFfxtpe03dTL+tcBqnx0Q0X4D
+   OsCq8X/5XFygTm7mrak=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:X-Feedback-ID:List-ID:List-Unsubscribe:Content-Type:MIME-Version;
+ bh=k6FOpppIYB5mLKhIpM9iUARLh30=;
+ b=pngMrYgLxtJyznZrXNT87+0hiXIRp8QYqnghA3I7JXDGuNW9RAUzBt524CxKSLBDONQT24dvknn9
+   CTB4rN/bITrEQHpOSWq84RbqC2QlGcEoX4p1D7L4KA63ATqF5PsLcQGh9hEQCK0JUbisjrMmZqS9
+   fCGoqF23V9gEW+tVmwg=
+Received: from (127.0.0.1) by mail107.suw15.mcsv.net id hg8qbk22s3cv for <michael.mayer1001@gmail.com>; Fri, 20 Jan 2017 16:02:52 +0000 (envelope-from <bounce-mc.us3_23128803.309273-michael.mayer1001=gmail.com@mail107.suw15.mcsv.net>)
+Subject: =?utf-8?Q?5=20New=20Markets=20Friday=3A=20Hole=20In=20One=2C=20Tools=2C=20Rental=20Property=20&=20More...?=
+From: =?utf-8?Q?MyNewMarkets.com?= <daily@mynewmarkets.com>
+Reply-To: =?utf-8?Q?MyNewMarkets.com?= <daily@mynewmarkets.com>
+To: <michael.mayer1001@gmail.com>
+Date: Fri, 20 Jan 2017 16:02:52 +0000
+Message-ID: <4069e0235e71e4d191462ae63.c94fb3698b.20170120160211.c0399d71db.486650c7@mail107.suw15.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDc0399d71dbc94fb3698b**
+X-Campaign: mailchimp4069e0235e71e4d191462ae63.c0399d71db
+X-campaignid: mailchimp4069e0235e71e4d191462ae63.c0399d71db
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=4069e0235e71e4d191462ae63&id=c0399d71db&e=c94fb3698b
+X-MC-User: 4069e0235e71e4d191462ae63
+X-Feedback-ID: 23128803:23128803.309273:us3:mc
+List-ID: 4069e0235e71e4d191462ae63mc list <4069e0235e71e4d191462ae63.222349.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <mailto:unsubscribe-mc.us3_4069e0235e71e4d191462ae63.c0399d71db-c94fb3698b@mailin1.us2.mcsv.net?subject=unsubscribe>, <http://mynewmarkets.us3.list-manage2.com/unsubscribe?u=4069e0235e71e4d191462ae63&id=57f20b1aa2&e=c94fb3698b&c=c0399d71db>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1367185279"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1367185279
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+January 20=2C 2017
+
+
+** Hole In One Coverage (http://mynewmarkets.us3.list-manage.com/track/cli=
+ck?u=3D4069e0235e71e4d191462ae63&id=3D12c4075a86&e=3Dc94fb3698b)
+------------------------------------------------------------
+Acer's Golf Hole-In-One Association (AGHIOA) assumes a liability to meet t=
+he cost of any hole-in-one prizes won at your tournament and this liabilit=
+y is insured with an A.M. Best A =E2=80=93 rated...
+States: All states
+Offered by Western Security Surplus Insurance Brokers=2C Inc. (http://myne=
+wmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3Dfc4c5facfb&e=3Dc94fb3698b)
+View details (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069=
+e0235e71e4d191462ae63&id=3D1da7a58b10&e=3Dc94fb3698b)
+
+
+** Market Announcements
+------------------------------------------------------------
+
+
+** Tools + Equipment Coverage Package (http://mynewmarkets.us3.list-manage=
+=2Ecom/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dbc89bb3002&e=3D=
+c94fb3698b)
+------------------------------------------------------------
+This package includes Contractors Equipment=2C Installation Floater=2C Equ=
+ipment Floater=2C Business Personal Property & Contents &...
+States: AL=2C AR=2C AZ=2C CA=2C CT=2C FL=2C GA=2C IA=2C ID=2C IN=2C KS=2C=
+ KY=2C LA=2C MD=2C MI=2C MN=2C MO=2C MT=2C NC=2C ND=2C NE=2C NV=2C OH=2C O=
+K=2C OR=2C PA=2C SC=2C SD=2C TN=2C TX=2C UT=2C VA=2C WA=2C WI=2C WV=2C WY
+View details (http://mynewmarkets.us3.list-manage2.com/track/click?u=3D406=
+9e0235e71e4d191462ae63&id=3Ded8f8aca77&e=3Dc94fb3698b)
+
+
+** Single Family Rental Property (http://mynewmarkets.us3.list-manage.com/=
+track/click?u=3D4069e0235e71e4d191462ae63&id=3D04f5cbaef4&e=3D=
+c94fb3698b)
+------------------------------------------------------------
+Following the economic downturn of 2008 many unfortunate people lost their=
+ homes. While they may have had to leave the home they owned=2C...
+States: All states
+View details (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069=
+e0235e71e4d191462ae63&id=3De217fdfe00&e=3Dc94fb3698b)
+
+
+** RLI Reinsurance (http://mynewmarkets.us3.list-manage2.com/track/click?u=
+=3D4069e0235e71e4d191462ae63&id=3D2b494b4ae5&e=3Dc94fb3698b)
+------------------------------------------------------------
+RLI Re - a separate division of RLI Insurance Company - underwrites a wide=
+ range of property facultative and specialty treaty...
+States: All states
+View details (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069=
+e0235e71e4d191462ae63&id=3D9fbf22334c&e=3Dc94fb3698b)
+
+
+** Umbrella and Excess (http://mynewmarkets.us3.list-manage.com/track/clic=
+k?u=3D4069e0235e71e4d191462ae63&id=3D997559d549&e=3Dc94fb3698b)
+------------------------------------------------------------
+We can provide Umbrella or following form excess over any carrier rated A-=
+VI or better. Also we can provide Umbrella or excess over our...
+States: TX
+View details (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069=
+e0235e71e4d191462ae63&id=3D6086ddaeab&e=3Dc94fb3698b)
+
+
+** Feature Articles
+------------------------------------------------------------
+
+
+** Trump's Impact on the EPLI Market (http://mynewmarkets.us3.list-manage.=
+com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Df7ab379a73&e=3D=
+c94fb3698b)
+------------------------------------------------------------
+
+There is no shortage of liability issues hanging over employers these days=
+ as the Trump Administration assumes office. Some controversial... Read mo=
+re (http://mynewmarkets.us3.list-manage1.com/track/click?u=3D4069e0235e71e=
+4d191462ae63&id=3D6266ca9aae&e=3Dc94fb3698b)
+
+
+** Cyber Market Faces Insurability Challenges (http://mynewmarkets.us3.lis=
+t-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Da8d71dcacb&e=
+=3Dc94fb3698b)
+------------------------------------------------------------
+
+While insurance against cyber risk represents a tremendous new business fo=
+r the insurance industry=2C numerous problems with the insurability... Rea=
+d more (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e=
+71e4d191462ae63&id=3Db445944255&e=3Dc94fb3698b)
+
+
+** What Drives Satisfaction in Large Commercial Insurance Market (http://m=
+ynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&=
+id=3D6d26ff48e6&e=3Dc94fb3698b)
+------------------------------------------------------------
+
+The profitability of an insurance company and the quality of advice given=
+ by an insured's insurance broker make the most difference in... Read more=
+ (http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d1=
+91462ae63&id=3De1e79ba09b&e=3Dc94fb3698b)
+
+
+** Latest Forums
+------------------------------------------------------------
+
+
+** Ca workers comp (http://mynewmarkets.us3.list-manage.com/track/click?u=
+=3D4069e0235e71e4d191462ae63&id=3D9cbe988406&e=3Dc94fb3698b)
+------------------------------------------------------------
+I need a market for 2797-3=2C new business.
+by benkins on Thu Jan 19=2C 2017
+
+
+** Florida Farm Insurance (http://mynewmarkets.us3.list-manage1.com/track/=
+click?u=3D4069e0235e71e4d191462ae63&id=3D92df6b99c4&e=3Dc94fb3698b)
+------------------------------------------------------------
+Is there a market for Florida Farm Insurance other than Markel=2C Great Am=
+erican=2C Farm Bureau=2C FCCI=2C Nautalus?
+by rstatum on Thu Jan 19=2C 2017
+
+
+** Re: Dealers Open Lot Texas (http://mynewmarkets.us3.list-manage1.com/tr=
+ack/click?u=3D4069e0235e71e4d191462ae63&id=3D89a4bb8f76&e=3D=
+c94fb3698b)
+------------------------------------------------------------
+What exactly are you looking for coverage wise?
+by Seabass6988 on Fri Jan 13=2C 2017
+
+
+** Ask a Question
+------------------------------------------------------------
+
+Join the conversation=2C ask your question to our community of more than 1=
+5=2C000 property casualty professionals. Get started today!
+
+http://mynewmarkets.us3.list-manage2.com/track/click?u=3D4069e0235e71e4d19=
+1462ae63&id=3D1c51ec142a&e=3Dc94fb3698b
+
+
+** Member Tools
+------------------------------------------------------------
+http://us3.forward-to-friend.com/forward?u=3D4069e0235e71e4d191462ae63&id=
+=3Dc0399d71db&e=3Dc94fb3698b
+
+Know someone who might be interested in the email? Why not forward this em=
+ail (http://us3.forward-to-friend.com/forward?u=3D4069e0235e71e4d191462ae6=
+3&id=3Dc0399d71db&e=3Dc94fb3698b) to a friend.
+http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191=
+462ae63&id=3D2f3b9f9255&e=3Dc94fb3698b
+
+Find exactly what you need.
+Search our database (http://mynewmarkets.us3.list-manage1.com/track/click?=
+u=3D4069e0235e71e4d191462ae63&id=3D1d014fcec9&e=3Dc94fb3698b) of
+more than 700 companies
+and 22=2C000 market listings.
+http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191=
+462ae63&id=3D7c651fd0a2&e=3Dc94fb3698b
+
+Login (http://mynewmarkets.us3.list-manage1.com/track/click?u=3D4069e0235e=
+71e4d191462ae63&id=3Ddb29f68ab7&e=3Dc94fb3698b) to your MyNewMarkets=
+ account.
+Not a member yet? Sign up now! (http://mynewmarkets.us3.list-manage1.com/t=
+rack/click?u=3D4069e0235e71e4d191462ae63&id=3D319afc70f9&e=3D=
+c94fb3698b)
+http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191=
+462ae63&id=3D701d8f1c18&e=3Dc94fb3698b
+
+
+** Connect with MyNewMarkets
+------------------------------------------------------------
+http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191=
+462ae63&id=3Db99f87e370&e=3Dc94fb3698b http://mynewmarkets.us3.list-=
+manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D7a1788635c&e=3D=
+c94fb3698b http://mynewmarkets.us3.list-manage.com/track/click?u=3D40=
+69e0235e71e4d191462ae63&id=3D7026456122&e=3Dc94fb3698b
+
+
+** Advertising Info
+------------------------------------------------------------
+For information about advertising on this newsletter and on MyNewMarkets.c=
+om=2C contact Kelly at (800) 897-9965 x125.
+
+Click here to forward this email to a friend (http://us3.forward-to-friend=
+=2Ecom/forward?u=3D4069e0235e71e4d191462ae63&id=3Dc0399d71db&e=3Dc94fb3698b) .
+
+MyNewMarkets.com Daily newsletter combines our comprehensive market databa=
+se with industry and coverage overviews to give agents a deep resource to=
+ educate and connect with opportunities.
+
+This email was sent to michael.mayer1001@gmail.com.
+
+Don't want this anymore? update your subscription (http://mynewmarkets.us3=
+=2Elist-manage.com/profile?u=3D4069e0235e71e4d191462ae63&id=3D57f20b1aa2&e=
+=3Dc94fb3698b) or unsubscribe (http://mynewmarkets.us3.list-manage2.com/unsu=
+bscribe?u=3D4069e0235e71e4d191462ae63&id=3D57f20b1aa2&e=3Dc94fb3698b&c=3Dc03=
+99d71db) from all lists.
+
+Contact Us:
+3570 Camino del Rio N Ste 200
+San Diego CA=2C 92108
+(800) 897-9965
+
+Copyright (C) 2017 Wells Media Group=2C Inc. All rights reserved.
+--_----------=_MCPart_1367185279
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/ht=
+ml4/strict.dtd">
+<html>
+<head>
+=09 <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-=
+8">
+=09 <title>MyNewMarkets Newsletter</title>
+</head>
+<body style=3D"background-color:#fff;margin-top:0;margin-bottom:0;margin-r=
+ight:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;">
+<table width=3D"100%" cellspacing=3D"10" cellpadding=3D"0">
+=09<tr>
+=09=09<td align=3D"center" valign=3D"top">
+
+<!-- HELP -->
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728">
+=09<tr>
+=09=09<td class=3D"permission">
+=09=09=09<p style=3D"color:#666;font-family:arial=2Csans-serif;font-size:1=
+1px;margin:0;padding:0;text-align:center;border-bottom:10px solid #fff;bor=
+der-top:10px solid #fff;">Having trouble reading this email? <a href=3D"ht=
+tp://us3.campaign-archive1.com/?u=3D4069e0235e71e4d191462ae63&id=3Dc0399d7=
+1db&e=3Dc94fb3698b" style=3D"color:#555;">View it in your browser</a>.</p>
+=09=09</td>
+=09</tr>
+</table>
+<!-- /HELP -->
+
+<!-- LEADERBOARD -->
+<div style=3D"border-bottom:15px solid #fff;">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728">
+=09<tr>
+=09=09<td><div class=3D"ad leaderboard" style=3D"text-align:center;width:7=
+28px;height:90px;margin:0 auto;"><a href=3D"http://mynewmarkets.us3.list-m=
+anage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D06dae21b34&e=3D=
+c94fb3698b"><img style=3D"border: none;" src=3D"https://www.insurancejourn=
+al.com/ads/superregional-20171118-728x90.jpg" width=3D"728" height=3D"90"=
+ alt=3D"Sponsored by: Insurance Journal. Super Regional P/C Insurer Confer=
+ence 2017. The Premier Event for C-Suite Professionals Throughout the Indu=
+stry. July 16-18. Lake Geneva=2C WI. Click here for more information."></a=
+></div></td>
+=09</tr>
+</table>
+</div>
+<!-- /LEADERBOARD -->
+
+<!-- HEADER -->
+<div style=3D"border-bottom:8px solid #fff;">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" styl=
+e=3D"background:url(http://files.mynewmarkets.com/newsletters/mynewmarkets=
+-newsletter-header-bg.png) top left repeat-x;">
+=09<tr>
+=09=09<td valign=3D"top" width=3D"480"><a href=3D"http://mynewmarkets.us3.=
+list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dbeac8105c4&=
+e=3Dc94fb3698b"><img src=3D"http://files.mynewmarkets.com/newsletters/myn=
+ewmarkets-newsletter-logo.png" width=3D"480" height=3D"83" alt=3D"MyNewMar=
+kets.com" border=3D"0"></a>
+=09=09=09<div style=3D"font-size:12px;font-family:arial=2Csans-serif;">&nb=
+sp;&nbsp;&nbsp;<strong><a href=3D"http://mynewmarkets.us3.list-manage2.com=
+/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dbf3c4eba6f&e=3Dc94fb3698b=
+">Market Directory</a></strong> |
+=09=09=09<strong><a href=3D"http://mynewmarkets.us3.list-manage.com/track/=
+click?u=3D4069e0235e71e4d191462ae63&id=3D310efc85dc&e=3Dc94fb3698b">Featu=
+red Articles</a></strong> |
+=09=09=09<strong><a href=3D"http://mynewmarkets.us3.list-manage.com/track/=
+click?u=3D4069e0235e71e4d191462ae63&id=3D1c816b8fd6&e=3Dc94fb3698b">Lates=
+t Forums</a></strong> |
+=09=09=09<strong><a href=3D"http://mynewmarkets.us3.list-manage.com/track/=
+click?u=3D4069e0235e71e4d191462ae63&id=3D471f2c7cd5&e=3Dc94fb3698b">Ask a=
+ Question</a></strong></div>
+=09=09</td>
+=09=09<td valign=3D"top" class=3D"subscriber-tools" style=3D"font-size:12p=
+x;font-family:arial=2Csans-serif;text-align:center;width:248px;"><img src=
+=3D"http://files.mynewmarkets.com/newsletters/mynewmarkets-newsletter-head=
+er-gradient.png" width=3D"248" height=3D"83" alt=3D""></td>
+=09</tr>
+</table>
+</div>
+<!-- /HEADER -->
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728">
+=09<tr>
+=09=09<td>
+=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728=
+">
+=09=09<tr>
+=09=09=09<td width=3D"415" valign=3D"top" class=3D"bumperTop maincol">
+<div style=3D"font-size:13px; font-family:arial=2Chelvetica=2Csans-serif;t=
+ext-align:left;">
+<!-- MAIN CONTENT -->
+
+<p style=3D"margin:0;padding:0;border-bottom:12px solid #fff;border-top:12=
+px solid #fff;"><strong>January 20=2C 2017</strong></p>
+
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09<div class=3D"featureListing" style=3D"background-color:#FFF2CF;border:=
+8px solid #FFF2CF;">
+=09=09<h2 style=3D"font-size:18px;font-family:arial=2Csans-serif;line-heig=
+ht:135%;margin:0;padding:0;"><a style=3D"color:#c00;" href=3D"http://mynew=
+markets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3D9c80193340&e=3Dc94fb3698b">Hole In One Coverage</a></h2>
+<div>Acer's Golf Hole-In-One Association (AGHIOA) assumes a liability to m=
+eet the cost of any hole-in-one prizes won at your tournament and this lia=
+bility is insured with an A.M. Best A =E2=80=93 rated...</div>
+<div><strong>States</strong>: All states</div>
+<div><strong>Offered by <a style=3D"color:#c00;" href=3D"http://mynewmarke=
+ts.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dc0bc=
+6d93be&e=3Dc94fb3698b">Western Security Surplus Insurance Brokers=2C Inc.=
+</a></strong></div><br>
+<div class=3D"more"><a style=3D"color:#c00;" href=3D"http://mynewmarkets.u=
+s3.list-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D74d17e5=
+553&e=3Dc94fb3698b">View details</a></div>=09</div>
+=09</div>
+=09
+<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bottom:15px;=
+">
+=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#ddd;=
+color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-1px=
+;font-size:18px;">Market Announcements</h3>
+
+=09=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;bord=
+er-left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-h=
+eight:135%;margin:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-ma=
+nage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dca922e4440&e=3D=
+c94fb3698b" style=3D"color:#139;text-decoration:none;">Tools + Equipment Cov=
+erage Package</a></h2>
+=09=09=09<div>This package includes Contractors Equipment=2C Installation=
+ Floater=2C Equipment Floater=2C Business Personal Property &amp; Contents=
+ &amp;...</div>
+=09=09=09<div><strong>States</strong>: AL=2C AR=2C AZ=2C CA=2C CT=2C FL=2C=
+ GA=2C IA=2C ID=2C IN=2C KS=2C KY=2C LA=2C MD=2C MI=2C MN=2C MO=2C MT=2C N=
+C=2C ND=2C NE=2C NV=2C OH=2C OK=2C OR=2C PA=2C SC=2C SD=2C TN=2C TX=2C UT=
+=2C VA=2C WA=2C WI=2C WV=2C WY</div>=09=09=09<div><a href=3D"http://mynewm=
+arkets.us3.list-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3De2883c4322&e=3Dc94fb3698b" class=3D"more" style=3D"text-decoration:und=
+erline;color:#139;">View details</a></div>
+=09=09</div>
+=09=09</div>
+=09=09=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;b=
+order-left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-h=
+eight:135%;margin:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-ma=
+nage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D078809a8f6&e=3D=
+c94fb3698b" style=3D"color:#139;text-decoration:none;">Single Family Rental=
+ Property</a></h2>
+=09=09=09<div>Following the economic downturn of 2008 many unfortunate peo=
+ple lost their homes. While they may have had to leave the home they owned=
+=2C...</div>
+=09=09=09<div><strong>States</strong>: All states</div>=09=09=09<div><a hr=
+ef=3D"http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71=
+e4d191462ae63&id=3D81ccbb4d22&e=3Dc94fb3698b" class=3D"more" style=3D"tex=
+t-decoration:underline;color:#139;">View details</a></div>
+=09=09</div>
+=09=09</div>
+=09=09=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;b=
+order-left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-h=
+eight:135%;margin:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-ma=
+nage2.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D0f20eab012&e=3D=
+c94fb3698b" style=3D"color:#139;text-decoration:none;">RLI Reinsurance</a><=
+/h2>
+=09=09=09<div>RLI Re - a separate division of RLI Insurance Company - unde=
+rwrites a wide range of property facultative and specialty treaty...</div>
+=09=09=09<div><strong>States</strong>: All states</div>=09=09=09<div><a hr=
+ef=3D"http://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71=
+e4d191462ae63&id=3D69dd2f89eb&e=3Dc94fb3698b" class=3D"more" style=3D"tex=
+t-decoration:underline;color:#139;">View details</a></div>
+=09=09</div>
+=09=09</div>
+=09=09=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;b=
+order-left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-h=
+eight:135%;margin:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-ma=
+nage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D041745ae60&e=3D=
+c94fb3698b" style=3D"color:#139;text-decoration:none;">Umbrella and Excess</=
+a></h2>
+=09=09=09<div>We can provide Umbrella or following form excess over any ca=
+rrier rated A-VI or better. Also we can provide Umbrella or excess over ou=
+r...</div>
+=09=09=09<div><strong>States</strong>: TX</div>=09=09=09<div><a href=3D"ht=
+tp://mynewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d19146=
+2ae63&id=3Dc2b8a6cfd7&e=3Dc94fb3698b" class=3D"more" style=3D"text-decora=
+tion:underline;color:#139;">View details</a></div>
+=09=09</div>
+=09=09</div>
+=09=09
+
+</div>
+
+
+<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bottom:15px;=
+">
+=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#ddd;=
+color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-1px=
+;font-size:18px;">Feature Articles</h3>
+
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-heig=
+ht:135%;line-height:135%;margin:0;padding:0;"><a href=3D"http://mynewmarke=
+ts.us3.list-manage2.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dc1d=
+e63e376&e=3Dc94fb3698b" style=3D"color:#139;text-decoration:none;">Trump'=
+s Impact on the EPLI Market</a></h2>
+=09=09<p style=3D"margin:0;padding:0;"> There is no shortage of liability=
+ issues hanging over employers these days as the Trump Administration assu=
+mes office. Some controversial... <a href=3D"http://mynewmarkets.us3.list-=
+manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D4b0155ba74&e=3D=
+c94fb3698b" class=3D"more" style=3D"text-decoration:underline;color:#139;"=
+>Read more</a></p>
+=09</div>
+=09</div>
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-heig=
+ht:135%;line-height:135%;margin:0;padding:0;"><a href=3D"http://mynewmarke=
+ts.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D8976=
+02f324&e=3Dc94fb3698b" style=3D"color:#139;text-decoration:none;">Cyber M=
+arket Faces Insurability Challenges</a></h2>
+=09=09<p style=3D"margin:0;padding:0;"> While insurance against cyber risk=
+ represents a tremendous new business for the insurance industry=2C numero=
+us problems with the insurability... <a href=3D"http://mynewmarkets.us3.li=
+st-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D1bcbd603a1&e=
+=3Dc94fb3698b" class=3D"more" style=3D"text-decoration:underline;color:#1=
+39;">Read more</a></p>
+=09</div>
+=09</div>
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09=09<h2 style=3D"font-size:15px;font-family:arial=2Csans-serif;line-heig=
+ht:135%;line-height:135%;margin:0;padding:0;"><a href=3D"http://mynewmarke=
+ts.us3.list-manage2.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D677=
+c8b955d&e=3Dc94fb3698b" style=3D"color:#139;text-decoration:none;">What D=
+rives Satisfaction in Large Commercial Insurance Market</a></h2>
+=09=09<p style=3D"margin:0;padding:0;"> The profitability of an insurance=
+ company and the quality of advice given by an insured's insurance broker=
+ make the most difference in... <a href=3D"http://mynewmarkets.us3.list-ma=
+nage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=3D48ea33f1a9&e=3D=
+c94fb3698b" class=3D"more" style=3D"text-decoration:underline;color:#139;">=
+Read more</a></p>
+=09</div>
+=09</div>
+</div>
+
+=09<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bottom:15=
+px;">
+=09=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#d=
+dd;color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-=
+1px;font-size:18px;">Latest Forums</h3>
+=09=09
+=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-=
+left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:14px;font-family:arial=2Csans-serif;margin=
+:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-manage.com/track/cl=
+ick?u=3D4069e0235e71e4d191462ae63&id=3Df17ad7d6fc&e=3Dc94fb3698b" style=
+=3D"color:#139;text-decoration:none;">Ca workers comp</a></h2>
+=09=09=09<div class=3D"abstract">
+=09=09=09I need a market for 2797-3=2C new business.=09=09=09<br>by <stron=
+g>benkins</strong> on Thu Jan 19=2C 2017</div>
+=09=09</div>
+=09=09</div>
+=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-=
+left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:14px;font-family:arial=2Csans-serif;margin=
+:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-manage.com/track/cl=
+ick?u=3D4069e0235e71e4d191462ae63&id=3D214ffd063a&e=3Dc94fb3698b" style=
+=3D"color:#139;text-decoration:none;">Florida Farm Insurance</a></h2>
+=09=09=09<div class=3D"abstract">
+=09=09=09Is there a market for Florida Farm Insurance other than Markel=2C=
+ Great American=2C Farm Bureau=2C FCCI=2C Nautalus?=09=09=09<br>by <strong=
+>rstatum</strong> on Thu Jan 19=2C 2017</div>
+=09=09</div>
+=09=09</div>
+=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-=
+left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<h2 style=3D"font-size:14px;font-family:arial=2Csans-serif;margin=
+:0;padding:0;"><a href=3D"http://mynewmarkets.us3.list-manage1.com/track/c=
+lick?u=3D4069e0235e71e4d191462ae63&id=3D860f8e7b13&e=3Dc94fb3698b" style=
+=3D"color:#139;text-decoration:none;">Re: Dealers Open Lot Texas</a></h2>
+=09=09=09<div class=3D"abstract">
+=09=09=09What exactly are you looking for coverage wise?=09=09=09<br>by <s=
+trong>Seabass6988</strong> on Fri Jan 13=2C 2017</div>
+=09=09</div>
+=09=09</div>
+=09</div>
+
+=09<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bottom:15=
+px;">
+=09=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#d=
+dd;color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-=
+1px;font-size:18px;">Ask a Question</h3>
+
+=09=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-=
+left:12px solid #fff;border-right:12px solid #fff;">
+=09=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:=
+12px 0;">
+=09=09=09<p style=3D"margin:0;padding:0;border-bottom:10px solid #fff;">Jo=
+in the conversation=2C ask your question to our community of more than 15=
+=2C000 property casualty professionals. Get started today!</p>
+=09=09=09<p style=3D"margin:0;padding:0;border-bottom:10px solid #fff;text=
+-align:right"><a href=3D"http://mynewmarkets.us3.list-manage1.com/track/cl=
+ick?u=3D4069e0235e71e4d191462ae63&id=3D41bfdea04c&e=3Dc94fb3698b"><img sr=
+c=3D"http://files.mynewmarkets.com/newsletters/button-register.gif" width=
+=3D"102" height=3D"25" border=3D"0" alt=3D"register now"></a></p>
+=09=09</div>
+=09=09</div>
+=09</div>
+
+
+<!-- /MAIN CONTENT -->
+</div>
+=09=09=09</td>
+=09=09=09<td width=3D"13" class=3D"bumperTop" style=3D"font-size:1px;">&nb=
+sp;</td>
+=09=09=09<td width=3D"300" valign=3D"top" class=3D"bumperTop sidecol">
+<div style=3D"font-size:13px; font-family:arial=2Chelvetica=2Csans-serif;t=
+ext-align:left;">
+<!-- SIDE CONTENT -->
+
+=09=09=09
+=09=09=09<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bot=
+tom:15px;">
+=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#ddd;=
+color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-1px=
+;font-size:18px;">Member Tools</h3>
+
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"270=
+">
+=09=09<tr>
+=09=09=09<td width=3D"65" style=3D"text-align:center"><a href=3D"http://us=
+3.forward-to-friend.com/forward?u=3D4069e0235e71e4d191462ae63&id=3Dc0399d7=
+1db&e=3Dc94fb3698b"><img src=3D"http://files.mynewmarkets.com/newsletters/fo=
+rward.gif" width=3D"57" height=3D"48" border=3D"0" alt=3D"Forward"></a></t=
+d>
+=09=09=09<td><p style=3D"margin:0;padding:0;font-family:arial=2Csans-serif=
+;font-size:12px;">Know someone who might be interested in the email? Why n=
+ot <strong><a href=3D"http://us3.forward-to-friend.com/forward?u=3D4069e02=
+35e71e4d191462ae63&id=3Dc0399d71db&e=3Dc94fb3698b">forward this email</a></s=
+trong> to a friend.</p></td>
+=09=09</tr>
+=09=09</table>
+=09</div>
+=09</div>
+
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"270">
+=09<tr>
+=09=09<td width=3D"65" style=3D"text-align:center"><a href=3D"http://mynew=
+markets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3De6dfaec83b&e=3Dc94fb3698b"><img src=3D"http://files.mynewmarkets.com/n=
+ewsletters/search.png" width=3D"58" height=3D"58" border=3D"0" alt=3D"Sear=
+ch"></a></td>
+=09=09<td><p style=3D"margin:0;padding:0;font-family:arial=2Csans-serif;fo=
+nt-size:12px;">Find exactly what you need. <br><strong><a href=3D"http://m=
+ynewmarkets.us3.list-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63=
+&id=3D530ebadacb&e=3Dc94fb3698b">Search our database</a></strong> of <br>
+=09=09more than 700 companies <br> and 22=2C000 market listings.</p></td>
+=09</tr>
+=09</table>
+=09</div>
+=09</div>
+
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+=09<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"270">
+=09<tr>
+=09=09<td width=3D"65" style=3D"text-align:center"><a href=3D"http://mynew=
+markets.us3.list-manage1.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3D8733157711&e=3Dc94fb3698b"><img src=3D"http://files.mynewmarkets.com/n=
+ewsletters/star.png" width=3D"48" height=3D"48" border=3D"0" alt=3D"Search=
+"></a></td>
+=09=09<td><p style=3D"margin:0;padding:0;font-family:arial=2Csans-serif;fo=
+nt-size:12px;"><strong><a href=3D"http://mynewmarkets.us3.list-manage.com/=
+track/click?u=3D4069e0235e71e4d191462ae63&id=3Dbe603b60c4&e=3Dc94fb3698b"=
+>Login</a></strong> to your MyNewMarkets account. <br>Not a member yet? <s=
+trong><a href=3D"http://mynewmarkets.us3.list-manage.com/track/click?u=3D4=
+069e0235e71e4d191462ae63&id=3D1e53952bfa&e=3Dc94fb3698b">Sign up now!</a>=
+</strong></p></td>
+=09</tr>
+=09</table>
+=09</div>
+=09</div>
+
+</div>
+
+=09=09=09<div class=3D"ad mediumRectangle" style=3D"text-align:center;widt=
+h:300px;height:250px;border-bottom:15px solid #fff;"><a href=3D"http://myn=
+ewmarkets.us3.list-manage.com/track/click?u=3D4069e0235e71e4d191462ae63&id=
+=3De0e51fdcb0&e=3Dc94fb3698b"><img style=3D"border: none;" src=3D"http://=
+www.insurancejournal.com/app/uploads/2017/01/mnm-mediakit-20170109-300x250=
+=2Epng" width=3D"300" height=3D"250" alt=3D"Attention Advertisers: Your Best=
+ Sales Tool for 2017 Just Arrived. Get Your Media Kit Now."></a></div>
+
+
+=09=09=09<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bot=
+tom:15px;">
+=09<h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:#ddd;=
+color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing:-1px=
+;font-size:18px;">Connect with MyNewMarkets</h3>
+=09<div class=3D"divider" style=3D"border-bottom:1px solid #eee;border-lef=
+t:12px solid #fff;border-right:12px solid #fff;">
+=09<div class=3D"article" style=3D"border:12px solid #fff;border-width:12p=
+x 0;">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+=09<td width=3D"90"><a href=3D"http://mynewmarkets.us3.list-manage.com/tra=
+ck/click?u=3D4069e0235e71e4d191462ae63&id=3Df945c15b68&e=3Dc94fb3698b"><i=
+mg src=3D"http://cdn.insurancejournal.com/img/socialmedia/twitter-logo-80x=
+28.png" width=3D"80" height=3D"28" border=3D"0" alt=3D"Twitter" /></a></td=
+>
+=09<td width=3D"90"><a href=3D"http://mynewmarkets.us3.list-manage.com/tra=
+ck/click?u=3D4069e0235e71e4d191462ae63&id=3D4ea660791a&e=3Dc94fb3698b"><i=
+mg src=3D"http://cdn.insurancejournal.com/img/socialmedia/facebook-logo-80=
+x25.png" width=3D"80" height=3D"25" border=3D"0" alt=3D"Facebook" /></a></=
+td>
+        <td width=3D"90"><a href=3D"http://mynewmarkets.us3.list-manage1.c=
+om/track/click?u=3D4069e0235e71e4d191462ae63&id=3Dd3a4c5e5e2&e=3D=
+c94fb3698b"><img src=3D"http://cdn.insurancejournal.com/img/socialmedia/linkedin-l=
+ogo-80x25.png" width=3D"80" height=3D"25" border=3D"0" alt=3D"LinkedIn" />=
+</a></td>
+</tr>
+</table>
+=09</div>
+=09</div>
+</div>
+
+=09=09=09
+=09=09=09
+=09=09=09<div class=3D"articles" style=3D"border:1px solid #ddd;margin-bot=
+tom:15px;">
+        <h3 class=3D"sectionTitle" style=3D"margin:0;padding:0;background:=
+#ddd;color:#333;border:5px solid #ddd;border-width:5px 15px;letter-spacing=
+:-1px;font-size:18px;">Advertising Info</h3>
+        <div class=3D"divider" style=3D"border-bottom:1px solid #eee;borde=
+r-left:12px solid #fff;border-right:12px solid #fff;">
+        <div class=3D"article" style=3D"border:12px solid #fff;border-widt=
+h:12px 0;">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tr>
+        <td width=3D"270">
+=09    For information about advertising on this newsletter and on MyNewMa=
+rkets.com=2C contact Kelly at (800) 897-9965 x125.
+        </td>
+</tr>
+</table>
+        </div>
+        </div>
+</div>
+
+<!-- /SIDE CONTENT -->
+</div>
+=09=09=09</td>
+=09=09</tr>
+=09=09</table>
+=09=09</td>
+=09</tr>
+</table>
+
+
+
+<!-- FOOTER CONTENT -->
+<div id=3D"footer">
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"728" styl=
+e=3D"margin-top:15px;padding-top:15px;border-top:1px solid #efefef;">
+<tr>
+<td>
+<div style=3D"font-family:arial=2Csans-serif;font-size:13px;">
+<p>Click here to <a href=3D"http://us3.forward-to-friend.com/forward?u=3D4=
+069e0235e71e4d191462ae63&id=3Dc0399d71db&e=3Dc94fb3698b">forward this email=
+ to a friend</a>.</p>
+
+<p>MyNewMarkets.com Daily newsletter combines our comprehensive market dat=
+abase with industry and coverage overviews to give agents a deep resource=
+ to educate and connect with opportunities.</p>
+
+<p>This email was sent to michael.mayer1001@gmail.com.</p>
+
+<p>Don't want this anymore? <a href=3D"http://mynewmarkets.us3.list-manage=
+=2Ecom/profile?u=3D4069e0235e71e4d191462ae63&id=3D57f20b1aa2&e=3Dc94fb3698b">u=
+pdate your subscription</a> or <a href=3D"http://mynewmarkets.us3.list-man=
+age2.com/unsubscribe?u=3D4069e0235e71e4d191462ae63&id=3D57f20b1aa2&e=3D=
+c94fb3698b&c=3Dc0399d71db">unsubscribe</a> from all lists.</p>
+
+<p>Contact Us:<br>
+3570 Camino del Rio N Ste 200<br>
+San Diego CA=2C 92108<br>
+
+(800) 897-9965</p>
+
+<p>Copyright (C) 2017 Wells Media Group=2C Inc. All rights reserved.</p>
+
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- /FOOTER CONTENT -->
+
+=09=09</td>
+=09</tr>
+</table>
+<img src=3D"http://mynewmarkets.us3.list-manage.com/track/open.php?u=3D406=
+9e0235e71e4d191462ae63&id=3Dc0399d71db&e=3Dc94fb3698b" height=3D"1" width=
+=3D"1"></body>
+</html>
+--_----------=_MCPart_1367185279--
+

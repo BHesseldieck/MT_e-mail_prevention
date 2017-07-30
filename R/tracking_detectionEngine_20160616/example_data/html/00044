@@ -1,0 +1,61 @@
+From 1558023092946147250@xxx Tue Jan 31 07:10:08 +0000 2017
+X-GM-THRID: 1558023092946147250
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1745654qge;
+        Mon, 30 Jan 2017 23:10:08 -0800 (PST)
+X-Received: by 10.98.72.216 with SMTP id q85mr28161854pfi.75.1485846608278;
+        Mon, 30 Jan 2017 23:10:08 -0800 (PST)
+Return-Path: <bounces+17088-3408-michael.mayer1001=googlemail.com@email.investis.com>
+Received: from o1.default.investis.com (o1.default.investis.com. [198.21.0.172])
+        by mx.google.com with ESMTPS id c1si15094495pld.50.2017.01.30.23.10.07
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 30 Jan 2017 23:10:08 -0800 (PST)
+Received-SPF: pass (google.com: domain of bounces+17088-3408-michael.mayer1001=googlemail.com@email.investis.com designates 198.21.0.172 as permitted sender) client-ip=198.21.0.172;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@email.investis.com;
+       spf=pass (google.com: domain of bounces+17088-3408-michael.mayer1001=googlemail.com@email.investis.com designates 198.21.0.172 as permitted sender) smtp.mailfrom=bounces+17088-3408-michael.mayer1001=googlemail.com@email.investis.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; 
+	d=email.investis.com; 
+	h=mime-version:from:to:subject:content-type:content-transfer-encoding; 
+	s=smtpapi; bh=YaEZcAqAeUxZadbeZsBZKcZM6N0=; b=WTtNpOcqKJk1wMd07L
+	U2TnhSmTf70T8HDQ4oeGqi6Fg14b7A5d+Y3mC40JESoJc/4SlK94Z3fdmar0OUF/
+	MERRFTjUL5XDbyQSwbOQmBPooVpOuHiW1hZE3LvGMoGtpsX/fNtTQMi4gVWr0/XX
+	glDGCsVvyPeCi5VGduLYhC+Ak=
+Received: by filter1107p1mdw1.sendgrid.net with SMTP id filter1107p1mdw1-9107-58903848-11
+        2017-01-31 07:10:00.507985147 +0000 UTC
+Received: from potpeuw1svc01 (ec2-52-19-148-223.eu-west-1.compute.amazonaws.com [52.19.148.223])
+	by ismtpd0003p1lon1.sendgrid.net (SG) with ESMTP id mJd3xRpfQ7OKTrwo0J59GQ
+	for <hemant.shah@investis.com>; Tue, 31 Jan 2017 07:10:00.263 +0000 (UTC)
+MIME-Version: 1.0
+From: "Sports Direct International plc Alerting Service"
+ <alerting.service@investis.com>
+To: michael.mayer1001@googlemail.com
+Date: 31 Jan 2017 08:10:15 +0100
+Subject: Sports Direct International plc alert service
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Message-ID: <mJd3xRpfQ7OKTrwo0J59GQ@ismtpd0003p1lon1.sendgrid.net>
+X-SG-EID: ru1gZ9nEGoktx9UhlPNlMpJvymLkPvurHnrAgAltXznBOuMJcwf4pRIrAQFaTB+M5ib8BrVIhDzYMd
+ xziSQ/riaVTVZG38DbNy7kDIn084681S3JCsVsiWp5zgq0Vyv82MzPWze1Wlcojpw/xJ6fZPImrsk2
+ pdieIVwpryxjnRvQcqE++hpARvfghDAc+hOHIb1ICN89dLylqxD187aQCAShWPquOQCPThS+ovDEuD
+ ctuzc78/B36paxFIkj2nh/WJhOiiM2GOrX+5A+q/cMB+Oj9xUDV3JPs/0Ryi7Qj/g=
+X-SG-ID: NMHL7tc+AxXN/stbBh9h7E+E/AuCZRo2+5fH4t6yMHBoNIf7nH5Sj4iSzafoHO27
+
+Sports Direct International plc has published the following regulatory news=
+ announcement:
+
+31 January 2017
+Transaction in Own Shares
+
+To read the announcement, go to:
+http://www.sportsdirectplc.com/investor-relations/regulatory-news.aspx
+
+To unsubscribe or to change your subscriber options, go to:
+http://www.sportsdirectplc.com/site-services/email-alerts.aspx
+
+
+This service is brought to you by http://www.investis.com/.
+
+

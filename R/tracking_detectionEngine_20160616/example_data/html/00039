@@ -1,0 +1,252 @@
+From 1556991104644149231@xxx Thu Jan 19 21:47:07 +0000 2017
+X-GM-THRID: 1556991104644149231
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp476368qge;
+        Thu, 19 Jan 2017 13:47:07 -0800 (PST)
+X-Received: by 10.99.114.91 with SMTP id c27mr12858744pgn.163.1484862427185;
+        Thu, 19 Jan 2017 13:47:07 -0800 (PST)
+Return-Path: <alert@corporatesolutions.corporate-ir.com>
+Received: from se.envoyxpress.com (se.envoyxpress.com. [208.92.176.200])
+        by mx.google.com with SMTP id f16si3412396pli.143.2017.01.19.13.47.06
+        for <michael.mayer1001@gmail.com>;
+        Thu, 19 Jan 2017 13:47:07 -0800 (PST)
+Received-SPF: pass (google.com: domain of alert@corporatesolutions.corporate-ir.com designates 208.92.176.200 as permitted sender) client-ip=208.92.176.200;
+Authentication-Results: mx.google.com;
+       dkim=temperror (dns failure for signature) header.i=@ccbn.com;
+       spf=pass (google.com: domain of alert@corporatesolutions.corporate-ir.com designates 208.92.176.200 as permitted sender) smtp.mailfrom=alert@corporatesolutions.corporate-ir.com
+DKIM-Signature: v=1; a=rsa-sha256; c=simple; d=ccbn.com; s=vii01;
+	h=Date:From:Message-ID:MIME-Version:Subject:To:Content-Type;
+	bh=f2hQr+buU6s2OJ7m95c38M/AOPf7tTOs4hVAHAwxa0w=; b=Bkk2hMKQh+VIW
+	rz0DtpBM8MYOum0i76VVO1/9BnbATjNQg0whN5ShC3RCmBP6jGvo40YL7u6nqd+U
+	xVyWsgCFNisVZsILUg3Ui1af9SCjQ9zLY4aR4ikBk5m9NXnVonvuZGCaGntvYEqX
+	M6/KrfS+4GW8ptflrVjIDLEAH42DQQ=
+Date: Thu, 19 Jan 2017 16:47:05 -0500
+From: "Bank of America Corporation"<alert@corporatesolutions.corporate-ir.com>
+Message-ID: <1484862425901464@envoyww.com>
+MIME-Version: 1.0
+Subject: ALERT: New Bank of America Corporation SEC Filing
+To: michael.mayer1001@gmail.com
+Content-Type: multipart/alternative; boundary="----=_NextPart_1484862426326092"
+
+This is a multi-part message in MIME format. 
+
+------=_NextPart_1484862426326092
+Content-ID: <1484862426901624@envoyww.com>
+Content-transfer-encoding: quoted-printable
+Content-type: text/plain; charset=iso-8859-1
+
+
+A Form 424B5 regarding Bank of America Corporation has been filed with the=
+ United States Securities and Exchange Commission.
+
+To View the filing please  click here
+
+
+------------------------------------------------------------
+If you are unable to click on the link above, please copy and paste the =
+URL below into a web browser
+http://investor.bankofamerica.com/phoenix.zhtml?c=3D71595&p=3Dirol-sec
+------------------------------------------------------------
+Nasdaq 11 Farnsworth Street, Boston, MA 02210 | 866/228-2226
+
+Click Here to unsubscribe from this JoinMail list.
+
+
+
+
+
+-----
+
+
+
+
+
+------=_NextPart_1484862426326092
+Content-ID: <1484862426901625@envoyww.com>
+Content-transfer-encoding: quoted-printable
+Content-type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD W3 HTML//EN">
+<HTML>
+<HEAD></HEAD>
+<BODY bgcolor=3D"#FFFFFF">
+<p>
+=20=20
+    <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"450">
+      <tr>
+        <td>
+          <font size=3D"2" face=3D"Verdana,Arial,Helvetica">
+            <html>
+                                            <head>
+                                            <style type=3D"text/css">
+                                            <!--
+                                            p {font-family: Arial, =
+Verdana, Helvetica, sans-serif; font-size: 10pt;}
+                                            td {font-family: Arial, =
+Verdana, Helvetica, sans-serif; font-size: 10pt;}
+                                            td.RowTitle {font-family: =
+Arial, Verdana, Helvetica, sans-serif; font-size: 10pt; =
+background-color:"<!--TITLECOLOR-->";}
+                                            td.RowOdd {font-family: Arial,=
+ Verdana, Helvetica, sans-serif; font-size: 10pt; =
+background-color:"<!--ODDROWCOLOR-->";}
+                                            td.RowEven {font-family: =
+Arial, Verdana, Helvetica, sans-serif; font-size: 10pt; =
+background-color:"<!--EVENROWCOLOR-->";}
+                                            tr {font-family: Arial, =
+Verdana, Helvetica, sans-serif; font-size: 10pt;}
+                                            font {font-family: Arial, =
+Helvetica, sans-serif; font-size: 10pt;}
+                                            font.header {font-family: =
+Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;}
+                                            font.footer {font-family: =
+Arial, Helvetica, sans-serif; font-size: 7pt;}
+                                            font.Title {font-family: =
+Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;font-weight: bold;}
+                                            font.Trade {font-family: =
+Arial, Helvetica, sans-serif; font-size: 14pt;font-weight: bold;}
+                                            A:            link
+                                            {
+                                            font-family: Arial, Verdana, =
+Helvetica, sans-serif;
+                                            font-size: 10pt;
+                                            COLOR: #000000;
+                                            }
+                                            A:            visited
+                                            {
+                                            font-family: Arial, Verdana, =
+Helvetica, sans-serif;
+                                            font-size: 10pt;
+                                            COLOR: #000000;
+                                            }
+                                            A:            active
+                                            {
+                                            font-family: Arial, Verdana, =
+Helvetica, sans-serif;
+                                            font-size: 10pt;
+                                            COLOR: #000000;
+                                            }
+                                            A:            hover
+                                            {
+                                            font-family: Arial, Verdana, =
+Helvetica, sans-serif;
+                                            font-size: 10pt;
+                                            COLOR: #000000;
+                                            }
+                                            -->
+                                            </style>
+                                            </HEAD>
+                                            <body bgcolor=3D"#FFFFFF" =
+text=3D"#000000">
+                                            <!--// Opening Table -->
+                                            <table width=3D"468" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"1" bgcolor=3D"#CCCCCC">
+                                               <tr>
+                                                  <td>
+			                                            <table width=3D"468" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#FFFFFF">
+                   <tr>
+                       <td align=3D"left"><img =
+src=3D"http://media.corporate-ir.net/media_files/IROL/71/71595/Thomson_aler=
+t_banner_v3FINAL.jpg" height=3D"57"></td>
+                   </tr>
+                 </table>
+                                             <!--// Open the Inner =
+Table--->
+                                            <table border=3D"0" =
+cellspacing=3D"0" cellpadding=3D"7" width=3D"100%">
+                                               <tr>
+                                                  <td bgcolor=3D"#FFFFFF" =
+colspan=3D"2">
+                                            <!--// Add the Message Header =
+if it exists-->
+                                            <p>A Form 424B5 regarding Bank=
+ of America Corporation has been filed with the United States Securities =
+and Exchange Commission.</p>
+                                            <!--// Add the Body of the =
+HTML message-->
+                                            To View the filing please  <a =
+href=3D"http://investor.bankofamerica.com/phoenix.zhtml?c=3D71595&p=3Dirol-=
+sec">click here</a><br/><br/>
+                                            <!--//Full Text ?-->
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                                            <!--// Close the body row-->
+                                            </td>
+                                            </tr>
+                                            <!--// Add the contingency =
+url-->
+                                            <TR><td bgcolor=3D"#FFFFFF" =
+colspan=3D"2"><hr>
+                 <font class=3D"footer">
+                 If you are unable to click on the link above, please copy=
+ and paste the URL below into a web =
+browser<br>http://investor.bankofamerica.com/phoenix.zhtml?c=3D71595&p=3Dir=
+ol-sec
+                 </font></td></tr>
+                                                     </table>
+                                                  </td>
+                                               </tr>
+                                            </table>
+                                            <!--// Add the Postal =
+Address-->
+                                                   <table width=3D"468" =
+border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+                                               <tr>
+                                                  <td><font =
+class=3D"footer" color=3D"#666666">
+                                                    <TR><td =
+bgcolor=3D"#FFFFFF" colspan=3D"2">
+                 <font class=3D"footer">
+                 Nasdaq 11 Farnsworth Street, Boston, MA 02210 | =
+866/228-2226
+                 </font></td></tr>
+                                                      </font></td>
+                                                </tr>
+                                            </table>
+                                                <!--// Add the OptIn =
+Link-->
+                                            <table width=3D"468" =
+border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+                   <tr>
+                      <td><font class=3D"footer" color=3D"#666666">
+                        <a =
+href=3D"http://origin-legacy.corporate-ir.net/ireye/unsubscribe.zhtml?t=3D1=
+710&a=3Dir-sec"><font class=3D"footer">Click Here</font></a><font =
+class=3D"footer"> to unsubscribe from this JoinMail list.</font>
+                          </font></td>
+                   </tr>
+                </table>
+                                                        </body>
+                                            </html>
+
+		<p><p>
+=09=09
+          </font>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <font size=3D"2" face=3D"Verdana,Arial,Helvetica">
+=20=20=20=20=20=20=20=20=20=20=20
+          </font>
+        </td>
+      </tr>
+
+    </table>
+</p>
+
+
+<hr>
+
+</p>
+</font>
+</BODY>
+</HTML>
+
+
+------=_NextPart_1484862426326092--
+
+
+

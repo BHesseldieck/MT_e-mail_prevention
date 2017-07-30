@@ -1,0 +1,453 @@
+From 1558047783820481954@xxx Tue Jan 31 13:42:35 +0000 2017
+X-GM-THRID: 1558047783820481954
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1874022qge;
+        Tue, 31 Jan 2017 05:42:35 -0800 (PST)
+X-Received: by 10.223.146.39 with SMTP id 36mr24268352wrj.85.1485870155022;
+        Tue, 31 Jan 2017 05:42:35 -0800 (PST)
+Return-Path: <no-reply@newsletter.hlag.com>
+Received: from cluster-j.mailcontrol.com (cluster-j.mailcontrol.com. [85.115.54.190])
+        by mx.google.com with ESMTPS id u74si20865995wrb.303.2017.01.31.05.42.34
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 31 Jan 2017 05:42:34 -0800 (PST)
+Received-SPF: neutral (google.com: 85.115.54.190 is neither permitted nor denied by best guess record for domain of no-reply@newsletter.hlag.com) client-ip=85.115.54.190;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 85.115.54.190 is neither permitted nor denied by best guess record for domain of no-reply@newsletter.hlag.com) smtp.mailfrom=no-reply@newsletter.hlag.com
+Received: from kfdcmh07.hlcl.com ([194.9.166.106])
+	by rly17j.srv.mailcontrol.com (MailControl) with ESMTPS id v0VDgXEk048066
+	(version=TLSv1.2 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256 verify=FAIL)
+	for <michael.mayer1001@gmail.com>; Tue, 31 Jan 2017 13:42:33 GMT
+Received: from kswfww03.hlcl.com (kswfww03.hlcl.com [193.17.50.128])
+	by kfdcmh07.hlcl.com (8.14.4/8.14.4) with ESMTP id v0VDgRmc030879
+	for <michael.mayer1001@gmail.com>; Tue, 31 Jan 2017 13:42:33 GMT
+Date: Tue, 31 Jan 2017 14:42:32 +0100 (CET)
+From: Hapag-Lloyd AG <no-reply@newsletter.hlag.com>
+Reply-To: no-reply@newsletter.hlag.com
+To: MICHAEL MAYER <michael.mayer1001@gmail.com>
+Message-ID: <UM.QJ4Y.7YRN0.6A1A922A233715D0521D467641E29A84@mail.hlcl.com>
+Subject: Monthly Ocean Charges Newsletter from/to Asia and Oceania
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Pinuts Universal Messenger UM7-10-1b1001
+X-Scanned-By: MailControl 44278.1917 (www.mailcontrol.com) on 10.74.0.127
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+  <head>
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width">
+   =20
+    <title>Monthly Ocean Charges Newsletter from/to Asia and Oceania</title=
+>
+  </head>
+  <body style=3D"-moz-box-sizing: border-box; -ms-text-size-adjust: 100%; -=
+webkit-box-sizing: border-box; -webkit-text-size-adjust: 100%; Margin: 0; b=
+ox-sizing: border-box; color: #0a0a0a; font-family: Helvetica, Arial, sans-=
+serif; font-size: 13px; font-weight: normal; line-height: 19px; Margin: 0; =
+min-width: 100%; padding: 0; text-align: left; width: 100% !important;">
+    <style type=3D"text/css">
+      /*Hotmail and Yahoo specific code*/
+      .ReadMsgBody {
+        width: 100%;
+      }
+      .ExternalClass {
+        width: 100%;
+      }
+      .yshortcuts {
+        color: #ffffff;
+      }
+      .yshortcuts a span {
+        color: #ffffff;
+        border-bottom: none !important;
+        background: none !important;
+      }
+      /*Hotmail and Yahoo specific code*/
+      body {
+        -webkit-text-size-adjust: 100%;
+        -ms-text-size-adjust: 100%;
+        -webkit-font-smoothing: antialiased;
+        Margin: 0 !important;
+        padding: 0 !important;
+        width: 100% !important;
+      }
+
+      p {
+        font-size: 13px;
+        line-height: 18px;
+        Margin: 0 0 12px;
+      }
+      .hal-richtext {
+        font-size: 13px;
+      }
+      .parbase img {
+        margin-bottom: 10px;
+      }
+      @media only screen and (max-width: 600px) {
+        body {
+          width: auto !important;
+        }
+        img[class=3D"width100img"] {
+
+          width: 100%!important;
+          height: auto!important;
+          max-width: 100%!important;
+          max-height: inherit!important;
+        }
+        td[class=3D"cell-banner"] {
+          width: 122px !important;
+        }
+        img[class=3D"img-banner"] {
+          width: 100%!important;
+          height: auto!important;
+          max-width: 100%!important;
+          max-height: inherit!important;
+        }
+        td[class=3D"cell-banner-text"] {
+          font-size: 16px !important;
+          padding: 0 10px !important;
+          vertical-align: middle;
+        }
+        p[class=3D"banner-text"] {
+          padding: 0 !important;
+          Margin: 0 !important;
+        }
+        td[class=3D"cell-footer"] {
+          padding: 0 10px !important;
+        }
+        img[class=3D"teaser-img"] {
+          width: 80px !important;
+        }
+        td[class=3D"teaser-img-cell"] {
+          width: 86px !important;
+          border-bottom: 1px solid #b3c4de !important;
+        }
+      }
+
+    </style>
+   =20
+   =20
+
+    <!-- layout start -->
+    <table border=3D"0" bgcolor=3D"#FFFFFF" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace: =
+0pt;mso-table-rspace: 0pt;font-family:Helvetica,Arial,sans-serif;font-weigh=
+t:normal;" align=3D"center">
+      <tbody>
+        <tr>
+          <td>
+            <!-- wrapper table -->
+            <table border=3D"0" bgcolor=3D"#FFFFFF" cellpadding=3D"0" width=
+=3D"600" cellspacing=3D"0" style=3D"border-collapse: collapse;mso-table-lsp=
+ace: 0pt;mso-table-rspace: 0pt;font-family:Helvetica,Arial,sans-serif;font-=
+weight:normal;" align=3D"center" class=3D"table-rwd">
+              <tbody>
+                <tr>
+                  <td bgcolor=3D"#FFFFFF">
+                    <!-- header table -->
+                    <table border=3D"0" bgcolor=3D"#FFFFFF" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;font-family:Helvetica,Arial,sans-se=
+rif;font-weight:normal;border-top: 5px solid #ff6600;" align=3D"center">
+                      <tbody>
+                        <td style=3D"-moz-hyphens: auto; -webkit-hyphens: a=
+uto; Margin: 0; border-collapse: collapse !important; color: #0a0a0a; font-=
+family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight: normal;=
+ hyphens: auto; line-height: 19px; Margin: 0; padding: 20px 0px 20px 20px; =
+text-align: left; vertical-align: top; word-wrap: break-word;" class=3D"wra=
+pper-inner">
+                          <table style=3D"Margin: 0 auto; background: trans=
+parent; border-collapse: collapse; border-spacing: 0; Margin: 0 auto; paddi=
+ng: 0; text-align: inherit; vertical-align: top; width: 580px;" class=3D"co=
+ntainer">
+                            <tbody>
+                              <tr style=3D"padding: 0; text-align: left; ve=
+rtical-align: top;">
+                                <td style=3D"-moz-hyphens: auto; -webkit-hy=
+phens: auto; Margin: 0; border-collapse: collapse !important; color: #0a0a0=
+a; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weight:=
+ normal; hyphens: auto; line-height: 19px; Margin: 0; padding: 0; text-alig=
+n: left; vertical-align: top; word-wrap: break-word;">
+                                  <table style=3D"border-collapse: collapse=
+; border-spacing: 0; display: table; padding: 0; position: relative; text-a=
+lign: right; vertical-align: top; width: 100%;" class=3D"row collapse">
+                                    <tbody>
+                                      <tr style=3D"padding: 0; text-align: =
+right; vertical-align: top;">
+                                        <th style=3D"Margin: 0; color: #0a0=
+a0a; font-family: Helvetica, Arial, sans-serif; font-size: 16px; font-weigh=
+t: normal; line-height: 19px; Margin: 0; padding: 0; text-align: right;">
+                                          <table style=3D"border-collapse: =
+collapse; border-spacing: 0; padding: 0; text-align: right; vertical-align:=
+ top;">
+                                            <tbody>
+                                              <tr style=3D"padding: 0; text=
+-align: right; vertical-align: top;">
+                                                <img src=3D"https://www.hap=
+ag-lloyd.de/images/layout/logo_white.png" width=3D"181" alt=3D"Hapag-Lloyd"=
+ style=3D"-ms-interpolation-mode: bicubic; clear: both; display: block; max=
+-width: 100%; outline: none; text-decoration: none; width: auto;" align=3D"=
+right" height=3D"28">
+                                              </tr>
+                                            </tbody>
+                                          </table>
+                                        </th>
+                                      </tr>
+                                    </tbody>
+                                  </table>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                        </td>
+                        <tr></tr>
+                      </tbody>
+                    </table>
+                    <!-- end of header table -->
+
+                    <!-- banner table -->
+                    <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%" style=3D"border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;font-family:Helvetica,Arial,sans-serif;font-weight:norm=
+al;" align=3D"center">
+                      <tbody>
+                        <tr>
+                          <td bgcolor=3D"#FFFFFF" style=3D"color: #000000; =
+border-bottom: 1px solid #dddddd" class=3D"cell-banner">
+                            <p style=3D"Margin: 5px 15px 15px 15px;font-siz=
+e: 26px;line-height: 26px;font-weight: bold;">Customer News</p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- end of banner table -->
+                    <!-- editorial table -->
+                    <table border=3D"0" bgcolor=3D"#FFFFFF" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"100%" style=3D"border-collapse: collapse;mso-=
+table-lspace: 0pt;mso-table-rspace: 0pt;font-family:Helvetica,Arial,sans-se=
+rif;font-weight:normal;" align=3D"center">
+                      <tbody>
+                        <tr>
+                          <td style=3D"padding: 15px 15px 8px 15px; backgro=
+und: #ffffff;">
+                            <time datetime=3D"2017-01-31T18:36:00.000+05:30=
+" style=3D"font-size: 14px;">Jan 31, 2017</time>
+
+                           =20
+                            <h1 style=3D"Margin: 10px 0; color: inherit; fo=
+nt-family: Helvetica, Arial, sans-serif; font-size: 30px; font-weight: norm=
+al; line-height: 1.3; padding: 0; text-align: left; word-wrap: normal;" cla=
+ss=3D"hal-h1">Monthly Ocean Charges Newsletter from/to Asia and Oceania</h1=
+>
+
+                           =20
+                            <div style=3D"color: inherit; font-family: Helv=
+etica, Arial, sans-serif; font-weight: bold; line-height: 1.3; padding: 0; =
+text-align: left; word-wrap: normal;">
+</div>
+
+                           =20
+                            <div dir=3D"ltr" class=3D"hal-richtext "><p>The=
+ CustomerInfo contains monthly revised ocean charges applicable from/to Asi=
+a and Oceania effective March 1, 2017.</p>
+
+<ul>
+<li>Currency Adjustment Factor (CAF)</li>
+<li>Bunker Charges (BUC) or Bunker Adjustment Factor (BAF) or Bunker Fuel F=
+actor (BFF)</li>
+<li>Low Sulphur Charges (LSF)</li>
+<li>Emergency Bunker Surcharge (EBS)</li>
+</ul>
+
+
+</div>
+
+
+                            <div class=3D"download downloadpdf section">
+
+
+
+<a href=3D"https://www.hapag-lloyd.com/cmsbs-restproxy/t/nl?t=3DQJ4Y.7YRN0.=
+6A1A922A233715D0521D467641E29A84&amp;d=3Dhttps%3a%2f%2fwww.hapag-lloyd.com%=
+2fcontent%2fdam%2fwebsite%2fdownloads%2fpdf%2fCust%2520Info%2520Asia%2520BU=
+C%2520CAF%25202017-03.pdf&amp;h=3D&amp;i=3D7yrn1" download dir=3D"ltr" clas=
+s=3D"hal-link hal-link--download hal-link--pdf" target=3D"_blank" data-cmsb=
+s-id=3D"13379437">
+ <svg width=3D"20" class=3D"icon-pdf" height=3D"20">
+  <use xmlns:xlink=3D"http://www.w3.org/1999/xlink" width=3D"100%" fill=3D"=
+currentColor" xlink:href=3D"#document-pdf" height=3D"100%"></use>
+ </svg>Cust Info Asia BUC CAF 2017-03.pdf <span class=3D"hal-link-filesize"=
+>(382.6 KB, 8 Pages)</span>
+=20
+=20
+
+</a>
+
+
+</div>
+
+
+
+                           =20
+                            <h3 class=3D"hal-h3">Belongs to</h3>
+                            <ul>
+                              <li class=3D"hal-tag" data-label=3D"surcharge=
+s">Surcharges</li>
+                            </ul>
+
+                           =20
+                            <h3 class=3D"hal-h3">Geographical Scope</h3>
+                            <ul class=3D"hal-list hal-list--unnumbered">
+                              <li>
+                                <span data-label=3D"export">Australia, New =
+Zealand, Pacific Islands - Export</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"import">East Asia (from=
+/to Americas) - Import</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"import">Indian Subconti=
+nent - Import</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"export">East Asia (from=
+/to Europe) - Export</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"import">Australia, New =
+Zealand, Pacific Islands - Import</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"export">East Asia (from=
+/to Americas) - Export</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"export">Indian Subconti=
+nent - Export</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"import">Middle East - I=
+mport</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"intra-regional-asia-oce=
+ania">Asia and Oceania intra-regional</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"import">East Asia (from=
+/to Europe) - Import</span>
+                              </li>
+                           =20
+                              <li>
+                                <span data-label=3D"export">Middle East - E=
+xport</span>
+                              </li>
+                            </ul>
+
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                    <!-- end of editorial table -->
+                    <br>
+                    <!-- footer table -->
+                    <table style=3D"width: 100%; border-collapse: collapse;=
+ border-spacing: 0; padding: 0; text-align: left; vertical-align: top;">
+                      <tbody>
+                        <tr style=3D"padding: 0; text-align: left; vertical=
+-align: top;">
+                          <th style=3D"Margin: 0 auto; color: gray; float: =
+none; font-family: Helvetica, Arial, sans-serif; font-size: 10px; font-weig=
+ht: normal; line-height: 19px; margin: 0 auto; padding: 10px 10px 10px 16px=
+; text-align: left;" align=3D"left" class=3D"menu-item">=C2=A9 Hapag-Lloyd =
+AG
+                            <a href=3D"https://www.hapag-lloyd.com/cmsbs-re=
+stproxy/t/nl?t=3DQJ4Y.7YRN0.6A1A922A233715D0521D467641E29A84&amp;d=3Dhttps%=
+3a%2f%2fwww.hapag-lloyd.com%2fen%2fmeta%2flegal-terms.html&amp;h=3D&amp;i=
+=3D7yrn2" style=3D"Margin: 0; padding-right: 10px; padding-left: 10px; colo=
+r: #000000; font-family: Helvetica, Arial, sans-serif; font-size: 10px; fon=
+t-weight: normal; line-height: 1.3; margin: 0; text-align: left; text-decor=
+ation: underline;" data-cmsbs-id=3D"13379438">Terms</a>
+                            <a href=3D"https://www.hapag-lloyd.com/cmsbs-re=
+stproxy/t/nl?t=3DQJ4Y.7YRN0.6A1A922A233715D0521D467641E29A84&amp;d=3Dhttps%=
+3a%2f%2fwww.hapag-lloyd.com%2fen%2fmeta%2fprivacy-statement.html&amp;h=3D&a=
+mp;i=3D7yrn3" style=3D"Margin: 0; padding-right: 10px; color: #000000; font=
+-family: Helvetica, Arial, sans-serif; font-size: 10px; font-weight: normal=
+; line-height: 1.3; margin: 0; text-align: left; text-decoration: underline=
+;" data-cmsbs-id=3D"13379439">Privacy</a>
+                            <a href=3D"https://www.hapag-lloyd.com/cmsbs-re=
+stproxy/t/nl?t=3DQJ4Y.7YRN0.6A1A922A233715D0521D467641E29A84&amp;d=3Dhttps%=
+3a%2f%2fwww.hapag-lloyd.com%2fen%2fmeta%2fimprint.html&amp;h=3D&amp;i=3D7yr=
+n4" style=3D"Margin: 0; padding-right: 10px; color: #000000; font-family: H=
+elvetica, Arial, sans-serif; font-size: 10px; font-weight: normal; line-hei=
+ght: 1.3; margin: 0; text-align: left; text-decoration: underline;" data-cm=
+sbs-id=3D"13379440">Imprint</a>
+                          </th>
+                        </tr>
+                        <tr>
+                          <td class=3D"cell-footer">
+                            <div style=3D"color:#808080;font-size:0.8333em;=
+font-family: Helvetica, Arial, sans-serif;" id=3D"signature">
+                              <hr style=3D"border:none;color:#dddddd;backgr=
+ound-color:#dddddd;height:1px;">
+                              Vorsitzender des Aufsichtsrates: Michael Behr=
+endt<br/>
+Vorstand: Rolf Habben Jansen (Vorsitzender), Nicol=C3=A1s Burr, Anthony J. =
+Firmin, Thorsten Haeser<br/>
+Sitz: Hamburg, Handelsregister: Amtsgericht Hamburg HRB 97937<br/>
+<br/>
+Chairman of the Supervisory Board: Michael Behrendt<br/>
+Executive Board: Rolf Habben Jansen (CEO), Nicol=C3=A1s Burr, Anthony J. Fi=
+rmin, Thorsten Haeser<br/>
+Registered Office: Hamburg, Company Register: Amtsgericht Hamburg HRB 97937=
+<br/>
+=C2=A0
+                            </div>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td style=3D"padding-bottom:30px;" class=3D"cell-=
+footer">
+                            <p style=3D"Margin:10px 0 10px 0;">
+                              <font color=3D"#111565" style=3D"font-weight:=
+normal;font-size:12px;font-family:Helvetica,Arial,sans-serif">
+                                If you no longer wish to receive our Newsle=
+tter, you are able to&nbsp;<a href=3D"https://www.hapag-lloyd.com/cmsbs-res=
+tproxy/t/nl?t=3DQJ4Y.7YRN0.6A1A922A233715D0521D467641E29A84&amp;d=3Dhttps%3=
+a%2f%2fwww.hapag-lloyd.com%2fen%2fnews-insights%2fnewsletter_request_link_u=
+nsubscribe.html&amp;h=3D&amp;i=3D7yrn5" style=3D"color:#111565; text-decora=
+tion: underline;" data-cmsbs-id=3D"13379441">unsubscribe from this service<=
+/a>.
+                              </font>
+                            </p>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+            <!-- end of wrapper table -->
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  <img src=3D"https://www.hapag-lloyd.com/cmsbs-restproxy/t/nt?t=3DQJ4Y.7YR=
+N0.6A1A922A233715D0521D467641E29A84" alt/></body>
+</html>
+
+

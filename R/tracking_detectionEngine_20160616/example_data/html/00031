@@ -1,0 +1,486 @@
+From 1556127835518434470@xxx Tue Jan 10 09:05:49 +0000 2017
+X-GM-THRID: 1556127835518434470
+X-Gmail-Labels: Unread,Inbox
+Delivered-To: michael.mayer1001@gmail.com
+Received: by 10.140.92.238 with SMTP id b101csp1211441qge;
+        Tue, 10 Jan 2017 01:05:49 -0800 (PST)
+X-Received: by 10.28.69.91 with SMTP id s88mr6383986wma.18.1484039149726;
+        Tue, 10 Jan 2017 01:05:49 -0800 (PST)
+Return-Path: <prvs=8183effa3a=omv-tankstellen-news-de.de@omv.com>
+Received: from Edge2.OMV.com (edge2.omv.com. [193.186.185.195])
+        by mx.google.com with ESMTPS id c6si921379wrd.240.2017.01.10.01.05.49
+        for <michael.mayer1001@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 10 Jan 2017 01:05:49 -0800 (PST)
+Received-SPF: pass (google.com: domain of prvs=8183effa3a=omv-tankstellen-news-de.de@omv.com designates 193.186.185.195 as permitted sender) client-ip=193.186.185.195;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of prvs=8183effa3a=omv-tankstellen-news-de.de@omv.com designates 193.186.185.195 as permitted sender) smtp.mailfrom=prvs=8183effa3a=omv-tankstellen-news-de.de@omv.com
+X-AuditID: ac1e6d0e-95eb198000000a66-52-5874a3ec4cd6
+Received: from edge1.omv.com ( [10.12.11.28])
+	(using TLS with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate)
+	by  (Email gateway) with SMTP id 6B.51.02662.CE3A4785; Tue, 10 Jan 2017 10:05:49 +0100 (CET)
+Received: from somvat602003.localdomain (172.30.2.47) by smtprelay.omv.com
+ (10.12.11.28) with Microsoft SMTP Server id 14.3.248.2; Tue, 10 Jan 2017
+ 10:05:38 +0100
+Received: from [172.30.2.47] (localhost.localdomain [127.0.0.1])	by
+ somvat602003.localdomain (Postfix) with SMTP id 629C6100F5	for
+ <michael.mayer1001@gmail.com>; Tue, 10 Jan 2017 10:05:38 +0100 (CET)
+Date: Tue, 10 Jan 2017 10:05:27 +0100
+Subject: =?UTF-8?B?TWF4eGltYWxlIExlaXN0dW5nIGJpcyB6dSA0MCDCsEMvRWlzZnJlaWUgdW5kIG9wdGk=?= =?UTF-8?B?bWFsZSBTaWNodC9XaW50ZXJ0csOkdW1lIGVyZsO8bGxlbiA=?=
+From: =?UTF-8?B?T01WIFRhbmtzdGVsbGVuIE5ld3M=?=
+	<omv-tankstellen-news-de.de@omv.com>
+To: <michael.mayer1001@gmail.com>
+Errors-To: =?UTF-8?B?T01WIFRhbmtzdGVsbGVuIE5ld3M=?= <omv-tankstellen-news-de.de@omv.com>
+MIME-Version: 1.0
+X-Mailer: eyepin multi campaign server 4.81.625.1302 2010r1
+X-cuID: 332
+X-jID: 47740
+X-cID: 26256
+X-aID: 951060
+X-code: XY-GH3-RRB332O47740O26256O951060O
+X-info1: Ask the eMarketing profis at eyepin! +431 961 7777 or www.eyepin.com
+Content-Type: multipart/alternative; boundary="5cxgacjdv8hv"
+Message-ID: <20170110090538.629C6100F5@somvat602003.localdomain>
+Return-Path: omv-tankstellen-news-de.de@omv.com
+X-Brightmail-Tracker: H4sIAAAAAAAAA3VUbUxbVRjm9INeaA/clgIvHQzXDOPMZHVDMbIQ1Bl1EaOZS6oxYZdxgQq0
+	tbflQxPTiI4FsoHTDSyywej4GtlHKzA2B7OYuG5xEWUMks44AxsbyISpjIDDe3tbuJD47znP
+	c95znvc9z72EWNWg0BAGo5W2GKlCbWi4JFwhj3/qj2arXue7L3rOe2hAkoFe7XXclL2J3pVv
+	z6asxbsMecYt6Xvk+b2/mM2/n0GlXQ+vSe1o1IEqURgBZArMDsyIK1E4oSJnEPxa2RDKL1oQ
+	jJ15KOMXVxFcqJ0N5UokZBLUTuzzl0SRR9hd15cklYggQsndMOZQc3vU5AaoP+2VcVhK6mHg
+	m0U/xqQSvF+NSfir02Cu+pyIx3Lom+kRcccAqYCWVjVPK6CupVPGYwxDjc7A9k1w8Ue3mMeZ
+	cNRX7cdicjscaq6Q8FdlwClvn5TDKnIL3JjrktQgtUPgwiEo4fEm+KxnQcbjRCjvqhfz+Alo
+	9PUhId+IQjtQLGUqKqasz6am6nTbkktKktll8l5TkQuxT9O5vijiHDrofs2DSAJpFfi9Kqte
+	JaWKmbIiD6pAhEgbjX+oYbmIbFNOWT7F5GdZbIU0o1Vj3VGWxst0tq2wQKvBI8dZNmqZNdIl
+	TCFtZcOgXY89Mx/oVbHLGmNjzIa9BpONybJZCtna9S8xwlrGll1kYBiDyehBQIjZK3ETd2UO
+	VfYhbTHxRjxoHSHRxuKUzBS9isyjrHQBTZtpS1A9wr6WFnAbZ0tpofPo0lxDoTWos4Xp3Jmk
+	UPF3koC/f4YVYoSCoJkNOHeWbUYjlNf0k4BRSEjI6hOELYmIMK6vcI2aoY05tIWyWdkpsl9D
+	FsN+Dh70CSIUbM/nOeeYMVNFLB1wHYVff4tlFUHW7zgOt3AvogqSArcJeAfnNiYorXEaxztV
+	rchBl1dQEyKG+5vHRURjTfu4SCUxmoy0JhYPca5IriDfZlwepyYGLzjNelWkQOC8aeLxTs5A
+	tIBfsad5DF/awb58nEBd7ZCtj3uwpn7F5D10QsSGNwqnNHNDYX89K5NS4bOcU3mA9A8KcKs/
+	DQFOMKd4nOm3GVDWjAn4gCqX1aCBrScQgUhXHNyu+xrBQocTweIxFwLfT8MIRqa9Iqj7t1IM
+	hyePicHdcUEMQ3fmxHDZdU0Crq5JCTyobZeCc/CWFKr/OSiDzi/HZeCe6gyD3suLYVDVvD8c
+	2gYn5TB1Y04OI67vFHBqzI5hvvwvDIc/X8QwWtEfAUvHr0bC/MXBSBhxTpDgsLuVMHHpvBKm
+	qm4p4ZFzWnmPy5SIzdQ76QyXKStlFWZqP9e7IsgGMlXOkaoguSpT5XymAtL/ZWpZDk5LY0eP
+	f7FxT/fdRd/OF9+v8MkndclJs5udTFtte5ZdGfr29WF7s1m07srPL+/+1LurdfjbxB4yY1ZH
+	b5sfdTEb5bkL5Onu0jTp5rz6j6QfnzyrKUjKOFCgFjVMH7j/W/bW7j/3pZKJ42/cvJtaP/P8
+	o95XbP3l1ttNaRV/L0W3OsrvuF9YOqmVMPnU00+KLQz1Hxe47m+wBgAA
+
+--5cxgacjdv8hv
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+======================================================================
+Ausgabe 01/2017 
+======================================================================
+
+Ihr eMail-Programm unterstützt leider keine HTML-Ansicht.
+
+Um den Newsletter in Ihrem Internet-Browser
+zu betrachten klicken Sie bitte folgenden Link:
+http://newsletter.omv.com/include/newsletter.php?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c
+
+
+Sehr geehrte Kunden und liebe OMV Fans,
+
+ 
+
+willkommen auf ein Neues –  wir wünschen Ihnen ein erfolgreiches, gesundes und glückliches 2017! Damit Sie gut gelaunt und sicher ins neue Jahr starten, haben wir hier zwei wichtige Empfehlungen für Sie vorbereitet. Außerdem gibt’s ein Gewinnspiel, auf das alle unsere Wintersportfreunde abfahren werden!
+
+
+
+Ihre OMV bringt Sie bestens durch die Eiszeit und  wünscht Ihnen jetzt viel Spaß beim Weiterlesen!
+
+======================================================================
+
+vom Newsletter Abmelden:
+http://newsletter.omv.com/include/unsubscribe.php?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c
+
+
+
+--5cxgacjdv8hv
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>OMV - Mehr bewegen</title>
+	<style type="text/css">
+	
+	body, div, p, td { font-size:11px; font-family:Arial,Helvetica,sans-serif; }
+	
+	a { color:#003366; font-weight:bold; text-decoration:none; }
+	a:hover { color:#7690A9; }
+	#message a { color:#606060; text-decoration:none; }
+	.header_links a, .footer_links a { font-weight:normal; }
+	
+	</style>
+</head>
+<body style="background-color:#FFFFFF">
+
+<table width="570" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" height="20" width="8" /></td>
+        <td align="center" style="color:#606060; font-size:11px; font-family:Arial, Helvetica, sans-serif" id="message"><a href="http://newsletter.omv.com/include/newsletter.php?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c">Falls Ihr Mailprogramm den Newsletter nicht richtig anzeigt, klicken Sie bitte hier.</a></td>
+		<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" height="20" width="12" /></td>
+	</tr>
+	<tr>
+		<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" height="20" width="8" /></td>
+        <td align="right" class="header_links" style="color:#606060; font-size:11px; font-family:Arial, Helvetica, sans-serif; text-align:right;">
+			
+				
+					<a href="http://newsletter.omv.com/include/lcnt.php?p=f61b8d93e10ab045f3b889ecb848bdde54e1e8c4f3f7fb5e5201157e45284415" style="color:#606060; font-weight:normal; text-decoration:none;">www.omv.de</a> | 
+				
+			
+			
+				
+			
+			<a href="http://newsletter.omv.com/include/unsubscribe.php?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c" style="color:#606060; font-weight:normal; text-decoration:none;">Abmelden</a> |
+			<a href="http://newsletter.omv.com/include/tellfriend.php?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c" style="color: #606060; font-weight:normal; text-decoration:none;">Weiterempfehlen</a> |
+			<a href="mailto:info.tankstellen.de@omv.com" style="color: #606060; font-weight:normal; text-decoration:none;">Feedback</a>
+		</td>
+		<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" height="20" width="12" /></td>
+	</tr>
+</table>
+<table width="570" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr><td style="line-height: 0;"><img src="http://newsletter.omv.com/templates/omv/images/shadow_top.jpg" width="570" height="8" border="0" style="display: block;" /></td></tr>
+</table>
+
+<table width="570" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td width="1" bgcolor="#fcfcfc"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#efefef"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#eaeaea"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="5"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="5" height="1" border="0" style="display:block;"></td>
+	<td width="550" valign="top"><img src="http://newsletter.omv.com/customer/omv/media/20160811134818_orig.jpg" width="550" alt="OMV" />
+	<td width="5"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="5" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#919191"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#acacac"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#c1c1c1"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#d3d3d3"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#eaeaea"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#f1f1f1"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#fbfbfb"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+</tr>
+</table>
+
+<table width="570" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td width="1" bgcolor="#fcfcfc"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#efefef"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#eaeaea"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="39"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="39" height="1" border="0" style="display:block;"></td>
+	<td width="482" valign="top">
+
+		<table width="482" border="0" cellspacing="0" cellpadding="0" align="center">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>	
+			
+		
+			<tr>
+				<td style="font-size:11px; font-family:Arial, Helvetica, sans-serif" width="482"><br><br></td>
+			</tr>
+		
+		<tr>
+				<td style="font-size:11px; font-family:Arial, Helvetica, sans-serif" width="482">Sehr geehrte Kunden und liebe OMV Fans,<br />
+
+&nbsp;<br />
+
+willkommen auf ein Neues &ndash;&nbsp; wir w&uuml;nschen Ihnen ein erfolgreiches, gesundes und gl&uuml;ckliches 2017! Damit Sie gut gelaunt und sicher ins neue Jahr starten, haben wir hier zwei wichtige Empfehlungen f&uuml;r Sie vorbereitet. Au&szlig;erdem gibt&rsquo;s ein Gewinnspiel, auf das alle unsere Wintersportfreunde abfahren werden!<br />
+
+<br />
+
+Ihre OMV bringt Sie bestens durch die Eiszeit und&nbsp; w&uuml;nscht Ihnen jetzt viel Spa&szlig; beim Weiterlesen!</td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+				</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="line-height: 0px;" width="482" bgcolor="#66CC00"><img src="http://newsletter.omv.com/templates/omv/images/spacer_special.gif" width="482" height="1" border="0" style="display:block;" /></td>
+	</tr>
+	</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		<tr>
+				<td style="font-size:11px; font-family:Arial, Helvetica, sans-serif" width="482">
+					
+
+<img src="http://newsletter.omv.com/templates/omv/images/arrow_down.gif" width="7" height="11" />&nbsp;<a href="#Content32106" style="color: #003466; font-weight: bold; text-decoration: none;">Einfüllen – für maxximale Leistung bis zu -40 °C!*</a><br />
+<img src="http://newsletter.omv.com/templates/omv/images/arrow_down.gif" width="7" height="11" />&nbsp;<a href="#Content32107" style="color: #003466; font-weight: bold; text-decoration: none;">Auffüllen –  für eisfreie und optimale Sicht </a><br />
+<img src="http://newsletter.omv.com/templates/omv/images/arrow_down.gif" width="7" height="11" />&nbsp;<a href="#Content32108" style="color: #003466; font-weight: bold; text-decoration: none;">Winterträume erfüllen – 2x2 Tagesskipässe fürs Hochzillertal gewinnen </a><br />
+				</td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+				</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="line-height: 0px;" width="482" bgcolor="#66CC00"><img src="http://newsletter.omv.com/templates/omv/images/spacer_special.gif" width="482" height="1" border="0" style="display:block;" /></td>
+	</tr>
+	</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		</table>
+
+		
+
+
+<a name="Content32106"></a><table width="482" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td width="482" style="font-size:11px; font-family:Arial, Helvetica, sans-serif;">
+				
+					<h1 style="font-family:Arial,Helvetica,sans-serif; font-weight:bold; font-size:16px; margin:0px;">Einfüllen – für maxximale Leistung bis zu -40 °C!*</h1><br />
+					
+					
+							
+					<img alt="" align="middle"
+src="http://newsletter.omv.com/customer/omv/media/20161205100657_orig.jpg"
+/><br />
+
+<br />
+
+Nach dem Jahresstart beginnt meist auch die eiskalte Winterzeit und daher
+haben wir f&uuml;r alle Diesel-Fahrer vorgesorgt: Denn gleichg&uuml;ltig was
+das Thermometer sagt, gleichg&uuml;ltig ob Sie nachts Ihr Auto an exponierter
+Stelle im eisigen Wind parken oder in den Skiurlaub fahren &ndash; OMV
+MaxxMotion Performance Diesel bietet Ihnen maxximale Leistung bei Temperaturen
+bis zu -40&deg; C!<br />
+
+<br />
+
+Die besondere Kraftstoff-Rezeptur vermindert u.a. das Flocken der im Diesel
+enthaltenen nat&uuml;rlichen Paraffine bei niedrigen Temperaturen. Dadurch
+flie&szlig;t der Kraftstoff ungehindert vom Tank durch den Kraftstofffilter
+bis in den Motor &ndash; so ist dieser auch bei extrem winterlichen
+Bedingungen optimal gesch&uuml;tzt. Zus&auml;tzlich legt sich ein
+hochwirksames Korrosionsschutzadditiv wie ein Schutzfilm auf die
+umschlie&szlig;enden Metalloberfl&auml;chen und verhindert dort die Bildung
+von Korrosion. Dadurch wird das gesamte Kraftstoffsystem des Fahrzeugs
+gesch&uuml;tzt. Also statt einfrieren, jetzt ausprobieren!<br />
+
+<br />
+
+Mehr Informationen zu OMV MaxxMotion Performance&nbsp; Diesel finden Sie <a
+href="http://newsletter.omv.com/include/lcnt.php?p=f61b8d93e10ab045f3b889ecb848bdde312508e561c632e39b001742b3386a89">hier</a>.<br />
+
+<br />
+
+* -40&deg;C ist der CFPP Wert gem&auml;&szlig; DIN EN 590. Vorteile sind
+abh&auml;ngig von Fahrweise, Fahrzeug und Motorenalter und beziehen sich auf
+einen Vergleichskraftstoff, der die Mindestanforderungen gem&auml;&szlig; DIN
+EN 590 erf&uuml;llt.
+		
+				</td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+			<tr>
+				<td width="482">
+					<table width="482" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left">
+								
+							</td>
+							<td align="right"><a href="#top" style="color: #003466; font-weight: bold; text-decoration: none;font-size:11px; font-family:Arial, Helvetica, sans-serif;"><img src="http://newsletter.omv.com/templates/omv/images/arrow_up.gif" width="7" height="11" border="0" />&nbsp;nach oben</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="482" height="5" /></td>
+			</tr>
+				</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="line-height: 0px;" width="482" bgcolor="#66CC00"><img src="http://newsletter.omv.com/templates/omv/images/spacer_special.gif" width="482" height="1" border="0" style="display:block;" /></td>
+	</tr>
+	</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		</table>
+
+
+<a name="Content32107"></a><table width="482" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td width="482" style="font-size:11px; font-family:Arial, Helvetica, sans-serif;">
+				
+					<h1 style="font-family:Arial,Helvetica,sans-serif; font-weight:bold; font-size:16px; margin:0px;">Auffüllen –  für eisfreie und optimale Sicht </h1><br />
+					
+					
+							
+					<img alt="" align="middle"
+src="http://newsletter.omv.com/customer/omv/media/20170103084350_orig.jpg"
+/><br />
+
+<br />
+
+Wer einen Durchblick bei Scheibenfrostschutzmitteln hat, sch&auml;tzt die
+vielen Vorteile von OMV Caristal f&uuml;r optimal gereinigte Scheiben ohne
+vereiste Schlieren. Spezielle Additive verz&ouml;gern die Neubildung von Eis
+und halten die Spritzd&uuml;sen zuverl&auml;ssig eisfrei. Trotz h&ouml;chster
+Wirkkraft ist OMV Caristal unbedenklich f&uuml;r alle&nbsp; Lack-, Chrom-,
+Gummi- und Kunststoffteile und auch bestens f&uuml;r Polycarbonatscheiben und
+F&auml;cherd&uuml;sen geeignet. Au&szlig;erdem ist&nbsp; der frische, zarte
+Zitronenduft besonders angenehm! OMV Caristal Scheibenfrostschutz gibt es
+umweltschonend&nbsp;im Softbeutel&nbsp;als 3-Liter Fertiggemisch bis -30&deg;
+C oder als 2-Liter Konzentrat bis -60&deg; C (Das Konzentrat bitte immer mit
+Wasser verd&uuml;nnen, sonst k&ouml;nnen Schlieren auf den Scheiben die Sicht
+behindern!). <br />
+
+<br />
+
+Setzen Sie auf&nbsp; aktive Sicherheit und auf klare Sicht mit OMV Caristal,
+die Markenqualit&auml;t von Ihrer OMV Tankstelle!<br />
+
+<br />
+
+Mehr Informationen zu OMV&nbsp;Caristal finden Sie <a
+href="http://newsletter.omv.com/include/lcnt.php?p=f61b8d93e10ab045f3b889ecb848bdde7229a3fd9c888bac3c0bbde28c233b51">hier</a>.
+		
+				</td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+			<tr>
+				<td width="482">
+					<table width="482" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left">
+								
+							</td>
+							<td align="right"><a href="#top" style="color: #003466; font-weight: bold; text-decoration: none;font-size:11px; font-family:Arial, Helvetica, sans-serif;"><img src="http://newsletter.omv.com/templates/omv/images/arrow_up.gif" width="7" height="11" border="0" />&nbsp;nach oben</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="482" height="5" /></td>
+			</tr>
+				</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="line-height: 0px;" width="482" bgcolor="#66CC00"><img src="http://newsletter.omv.com/templates/omv/images/spacer_special.gif" width="482" height="1" border="0" style="display:block;" /></td>
+	</tr>
+	</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		</table>
+
+
+<a name="Content32108"></a><table width="482" border="0" cellspacing="0" cellpadding="0" align="center">
+			<tr>
+				<td width="482" style="font-size:11px; font-family:Arial, Helvetica, sans-serif;">
+				
+					<h1 style="font-family:Arial,Helvetica,sans-serif; font-weight:bold; font-size:16px; margin:0px;">Winterträume erfüllen – 2x2 Tagesskipässe fürs Hochzillertal gewinnen </h1><br />
+					
+					
+							
+					<img alt="" align="middle"
+src="http://newsletter.omv.com/customer/omv/media/20170103142400_orig.jpg"
+/><br />
+
+<br />
+
+&Uuml;ber 88 km Pistenspa&szlig; und 39 Liftanlagen erwarten die
+gl&uuml;cklichen Gewinner! Dabei ist die Stephan Eberharter Goldpiste als
+grandiose, komplett beschneite und beleuchtete Talabfahrt nach Kaltenbach ein
+besonderes Highlight.&nbsp;Au&szlig;erdem gibt es exklusiv im Zillertal den
+Betterpark mit Naturhalfpipe und eigenem Lift als Fun- und Action-Special
+f&uuml;r Anf&auml;nger bis zum Profi! Das Hochzillertal in Tirol ist ein
+spektakul&auml;res Top-Wintersportgebiet in einer der traumhaftesten
+Alpenregionen: Jetzt 2x2 Tagesskip&auml;sse gewinnen und <a
+href="http://newsletter.omv.com/include/lcnt.php?p=f61b8d93e10ab045f3b889ecb848bdde05d9ee29b10e5b21ae34f253790b03dd">hier </a>mitmachen!
+		
+				</td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+			<tr>
+				<td width="482">
+					<table width="482" border="0" cellspacing="0" cellpadding="0">
+						<tr>
+							<td align="left">
+								
+							</td>
+							<td align="right"><a href="#top" style="color: #003466; font-weight: bold; text-decoration: none;font-size:11px; font-family:Arial, Helvetica, sans-serif;"><img src="http://newsletter.omv.com/templates/omv/images/arrow_up.gif" width="7" height="11" border="0" />&nbsp;nach oben</a></td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="482" height="5" /></td>
+			</tr>
+				</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="line-height: 0px;" width="482" bgcolor="#66CC00"><img src="http://newsletter.omv.com/templates/omv/images/spacer_special.gif" width="482" height="1" border="0" style="display:block;" /></td>
+	</tr>
+	</table>
+	<table width="482" height="1" border="0" cellspacing="0" cellpadding="0">
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		</table>
+		<table width="482" border="0" cellspacing="0" cellpadding="0" align="center">
+		<tr>
+				<td width="482" align="right"><img src="http://newsletter.omv.com/customer/omv/media/20130328192607_orig.jpg" alt="Claim" border="0" /></td>
+			</tr>
+				<tr>
+		<td width="482" height="25"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="25" border="0" style="display:block;"></td>
+	</tr>
+		</table>
+
+	</td>
+	<td width="39"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="39" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#919191"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#acacac"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#c1c1c1"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#d3d3d3"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#eaeaea"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#f1f1f1"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+	<td width="1" bgcolor="#fbfbfb"><img src="http://newsletter.omv.com/templates/omv/images/spacer.gif" width="1" height="1" border="0" style="display:block;"></td>
+</tr>
+</table>
+
+<table width="570" border="0" cellspacing="0" cellpadding="0" align="center">
+	<tr>
+		<td style="line-height: 0;"><img src="http://newsletter.omv.com/templates/omv/images/shadow_bottom.jpg" width="570" height="8" style="display: block;" border="0" /></td>
+	</tr>
+	<tr>
+		<td class="footer_links" style="font-size:11px; font-family:Arial, Helvetica, sans-serif;text-align:center;color: #606060;" align="center">
+				© 2017 OMV Deutschland GmbH Tel.: 08677/960-0
+			 | 
+				
+					<a href="http://newsletter.omv.com/include/lcnt.php?p=f61b8d93e10ab045f3b889ecb848bddecb476dd527a64e0a9986d1d4f6fca7ea" style="color:#606060; font-weight:normal; text-decoration:none;">Rechtshinweis</a>
+				
+			</td>
+	</tr>
+</table>
+
+<img src="http://newsletter.omv.com/include/cnt.gif?p=f61b8d93e10ab045f3b889ecb848bdde3b14aba00ed2317b175787265d21587c" border='0' width='1' height='1'>
+</body>
+</html>
+
+
+
+
+
+--5cxgacjdv8hv--
+
