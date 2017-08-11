@@ -6,7 +6,8 @@
     "difflib": "^0.2.4",
     "jssoup": "0.0.6",
     "lodash.range": "^3.2.0",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
   },
   "repository": "",
   "license": "MIT"
