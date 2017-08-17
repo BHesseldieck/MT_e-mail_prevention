@@ -1,15 +1,15 @@
 // imports
 const logger = require('./logger');
 const outbound = require('./outbound');
-const request = require('request-promise');
-const jssoup = require('jssoup').default;
-const difflib = require('difflib');
-const range = require('lodash.range');
 
 const trackingDetector = require('./trackingDetector');
 
 function escapeRegExp(string) {
   return string.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
+};
+
+function escapedTrackedImgSources(trackedImages) {
+  return trackedImages.map(trackedImage => escapeRegExp(trackedImage.src)).join('|');
 };
 
 // Functions created in order of their calling by Haraka
@@ -23,23 +23,21 @@ exports.hook_data = (next, connection) => {
 };
 
 exports.hook_queue = async (next, connection) => {
-  var plugin = this;
-  var transaction = connection.transaction;
-  var emailTo = transaction.rcpt_to;
-  var body = transaction.body; //transaction.message_stream.pipe(writeStream);
+  var to = connection.transaction.rcpt_to;
+  var body = connection.transaction.body; //transaction.message_stream.pipe(writeStream);
   var headers = body.header.headers_decoded;
-  var bodytext = body.bodytext;
 
   const trackedImages = await trackingDetector(body,headers);
-  logger.loginfo('TRACKED IMAGES: ', trackedImages);
+  if (trackedImages.length > 1) {
+    headers.subject[0] = `[untracked] ${ headers.subject[0] }`;
+  }
+  //logger.loginfo('TRACKED IMAGES: ', trackedImages); // logging tracked images to terminal
 
   // Using Regex for Link replacement
-  const escapedTrackedImgSources = trackedImages.map(trackedImage => escapeRegExp(trackedImage.src)).join('|');
-  bodytext = bodytext.replace(new RegExp(escapedTrackedImgSources, "ig"), "HERE WAS A TRACKING IMAGE");
+  body.bodytext = body.bodytext.replace(new RegExp(escapedTrackedImgSources(trackedImages), "ig"), "https://cdn.pixabay.com/photo/2016/07/07/08/14/stop-1502032_960_720.png");
 
-  var to = emailTo;
+  // Forwarding untracked E-Mail
   var from = headers.from[0];
-
   var contents = [
       "From: " + from,
       "To: " + to,
@@ -47,7 +45,7 @@ exports.hook_queue = async (next, connection) => {
       `Content-type: ${ body.ct }; charset=${ body.body_encoding }`,
       `Subject: ${ headers.subject[0] }`,
       "",
-      bodytext,
+      body.bodytext,
       ""].join("\n");
 
   var outnext = function (code, msg) {

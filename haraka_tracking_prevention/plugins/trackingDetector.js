@@ -13,8 +13,8 @@ function extractHeaders (headers) {
                       'list-post': '', 'reply-to': '', 'received-spf': '', 'sender': '', 'subject': '', 'list-unsubscribe': '',
                       'content-type': ''};
 
-  let extractedHeaders = { mailCounter: 1 };
-  for (var key in headers) {
+  const extractedHeaders = { mailCounter: 1 };
+  for (let key in headers) {
     if (key.toLowerCase() in relevantRegularHeaders) {
       extractedHeaders[key.toLowerCase()] = headers[key].length === 1 ? headers[key][0] : headers[key];
     }
@@ -27,8 +27,8 @@ function getStdImgTags (imgTags) {
                       'hidden':'', 'hspace':'', 'id':'', 'ismap':'', 'lang':'', 'longdesc':'', 'src':'', 'style':'', 'tabindex':'', 'title':'',
                       'usemap':'', 'vspace':'', 'valign':'', 'width':'' };
 
-  let imgTagsStd = { mailCounter: 1 };
-  for (var key in relevantRegularImageAttributes) {
+  const imgTagsStd = { mailCounter: 1 };
+  for (let key in relevantRegularImageAttributes) {
     if (key in imgTags) {
       imgTagsStd[key] = imgTags[key];
     }
@@ -38,7 +38,7 @@ function getStdImgTags (imgTags) {
 
 function checkCustomKeys (imgTags, imgTagsStd, imgTagStdLength) {
   Object.keys(imgTags).length > imgTagStdLength ? imgTagsStd['exist_custom_keys'] = 1 : imgTagsStd['exist_custom_keys'] = 0;
-  for (var key in imgTagsStd) {
+  for (let key in imgTagsStd) {
     if (imgTagsStd[key] === null) {
       imgTagsStd[key] = "CODEERR";
     }
@@ -49,9 +49,9 @@ function destructStyling (imgTags, imgTagsStd) {
   const relevantImageStyleAttributes = { 'style':'', 'color':'', 'font-family':'', 'font-size':'', 'text-align':'', 'height':'', 'width':'', 'display':'',
                       'opacity':'','max-width':'', 'max-height':'', 'margin':'', 'background-color':''};
 
-  let styleAttrObj = {};
+  const styleAttrObj = {};
   imgTags.style.split('; ').forEach(styleAttr => {
-    let tempArr = styleAttr.split(': ');
+    const tempArr = styleAttr.split(': ');
     if (tempArr.length === 2 && tempArr[0] in relevantImageStyleAttributes) {
       styleAttrObj['style_' + tempArr[0]] = tempArr[1];
     }
@@ -199,7 +199,7 @@ function keyCheck (mailImgArr) {
 
 function calcLinkSims (mailImagesArr) {
   let i = 0;
-  let tempImgSrcs = mailImagesArr.reduce((accArr, ImageStd) => {
+  const tempImgSrcs = mailImagesArr.reduce((accArr, ImageStd) => {
     if ('src' in ImageStd) {
       accArr.push(ImageStd);
     }
@@ -209,7 +209,7 @@ function calcLinkSims (mailImagesArr) {
   mailImagesArr.forEach(img => {
     if (tempImgSrcs.length > 1 && 'src' in img) {
       const indices = range(Math.max(0,i-4), Math.min(i+4,tempImgSrcs.length-1) + 1);
-      let tmp = indices.reduce((accArr, indice) => {
+      const tmp = indices.reduce((accArr, indice) => {
         if (indice != i) {
           accArr.push(tempImgSrcs[indice]);
         }
@@ -233,7 +233,7 @@ function calcLinkSims (mailImagesArr) {
 };
 
 function extractImages (body) {
-  let bodySoup = new jssoup(body.bodytext);
+  const bodySoup = new jssoup(body.bodytext);
   var imgTagStdLength;
 
   return bodySoup.findAll('img').map(Image => {
