@@ -1,0 +1,12 @@
+setwd("/tracking_detectionEngine_20160616")
+
+install.packages("ggplot")
+install.packages("datasets")
+install.packages("lattice")
+install.packages("plyr")
+install.packages("stringr")
+install.packages("stringi")
+install.packages("data.table")
+install.packages("caret")
+install.packages("C50")
+install.packages("jug")
