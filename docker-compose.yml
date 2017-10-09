@@ -1,0 +1,19 @@
+version: '3'
+services:
+  emailserver:
+    build: ./eMailServer
+    # container_name: "haraka_tracking_prevention"
+    ports:
+      - "25:25"
+
+  loadbalancer:
+    image: dockercloud/haproxy
+    links:
+      - detectionengine
+    expose:
+      - "8080"
+
+  detectionengine:
+    build: ./detectionEngine
+    expose:
+      - "8080"
