@@ -5,7 +5,8 @@ const outbound = require('./outbound');
 const mailExtractor = require('./mailExtractor')
 const { sendToDetectionEngine } = require('./detectionEngineCommunication');
 
-const MODE = 'proxy'; // set as 'proxy' or 'rebound'
+const MODE = 'mta'; // set as 'mta' or 'proxy' or 'rebound'
+const PROXY_MAIL_ADDRESS = ''; // insert the proxy target address here and uncomment line 72
 
 function escapeRegExp(string) {
   return string.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
@@ -26,7 +27,7 @@ exports.hook_data = (next, connection) => {
 };
 
 exports.hook_data_post = async (next, connection) => {
-  var to = connection.transaction.rcpt_to;
+  var to = MODE === 'proxy' ? PROXY_MAIL_ADDRESS : connection.transaction.rcpt_to;
   var body = connection.transaction.body; //transaction.message_stream.pipe(writeStream);
   var headers = connection.transaction.header.headers_decoded;
 
@@ -65,8 +66,10 @@ exports.hook_data_post = async (next, connection) => {
   };
 
   // Checking for forwarding-mode
-  if (MODE === 'proxy') {
+  if (MODE === 'mta') {
     outbound.send_email(from, to, contents, outnext);
+  } else if (MODE === 'proxy') {
+    //outbound.send_email(from, PROXY_MAIL_ADDRESS, contents, outnext);
   } else if (MODE === 'rebound') {
     outbound.send_email(to, from, contents, outnext);
   } else {
