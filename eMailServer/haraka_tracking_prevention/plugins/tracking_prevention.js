@@ -2,7 +2,8 @@
 const logger = require('./logger');
 const outbound = require('./outbound');
 
-const trackingDetector = require('./trackingDetector');
+const mailExtractor = require('./mailExtractor')
+const { sendToDetectionEngine } = require('./detectionEngineCommunication');
 
 function escapeRegExp(string) {
   return string.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
@@ -28,7 +29,7 @@ exports.hook_data_post = async (next, connection) => {
   //var headers = body.header.headers_decoded;
   var headers = connection.transaction.header.headers_decoded;
 
-  const trackedImages = await trackingDetector(body,headers);
+  const trackedImages = await sendToDetectionEngine(mailExtractor(body, headers));
   if (trackedImages.length) {
     // Adding untracked tag to subject
     headers.subject[0] = `[untracked] ${ headers.subject[0] }`;

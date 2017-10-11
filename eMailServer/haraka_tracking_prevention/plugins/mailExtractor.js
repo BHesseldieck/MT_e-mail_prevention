@@ -1,4 +1,3 @@
-const request = require('request-promise');
 const jssoup = require('jssoup').default;
 const difflib = require('difflib');
 const range = require('lodash.range');
@@ -249,23 +248,8 @@ function extractImages (body) {
   });
 };
 
-function sendToMLAlgo (imgArr) {
-  if (imgArr.length) {
-    return request({
-        url: 'http://detectionengine:8080/checkImages',
-        method: "POST",
-        json: true,
-        headers: {
-            "content-type": "application/json",
-        },
-        body: imgArr,
-      });
-  }
-  return imgArr;
-};
-
-// Preparing mail data for classification from ML-algorithm
-function mailExtractor (body, headers) {
+// Preparing mail data for classification from detection engine
+const mailExtractor = (body, headers) => {
   let mailImages = extractImages(body);
   if (mailImages.length) {
     calcLinkSims(mailImages);
@@ -275,6 +259,4 @@ function mailExtractor (body, headers) {
   return mailImages;
 };
 
-const trackingDetector = (body, headers) => sendToMLAlgo(mailExtractor(body, headers));
-
-module.exports = trackingDetector;
+module.exports = mailExtractor;
