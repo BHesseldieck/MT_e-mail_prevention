@@ -254,9 +254,10 @@ function extractImages (body) {
 const mailExtractor = (body, headers) => {
   let mailImages = extractImages(body);
   if (mailImages.length) {
+    const extractedHeaders = extractHeaders(headers);
     calcLinkSims(mailImages);
     mailImages = keyCheck(mailImages);
-    return mailImages.map(ImageAttr => Object.assign(ImageAttr, extractHeaders(headers)));
+    return mailImages.map(ImageAttr => Object.assign(ImageAttr, extractedHeaders));
   }
   return mailImages;
 };
