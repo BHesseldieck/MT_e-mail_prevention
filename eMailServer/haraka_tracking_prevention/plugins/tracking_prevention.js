@@ -5,6 +5,8 @@ const outbound = require('./outbound');
 const mailExtractor = require('./mailExtractor')
 const { sendToDetectionEngine } = require('./detectionEngineCommunication');
 
+const MODE = 'proxy'; // set as 'proxy' or 'rebound'
+
 function escapeRegExp(string) {
   return string.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&');
 };
@@ -51,26 +53,27 @@ exports.hook_data_post = async (next, connection) => {
       ""].join("\n");
 
   var outnext = function (code, msg) {
-      switch (code) {
-          case DENY:  logger.logerror("Sending mail failed: " + msg);
-                      break;
-          case OK:    logger.loginfo("mail sent");
-                      next();
-                      break;
-          default:    logger.logerror("Unrecognized return code from sending email: " + msg);
-                      next();
-      }
+    switch (code) {
+        case DENY:  logger.logerror("Sending mail failed: " + msg);
+                    break;
+        case OK:    logger.loginfo("mail sent");
+                    next();
+                    break;
+        default:    logger.logerror("Unrecognized return code from sending email: " + msg);
+                    next();
+    }
   };
 
-  outbound.send_email(from, to, contents, outnext);
-  //next();
+  // Checking for forwarding-mode
+  if (MODE === 'proxy') {
+    outbound.send_email(from, to, contents, outnext);
+  } else if (MODE === 'rebound') {
+    outbound.send_email(to, from, contents, outnext);
+  } else {
+    next();
+  }
 };
 
 exports.shutdown = () => {
   logger.loginfo("Shutting down Tracking Prevention Plugin.");
 };
-
-
-
-
-
