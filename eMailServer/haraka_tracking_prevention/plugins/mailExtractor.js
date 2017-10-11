@@ -13,9 +13,11 @@ function extractHeaders (headers) {
                       'content-type': ''};
 
   const extractedHeaders = { mailCounter: 1 };
+  let keyLowerCase;
   for (let key in headers) {
-    if (key.toLowerCase() in relevantRegularHeaders) {
-      extractedHeaders[key.toLowerCase()] = headers[key].length === 1 ? headers[key][0] : headers[key];
+    keyLowerCase = key.toLowerCase();
+    if (keyLowerCase in relevantRegularHeaders) {
+      extractedHeaders[keyLowerCase] = headers[key].length === 1 ? headers[key][0] : headers[key];
     }
   }
   return extractedHeaders;
@@ -186,14 +188,14 @@ function keyCheck (mailImgArr) {
     "fileFormatphp":0,
   };
 
-  const tempMailImgArr = mailImgArr.map(img => {
+  const keyCheckedMailImgArr = mailImgArr.map(img => {
     return Object.assign({}, reqKeyObj, img);
   });
 
-  if (tempMailImgArr.length === 1) {
-    tempMailImgArr.push(reqKeyObj);
+  if (keyCheckedMailImgArr.length === 1) {
+    keyCheckedMailImgArr.push(reqKeyObj);
   }
-  return tempMailImgArr;
+  return keyCheckedMailImgArr;
 };
 
 function calcLinkSims (mailImagesArr) {

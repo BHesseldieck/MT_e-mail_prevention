@@ -1,7 +1,7 @@
 {
   "name": "haraka_tracking_prevention",
   "description": "An SMTP Server to prevent e-mail tracking",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "dependencies": {
     "difflib": "^0.2.4",
     "jssoup": "0.0.6",
@@ -9,6 +9,6 @@
     "request": "^2.81.0",
     "request-promise": "^4.2.1"
   },
-  "repository": "",
+  "repository": "https://github.com/BHesseldieck/MT_e-mail_prevention.git",
   "license": "MIT"
 }

@@ -26,7 +26,6 @@ exports.hook_data = (next, connection) => {
 exports.hook_data_post = async (next, connection) => {
   var to = connection.transaction.rcpt_to;
   var body = connection.transaction.body; //transaction.message_stream.pipe(writeStream);
-  //var headers = body.header.headers_decoded;
   var headers = connection.transaction.header.headers_decoded;
 
   const trackedImages = await sendToDetectionEngine(mailExtractor(body, headers));
