@@ -3,11 +3,13 @@ services:
   emailserver:
     build: ./eMailServer
     # container_name: "haraka_tracking_prevention"
+    restart: unless-stopped
     ports:
       - "25:25"
 
   loadbalancer:
     image: dockercloud/haproxy
+    restart: unless-stopped
     links:
       - detectionengine
     expose:
@@ -15,5 +17,6 @@ services:
 
   detectionengine:
     build: ./detectionEngine
+    restart: unless-stopped
     expose:
       - "8080"
