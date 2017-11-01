@@ -1,4 +1,4 @@
-FROM node:8.6-alpine
+FROM node:8-alpine
 MAINTAINER Ben Hesseldieck <b.hesseldieck@gmail.com>
 
 ENV HOME /tmp
