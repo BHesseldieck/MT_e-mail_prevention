@@ -2,7 +2,7 @@
 const logger = require('./logger');
 const outbound = require('./outbound');
 
-const mailExtractor = require('./mailExtractor')
+const mailExtractor = require('./mailExtractor');
 const { sendToDetectionEngine } = require('./detectionEngineCommunication');
 
 const MODE = 'mta'; // set as 'mta' or 'proxy' or 'rebound'
@@ -18,7 +18,7 @@ function escapedTrackedImgSources(trackedImages) {
 
 // Functions created in order of their calling by Haraka
 exports.register = () => {
-  logger.loginfo("Starting Tracking Prevention Plugin");
+  logger.loginfo('Starting Tracking Prevention Plugin');
 };
 
 exports.hook_data = (next, connection) => {
@@ -37,31 +37,34 @@ exports.hook_data_post = async (next, connection) => {
     headers.subject[0] = `[untracked] ${ headers.subject[0] }`;
 
     // Using Regex for Link replacement
-    body.bodytext = body.bodytext.replace(new RegExp(escapedTrackedImgSources(trackedImages), "ig"), "https://cdn.pixabay.com/photo/2016/07/07/08/14/stop-1502032_960_720.png");
+    body.bodytext = body.bodytext.replace(new RegExp(escapedTrackedImgSources(trackedImages), 'ig'), 'https://cdn.pixabay.com/photo/2016/07/07/08/14/stop-1502032_960_720.png');
   }
   //logger.loginfo('TRACKED IMAGES: ', trackedImages); // logging tracked images to terminal
 
   // Forwarding untracked E-Mail
   var from = headers.from[0];
   var contents = [
-      "From: " + from,
-      "To: " + to,
-      `MIME-Version: ${headers['mime-version'][0]}`,
-      `Content-type: ${ body.ct }; charset=${ body.body_encoding }`,
-      `Subject: ${ headers.subject[0] }`,
-      "",
-      body.bodytext,
-      ""].join("\n");
+    'From: ' + from,
+    'To: ' + to,
+    `MIME-Version: ${headers['mime-version'][0]}`,
+    `Content-type: ${ body.ct }; charset=${ body.body_encoding }`,
+    `Subject: ${ headers.subject[0] }`,
+    '',
+    body.bodytext,
+    ''].join('\n');
 
   var outnext = function (code, msg) {
     switch (code) {
-        case DENY:  logger.logerror("Sending mail failed: " + msg);
-                    break;
-        case OK:    logger.loginfo("mail sent");
-                    next();
-                    break;
-        default:    logger.logerror("Unrecognized return code from sending email: " + msg);
-                    next();
+      case DENY:
+        logger.logerror('Sending mail failed: ' + msg);
+        break;
+      case OK:
+        logger.loginfo('mail sent');
+        next();
+        break;
+      default:
+        logger.logerror('Unrecognized return code from sending email: ' + msg);
+        next();
     }
   };
 
@@ -78,5 +81,5 @@ exports.hook_data_post = async (next, connection) => {
 };
 
 exports.shutdown = () => {
-  logger.loginfo("Shutting down Tracking Prevention Plugin.");
+  logger.loginfo('Shutting down Tracking Prevention Plugin.');
 };
