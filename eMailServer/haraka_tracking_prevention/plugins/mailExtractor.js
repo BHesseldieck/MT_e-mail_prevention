@@ -8,7 +8,7 @@ const range = require('lodash.range');
 // Extracting e-mail headers useful for classification
 function extractHeaders(headers) {
   const relevantRegularHeaders = {
-    received: '',
+    'received': '',
     'content-type': '',
     'bounces-to': '',
     'date': '',
@@ -33,7 +33,7 @@ function extractHeaders(headers) {
   let keyLowerCase;
   for (let key in headers) {
     keyLowerCase = key.toLowerCase();
-    if (keyLowerCase in relevantRegularHeaders) {
+    if (relevantRegularHeaders.hasOwnProperty(keyLowerCase)) {
       extractedHeaders[keyLowerCase] = headers[key].length === 1 ? headers[key][0] : headers[key];
     }
   }
@@ -101,14 +101,12 @@ function destructStyling(imgTags, imgTagsStd) {
     'background-color': ''
   };
 
-  const styleAttrObj = {};
   imgTags.style.split('; ').forEach(styleAttr => {
     const tempArr = styleAttr.split(': ');
     if (tempArr.length === 2 && tempArr[0] in relevantImageStyleAttributes) {
-      styleAttrObj['style_' + tempArr[0]] = tempArr[1];
+      imgTagsStd['style_' + tempArr[0]] = tempArr[1];
     }
   });
-  imgTagsStd = Object.assign(imgTagsStd, styleAttrObj);
   delete imgTagsStd['style'];
 };
 
@@ -262,7 +260,7 @@ function calcLinkSims(mailImagesArr) {
     if (tempImgSrcs.length > 1 && 'src' in img) {
       const indices = range(Math.max(0, i - 4), Math.min(i + 4, tempImgSrcs.length - 1) + 1);
       const tmp = indices.reduce((accArr, indice) => {
-        if (indice != i) {
+        if (indice !== i) {
           accArr.push(tempImgSrcs[indice]);
         }
         return accArr;
@@ -286,11 +284,10 @@ function calcLinkSims(mailImagesArr) {
 
 function extractImages(body) {
   const bodySoup = new jssoup(body.bodytext);
-  var imgTagStdLength;
 
   return bodySoup.findAll('img').map(Image => {
-    var imgTagsStd = getStdImgTags(Image.attrs);
-    imgTagStdLength = Object.keys(imgTagsStd).length;
+    const imgTagsStd = getStdImgTags(Image.attrs);
+    const imgTagStdLength = Object.keys(imgTagsStd).length;
     if (imgTagStdLength > 0) {
       checkCustomKeys(Image.attrs, imgTagsStd, imgTagStdLength);
     }
