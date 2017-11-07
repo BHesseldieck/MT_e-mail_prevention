@@ -112,7 +112,7 @@ function destructStyling(imgTags, imgTagsStd) {
 
 function keyCheck(mailImgArr) {
   const reqKeyObj = {
-    'mailCounter': 47,
+    'mailCounter': 1,
     'align': 0,
     'alt': '',
     'avgLinkSimilarity': 0.78452,
@@ -125,7 +125,7 @@ function keyCheck(mailImgArr) {
     'id': '',
     'maxLinkSimilarity': 0.91892,
     'minLinkSimilarity': 0.40964,
-    'src': 'http://newsletter.stern.de/imgproxy/img/679805017/newsletter-icon-135x135.png',
+    'src': 'http://hu-berlin.de/imgproxy/img/679805017/newsletter-icon-135x135.png',
     'style_background.color': 0,
     'style_color': 0,
     'style_display': 1,
@@ -145,25 +145,25 @@ function keyCheck(mailImgArr) {
     'date': '2017-01-19 13:00:40',
     'delivered.to': 'michael.mayer1001@gmail.com',
     'errors.to': '',
-    'from': 'stern Lifestyle <lifestyle@newsletter.stern.de>',
+    'from': 'hu-berlin Lifestyle <lifestyle@newsletter.hu-berlin.de>',
     'list.help': '<mailto:complaint@intl.teradatadmc.com>',
-    'list.id': '<2100066605.newsletter.stern.de>',
+    'list.id': '<2100066605.newsletter.hu-berlin.de>',
     'list.owner': '',
     'list.post': '',
-    'list.unsubscribe': '<http://newsletter.stern.de/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=2100066605&uid=21139491760&mid=2102001314&siglistunsub=BKPOMADBHEIEDOJF&errorPage=/public/list_unsubscribe.jsp>, <mailto:listunsubscribe-2100066605-2102001314-21139491760@newsletter.stern.de>',
-    'message.id': '<pcs6ku.iy4dy0oyw85qz9sal@newsletter.stern.de>',
+    'list.unsubscribe': '<http://newsletter.hu-berlin.de/public/list_unsubscribe.jsp?action=listUnsubscribe&gid=2100066605&uid=21139491760&mid=2102001314&siglistunsub=BKPOMADBHEIEDOJF&errorPage=/public/list_unsubscribe.jsp>, <mailto:listunsubscribe-2100066605-2102001314-21139491760@newsletter.hu-berlin.de>',
+    'message.id': '<pcs6ku.iy4dy0oyw85qz9sal@newsletter.hu-berlin.de>',
     'received': 'from app05.muc.ec-messenger.com (app05.muc.domeus.com [172.16.8.35])\n\tby mta025.muc.domeus.com (READY) with ESMTP id 114E012002E04\n\tfor <michael.mayer1001@gmail.com>; Thu, 19 Jan 2017 14:00:40 +0100 (CET)',
-    'received.spf': 'pass (google.com: domain of g-21139491760-21169-2102001314-1484830840067@bounce.newsletter.stern.de designates 195.140.185.136 as permitted sender) client-ip=195.140.185.136;',
-    'reply.to': '"stern.de - Lifestyle Newsletter" <newsletter@stern.de>',
-    'return.path': '<g-21139491760-21169-2102001314-1484830840067@bounce.newsletter.stern.de>',
+    'received.spf': 'pass (google.com: domain of g-21139491760-21169-2102001314-1484830840067@bounce.newsletter.hu-berlin.de designates 195.140.185.136 as permitted sender) client-ip=195.140.185.136;',
+    'reply.to': '"hu-berlin.de - Lifestyle Newsletter" <newsletter@hu-berlin.de>',
+    'return.path': '<g-21139491760-21169-2102001314-1484830840067@bounce.newsletter.hu-berlin.de>',
     'sender': '',
     'subject': 'Aktuelle News aus dem Lifestyle-Ressort',
-    'from_mail': 'lifestyle@newsletter.stern.de',
-    'from_name': 'stern Lifestyle',
+    'from_mail': 'lifestyle@newsletter.hu-berlin.de',
+    'from_name': 'hu-berlin Lifestyle',
     'date_stamp': '20170119',
     'mailID': '20170119-Aktuelle News aus dem Lifestyle-Ressort-1',
-    'imgPos': 47,
-    'imgCount': 48,
+    'imgPos': 1,
+    'imgCount': 1,
     'relImagePosition': 0.97917,
     'imagesToBorder': 1,
     'linkLength': 77,
@@ -207,9 +207,9 @@ function keyCheck(mailImgArr) {
     'punctCharCount': 3,
     'nrOfWords': 2,
     'sharedFileformat': 0.60417,
-    'domain': '//newsletter.stern.de/',
+    'domain': '//hu-berlin.de/',
     'domainLength': 22,
-    'senderDomain': 'stern',
+    'senderDomain': 'hu-berlin',
     'matchSendernameImage': 1,
     'imageSenderSameDomain': 1,
     'sharedDomain': 0.20833,
@@ -229,8 +229,8 @@ function keyCheck(mailImgArr) {
     'areaClassarea01px': 0,
     'areaClassarea01to10px': 0,
     'areaClassarea100pxPlus': 0,
-    'areaClassarea10pxto100px': 0,
-    'areaClassareaMissing': 1,
+    'areaClassarea10pxto100px': 1,
+    'areaClassareaMissing': 0,
     'fileFormatjpg': 0,
     'fileFormatnone': 0,
     'fileFormatother': 0,
@@ -241,7 +241,7 @@ function keyCheck(mailImgArr) {
     return Object.assign({}, reqKeyObj, img);
   });
 
-  if (keyCheckedMailImgArr.length === 1) {
+  if (keyCheckedMailImgArr.length > 0) {
     keyCheckedMailImgArr.push(reqKeyObj);
   }
   return keyCheckedMailImgArr;
