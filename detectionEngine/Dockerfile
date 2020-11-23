@@ -1,10 +1,11 @@
-FROM r-base:3.3.1
+FROM r-base:3.6.3
 MAINTAINER Ben Hesseldieck <b.hesseldieck@gmail.com>
 
 RUN apt-get update \
   && apt-get install -y --no-install-recommends \
     libcurl4-openssl-dev \
-    libssl-dev
+    libssl-dev \
+    libxml2-dev
 
 # jug instance configuration
 ENV JUG_HOST 0.0.0.0
